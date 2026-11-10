@@ -1,0 +1,385 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Orman Nöbetçisi ON-1 — Güneş Enerjili Erken Yangın Algılama</title>
+<meta name="description" content="Orman Nöbetçisi ON-1: ağaca asılan, güneş enerjili, termal kamera + gaz sensörlü erken orman yangını dedektörü. SMS ile konumlu uyarı, yerinde ışıklı ve sesli alarm.">
+<meta property="og:title" content="Orman Nöbetçisi ON-1">
+<meta property="og:description" content="Ormanın gece gündüz uyanık gözü. Güneş enerjili erken yangın algılama ve SMS uyarı sistemi.">
+<meta property="og:image" content="assets/img/on1_hero.jpg">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Ccircle cx='20' cy='20' r='19' fill='%231f4d3a'/%3E%3Cpath d='M20 7l8 12h-4l6 9H10l6-9h-4z' fill='%23f4f1ea'/%3E%3Ccircle cx='20' cy='21' r='3' fill='%23e4572e'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100..125,500..800&family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/site.css">
+<script type="importmap">
+{ "imports": {
+  "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+  "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+} }
+</script>
+<script src="assets/js/on1-3d.js" defer></script>
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap">
+    <a class="brand" href="#top" aria-label="Orman Nöbetçisi ana sayfa">
+      <svg width="34" height="34" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="19" fill="#1f4d3a"/><path d="M20 7l8 12h-4l6 9H10l6-9h-4z" fill="#f4f1ea"/><circle cx="20" cy="21" r="3" fill="#e4572e"/></svg>
+      <span>Orman Nöbetçisi <small>ON-1</small></span>
+    </a>
+    <ul>
+      <li><a href="#nasil">Nasıl çalışır</a></li>
+      <li><a href="#model">3B model</a></li>
+      <li><a href="#ozellikler">Özellikler</a></li>
+      <li><a href="#teknik">Teknik</a></li>
+      <li><a href="#kurulum">Kurulum</a></li>
+      <li><a href="#indir">Dokümanlar</a></li>
+    </ul>
+    <a class="btn btn-primary" href="#iletisim">Teklif isteyin</a>
+  </div>
+</header>
+
+<main id="top">
+<!-- HERO -->
+<section class="hero">
+  <div class="wrap">
+    <div class="hero-grid">
+      <div>
+        <span class="eyebrow">Erken orman yangını algılama</span>
+        <h1 style="margin-top:22px">Yangını <span class="accent">büyümeden</span> haber verir.</h1>
+        <p class="lead">Orman Nöbetçisi ON-1 ağaca asılan, güneşle çalışan bir algılama düğümüdür. Termal kamera, duman/gaz ve sıcaklık-nem verilerini birlikte değerlendirir; yangını doğruladığı anda 5 numaraya konum bağlantılı SMS gönderir ve bulunduğu yerde kırmızı ışık ve siren ile alarm verir.</p>
+        <div class="hero-cta">
+          <a class="btn btn-primary" href="#iletisim">Pilot kurulum talep edin</a>
+          <a class="btn btn-ghost" href="downloads/Orman_Nobetcisi_ON-1_Brosur.pdf">Broşürü indirin (PDF)</a>
+        </div>
+      </div>
+      <div class="hero-figure">
+        <img src="assets/img/on1_hero.jpg" alt="Ağaç gövdesine paslanmaz kelepçeyle monte edilmiş beyaz teneke gövdeli Orman Nöbetçisi ON-1; üstünde eğimli güneş paneli ve yanında LTE anteni" width="1600" height="1200">
+        <div class="hero-chip"><span class="pulse"></span>ON1-0007 · Kaz Dağı K3 · Normal · Pil %86</div>
+      </div>
+    </div>
+    <div class="stats">
+      <div class="stat"><b>64</b><span>noktalı termal görüş (8×8, 60°)</span></div>
+      <div class="stat"><b>&lt; 60 sn</b><span>algılamadan SMS'e tipik süre</span></div>
+      <div class="stat"><b>60+ gün</b><span>güneş olmadan çalışma</span></div>
+      <div class="stat"><b>5</b><span>numaraya konumlu SMS + arama</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- NASIL -->
+<section class="how" id="nasil">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="eyebrow">Nasıl çalışır</span>
+      <h2>Dört adımda algıla, doğrula, uyar.</h2>
+      <p class="lead">Tek sensöre güvenen dedektörler ya geç kalır ya da yanlış alarm üretir. ON-1 üç farklı fiziksel belirtiyi aynı anda puanlar ve alarmı ancak belirtiler birbirini doğruladığında verir.</p>
+    </div>
+    <div class="steps">
+      <div class="step">
+        <svg class="ico" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#ff8a65" stroke-width="1.8"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M3 15h18M9 3v18M15 3v18"/></svg>
+        <h3>Algıla</h3>
+        <p>AMG8833 termal dizisi 64 noktada sıcak bölge arar, BME680 dumanla düşen gaz direncini ve ani sıcaklık/nem değişimini izler.</p>
+      </div>
+      <div class="step">
+        <svg class="ico" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#ff8a65" stroke-width="1.8"><path d="M4 12l5 5L20 6"/></svg>
+        <h3>Doğrula</h3>
+        <p>Skor eşiği aşılınca cihaz 30 saniye boyunca 5 saniyede bir yeniden ölçer. Belirti sürmüyorsa alarm vermez.</p>
+      </div>
+      <div class="step">
+        <svg class="ico" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#ff8a65" stroke-width="1.8"><path d="M4 5h16v11H8l-4 4z"/></svg>
+        <h3>Uyar</h3>
+        <p>LTE Cat-1 modem 5 kayıtlı numaraya Google Haritalar bağlantılı SMS atar, isterseniz ilk numarayı sesli olarak da arar.</p>
+      </div>
+      <div class="step">
+        <svg class="ico" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#ff8a65" stroke-width="1.8"><path d="M12 3v3M5 6l2 2M19 6l-2 2M6 14a6 6 0 0 1 12 0v4H6z"/><path d="M4 21h16"/></svg>
+        <h3>Yerinde alarm</h3>
+        <p>6 × 1 W kırmızı strob ve 105 dB siren yakındaki ziyaretçileri ve ekipleri uyarır, cihazı gece uzaktan bulunur kılar.</p>
+      </div>
+    </div>
+    <div class="timeline" aria-label="Alarm zaman çizelgesi">
+      <span class="t">0 sn · belirti</span><span class="bar"></span>
+      <span class="t">5 sn · ön alarm</span><span class="bar"></span>
+      <span class="t">~35 sn · doğrulandı</span><span class="bar"></span>
+      <span class="t hot">&lt; 60 sn · SMS + ışık + siren</span>
+    </div>
+  </div>
+</section>
+
+<!-- 3D -->
+<section class="viewer-sec" id="model">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="eyebrow">3B model</span>
+      <h2>Tenekenin içinde ne var?</h2>
+      <p class="lead">Modeli sürükleyerek çevirin. "Patlatılmış" görünüm iç donanımı, "Gece alarmı" görünümü yangın anındaki strob ışığını gösterir.</p>
+    </div>
+    <div class="viewer-wrap" id="viewerWrap" data-bg="day">
+      <div class="viewer-fallback" id="viewerFallback"><img src="assets/img/on1_hero.jpg" alt="ON-1 ürün görseli"></div>
+      <div id="viewer"></div>
+      <span class="viewer-hint">sürükle · yakınlaştır</span>
+      <div class="viewer-ui" role="group" aria-label="Görünüm seçimi">
+        <button class="on" data-mode="assembled">Montajlı</button>
+        <button data-mode="exploded">Patlatılmış</button>
+        <button data-mode="alarm">Gece alarmı</button>
+      </div>
+    </div>
+    <div class="gallery">
+      <figure><img src="assets/img/on1_exploded.jpg" alt="ON-1 patlatılmış görünüm: panel, ana kart, modem, batarya, sensörler, siren ve LED strob" loading="lazy"><figcaption>Patlatılmış görünüm: modüler iç şasi</figcaption></figure>
+      <figure><img src="assets/img/on1_alarm.jpg" alt="Gece alarm anında kırmızı strob ışığı ağaç gövdesini aydınlatan ON-1" loading="lazy"><figcaption>Gece alarmı: 6 × 1 W kırmızı strob</figcaption></figure>
+      <figure><img src="assets/img/on1_front.jpg" alt="ON-1 önden görünüm: termal pencere, siren ve etiket" loading="lazy"><figcaption>Ön yüz: termal pencere, siren, test noktası</figcaption></figure>
+    </div>
+  </div>
+</section>
+
+<!-- ÖZELLİKLER -->
+<section id="ozellikler">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="eyebrow">Özellikler</span>
+      <h2>Ormanda yıllarca kendi başına çalışmak için tasarlandı.</h2>
+    </div>
+    <div class="features">
+      <div class="feat"><span class="k">Algılama</span><h3>Üç sensörlü füzyon</h3><p>Termal sıcak nokta, duman/VOC ve ortam sıcaklık-nem değişimi tek bir alarm skorunda birleşir. Hassasiyet SMS ile 3 kademede ayarlanır.</p></div>
+      <div class="feat"><span class="k">Risk</span><h3>Yangın riski farkındalığı</h3><p>Angström indeksiyle hava sıcak ve kuru olduğunda ölçüm aralığı 60 sn'den 20 sn'ye iner; risk seviyesi günlük raporda bildirilir.</p></div>
+      <div class="feat"><span class="k">Haberleşme</span><h3>LTE Cat-1 + GSM yedek</h3><p>SIMCom A7670E modem ve gövde dışındaki 3 dBi anten. Teneke gövde sinyali kesmesin diye anten dışarıda.</p></div>
+      <div class="feat"><span class="k">Enerji</span><h3>Güneşle sınırsız</h3><p>6 V 3 W panel, MPPT şarj ve 7000 mAh batarya. Ortalama tüketim yaklaşık 2,3 mA; panel günlük ihtiyacın 10 katını üretir.</p></div>
+      <div class="feat"><span class="k">Isı</span><h3>Panel aynı zamanda güneşlik</h3><p>Panel ile kapak arasındaki 15 mm hava boşluğu, beyaz ısı yansıtıcı boya ve iç köpük kaplama bataryayı yaz sıcağından korur.</p></div>
+      <div class="feat"><span class="k">Güvenlik</span><h3>Kurcalama ve hırsızlık uyarısı</h3><p>Titreşim/eğim anahtarı ve kapak sensörü cihaz sökülmeye çalışılırsa SMS atar. Komutlar PIN ve numara listesiyle korunur.</p></div>
+      <div class="feat"><span class="k">Bakım</span><h3>Kendi kendini izler</h3><p>Günlük durum SMS'i (pil, güneş, sinyal, risk). Düşük pil, sensör ve modem arızalarında otomatik kurtarma ve uyarı.</p></div>
+      <div class="feat"><span class="k">Kurulum</span><h3>Açmadan test</h3><p>Etiketteki noktaya mıknatıs tutunca cihaz kurulum moduna geçer, ışık-siren testini yapar ve test SMS'i gönderir.</p></div>
+      <div class="feat"><span class="k">Saha</span><h3>Ağaca zarar vermez</h3><p>Paslanmaz ayarlı kelepçe (Ø15–60 cm) ve EPDM pedler. Çivi ya da vida gerekmez; dilerseniz M6 mapadan halatla asılır.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- SMS -->
+<section class="sms-sec" id="sms">
+  <div class="wrap sms-grid">
+    <div>
+      <span class="eyebrow">SMS ile yönetim</span>
+      <h2 style="margin-top:18px">Uygulama yok, sunucu yok. Her telefonda çalışır.</h2>
+      <p class="lead" style="margin-top:18px">Alarm mesajı tek SMS'e sığar ve haritada açılan bir konum bağlantısı içerir. Cihazın tüm ayarları kısa SMS komutlarıyla yapılır.</p>
+      <table class="cmd-table">
+        <tr><td>1234 EKLE 2 +90532…</td><td>2. sıraya uyarı numarası ekler (1. sıra yönetici)</td></tr>
+        <tr><td>1234 KONUM 39.70,26.85</td><td>Kurulum koordinatını kaydeder</td></tr>
+        <tr><td>1234 DURUM</td><td>Sensörler, pil, güneş, sinyal ve risk raporu</td></tr>
+        <tr><td>1234 HASSAS 3</td><td>Hassasiyet: 1 düşük · 2 normal · 3 yüksek</td></tr>
+        <tr><td>1234 SESSIZ 30</td><td>Yerel alarmı 30 dk susturur, SMS'ler sürer</td></tr>
+        <tr><td>1234 TEST</td><td>Işık + siren testi ve tüm numaralara test SMS'i</td></tr>
+      </table>
+    </div>
+    <div class="phone" aria-label="Örnek SMS ekranı">
+      <div class="phone-screen">
+        <div class="phone-top"><div class="av">ON1</div><b>Orman Nöbetçisi · Kaz Dağı K3</b><small>SMS</small></div>
+        <div class="msgs">
+          <div class="msg-time">Bugün 08:00</div>
+          <div class="msg">DURUM ON1-0007 KazDagi-K3 Normal. Pil:%86 4.02V Gunes:5.6V Sinyal:-79dBm Hava:31C/%22 Risk:YUKSEK</div>
+          <div class="msg-time">14:37</div>
+          <div class="msg alarm"><b>YANGIN ALARMI!</b> ON1-0007 KazDagi-K3 <a href="https://maps.google.com/?q=39.70512,26.85211">maps.google.com/?q=39.70512,26.85211</a> Termal:78C Gaz:%38 Hava:41C/%12 Pil:%86 Skor:6</div>
+          <div class="msg me">1234 SESSIZ 30</div>
+          <div class="msg">TAMAM. Yerel alarm 30 dk susturuldu. SMS uyarilari devam ediyor.</div>
+          <div class="msg-time">15:21</div>
+          <div class="msg">YANGIN BELIRTISI SONA ERDI. ON1-0007 KazDagi-K3 Termal:29C Gaz:%91</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- GÜÇ -->
+<section class="power" id="enerji">
+  <div class="wrap power-grid">
+    <div>
+      <span class="eyebrow">Enerji bütçesi</span>
+      <h2 style="margin-top:18px">Gölgeli ormanda bile on kat enerji fazlası.</h2>
+      <p class="lead" style="margin-top:18px">Mikrodenetleyici her 8 saniyede bir uyanır, modem ağda uyku modunda bekler ve yalnızca SMS geldiğinde ya da alarm anında tam güçle çalışır.</p>
+      <div class="bars" style="margin-top:36px">
+        <div class="bar-row"><div class="lbl"><span>Günlük tüketim</span><b>0,21 Wh</b></div><div class="bar-track"><div class="bar-fill use" style="width:9.3%"></div></div></div>
+        <div class="bar-row"><div class="lbl"><span>Panel üretimi (gölgeli orman, 1 tepe güneş saati)</span><b>2,25 Wh</b></div><div class="bar-track"><div class="bar-fill" style="width:100%"></div></div></div>
+      </div>
+    </div>
+    <div class="power-kpis">
+      <div class="kpi"><b>≈ 2,3 mA</b><span>ortalama akım çekişi</span></div>
+      <div class="kpi"><b>7000 mAh</b><span>2 × 18650 Li-ion, korumalı</span></div>
+      <div class="kpi"><b>≈ 95 gün</b><span>hesaplanan güneşsiz çalışma (hedef ≥ 60)</span></div>
+      <div class="kpi"><b>≈ 15 saat</b><span>tam bataryayla kesintisiz alarm</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- TEKNİK -->
+<section id="teknik">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="eyebrow">Teknik özellikler</span>
+      <h2>Ölçülebilir, onarılabilir, belgelenmiş.</h2>
+    </div>
+    <div class="spec-grid">
+      <dl>
+        <div class="spec"><dt>Mikrodenetleyici</dt><dd>ATmega328P, 8 MHz, 3,3 V (Arduino uyumlu)</dd></div>
+        <div class="spec"><dt>Termal sensör</dt><dd>Panasonic AMG8833, 8×8, 60° FOV, 0–80 °C</dd></div>
+        <div class="spec"><dt>Gaz / ortam</dt><dd>Bosch BME680: VOC, sıcaklık, nem, basınç</dd></div>
+        <div class="spec"><dt>Algılama menzili</dt><dd>1 m² açık alev için tipik 25–30 m (açık görüş)*</dd></div>
+        <div class="spec"><dt>Haberleşme</dt><dd>LTE Cat-1 (B1/B3/B5/B7/B8/B20) + GSM 900/1800</dd></div>
+        <div class="spec"><dt>Uyarı</dt><dd>SMS (5 numara), sesli arama, günlük durum raporu</dd></div>
+        <div class="spec"><dt>Yerel alarm</dt><dd>6 × 1 W kırmızı strob, 105 dB @30 cm siren</dd></div>
+      </dl>
+      <dl>
+        <div class="spec"><dt>Güneş paneli</dt><dd>6 V 3 W monokristal ETFE, 30° eğim</dd></div>
+        <div class="spec"><dt>Batarya</dt><dd>2 × 18650 Li-ion 7000 mAh, NTC'li MPPT şarj</dd></div>
+        <div class="spec"><dt>Çalışma sıcaklığı</dt><dd>−20 … +60 °C (şarj 0 … 45 °C)</dd></div>
+        <div class="spec"><dt>Gövde</dt><dd>Kalaylı sac teneke Ø153 × 178 mm, beyaz RAL 9010, IP54</dd></div>
+        <div class="spec"><dt>Ağırlık</dt><dd>≈ 1,3 kg (panel ve braket dahil)</dd></div>
+        <div class="spec"><dt>Montaj</dt><dd>3–5 m yükseklik, paslanmaz kelepçe veya M6 mapa</dd></div>
+        <div class="spec"><dt>Önerilen aralık</dt><dd>Yüksek riskli hatlarda 50–100 m</dd></div>
+      </dl>
+    </div>
+    <p style="margin-top:18px;font-size:13.5px;color:var(--ink-3)">* Menzil, AMG8833 piksel geometrisinden hesaplanmıştır; bitki örtüsü ve arazi yapısına göre değişir, pilot sahada doğrulanır.</p>
+    <div class="block-diagram">
+      <img src="assets/img/block_diagram.svg" alt="ON-1 sistem blok diyagramı: güneş paneli, MPPT şarj, batarya, 3,3 V regülatör, mikrodenetleyici, modem, sensörler ve alarm çıkışları" loading="lazy">
+    </div>
+  </div>
+</section>
+
+<!-- KURULUM -->
+<section id="kurulum" style="background:var(--paper-2)">
+  <div class="wrap install-grid">
+    <div>
+      <span class="eyebrow">Kurulum</span>
+      <h2 style="margin-top:18px;margin-bottom:28px">Bir ekip, on beş dakika.</h2>
+      <img src="assets/img/on1_side.jpg" alt="ON-1'in yandan görünümü: paslanmaz braket, ağaç kelepçeleri, panel braketi ve kablo rakoru" loading="lazy">
+    </div>
+    <ol class="ol">
+      <li><div><b>SIM kartı takın, kapağı kapatın</b><span>Nano-SIM'i tutucuya yerleştirin; PIN kodu kapalı bir M2M hattı önerilir. EPDM conta ve 3 klipsle kapağı kilitleyin.</span></div></li>
+      <li><div><b>Yeri seçin</b><span>Yerden 3–5 m yükseklik, termal pencere riskli alana (yol, piknik alanı, yamaç altı) baksın, panel güneye dönsün.</span></div></li>
+      <li><div><b>Kelepçeyle bağlayın</b><span>Paslanmaz bandı gövdeye sarın, EPDM pedleri ağaca dayayın ve gerdirin. Ağaç büyüdükçe kelepçe yılda bir gevşetilir.</span></div></li>
+      <li><div><b>Mıknatısla uyandırın</b><span>Etiketteki “N” noktasına mıknatısı 3 sn tutun. Yeşil LED hızlı yanıp söner, cihaz ağa bağlanır.</span></div></li>
+      <li><div><b>SMS ile tanıtın</b><span><code>1234 EKLE 1 +90…</code>, <code>1234 KONUM enlem,boylam</code>, <code>1234 AD KazDagi-K3</code> ve <code>1234 PIN yeni</code> gönderin.</span></div></li>
+      <li><div><b>Test edin</b><span><code>1234 TEST</code> ile ışık, siren ve tüm numaralara SMS iletimini doğrulayın. Gaz sensörü ilk 30 dk temiz havada kendini kalibre eder.</span></div></li>
+    </ol>
+  </div>
+</section>
+
+<!-- İNDİR -->
+<section id="indir">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="eyebrow">Dokümanlar</span>
+      <h2>Tüm tasarım dosyaları açık.</h2>
+      <p class="lead">Broşür, teknik tasarım dokümanı, devre şeması, malzeme listesi ve kaynak kodu.</p>
+    </div>
+    <div class="dl-grid">
+      <a class="dl" href="downloads/Orman_Nobetcisi_ON-1_Brosur.pdf"><span class="ext pdf">PDF</span><span><b>Ürün broşürü</b><small>Tanıtım, özellikler, kurulum</small></span></a>
+      <a class="dl" href="downloads/Orman_Nobetcisi_ON-1_Teknik_Dokuman.pdf"><span class="ext pdf">PDF</span><span><b>Teknik tasarım dokümanı</b><small>Mimari, güç bütçesi, algoritma, test</small></span></a>
+      <a class="dl" href="downloads/ON1-MB_RevA_schematic.pdf"><span class="ext pdf">PDF</span><span><b>Devre şeması</b><small>ON1-MB Rev A, A3</small></span></a>
+      <a class="dl" href="downloads/BOM.csv"><span class="ext">CSV</span><span><b>Malzeme listesi (BOM)</b><small>Elektronik + mekanik, fiyatlı</small></span></a>
+      <a class="dl" href="downloads/ON1_firmware.zip"><span class="ext">ZIP</span><span><b>Firmware</b><small>Arduino kaynak kodu + kılavuz</small></span></a>
+      <a class="dl" href="downloads/ON1_mechanical.pdf"><span class="ext pdf">PDF</span><span><b>Mekanik çizim</b><small>Ölçülü görünüşler + delik şablonu</small></span></a>
+      <a class="dl" href="downloads/ON1-DIY_bakir_toner_transfer.pdf"><span class="ext pdf">PDF</span><span><b>Bakır plaka baskısı</b><small>ON1-DIY, 1:1 toner transfer</small></span></a>
+      <a class="dl" href="downloads/ON1-DIY_bakir_fotorezist_film.pdf"><span class="ext pdf">PDF</span><span><b>Fotorezist film</b><small>ON1-DIY, 1:1 pozlama filmi</small></span></a>
+      <a class="dl" href="downloads/ON1-DIY_yerlesim_ust.pdf"><span class="ext pdf">PDF</span><span><b>Parça yerleşimi + delik</b><small>ON1-DIY montaj çizimi</small></span></a>
+      <a class="dl" href="downloads/ON1-DIY_gerber.zip"><span class="ext">ZIP</span><span><b>Gerber + Excellon</b><small>CNC freze / PCB üreticisi için</small></span></a>
+      <a class="dl" href="downloads/ON1-DIY_delik_haritasi.pdf"><span class="ext pdf">PDF</span><span><b>Delik haritası</b><small>Matkap ucu tablosu</small></span></a>
+    </div>
+  </div>
+</section>
+
+<!-- SSS -->
+<section class="faq" style="padding-top:0">
+  <div class="wrap">
+    <div class="sec-head"><span class="eyebrow">Sık sorulanlar</span><h2>Sorular</h2></div>
+    <details><summary>Sıcak bir taş ya da güneşte kalan bir araç alarm verdirir mi?</summary><p>Tek başına hayır. Termal skor tek başına alarm eşiğine ulaşmaz; gaz direncindeki düşüş veya ani ortam sıcaklığı değişimi gibi ikinci bir belirti gerekir. Yalnızca 70 °C üzerindeki sıcak noktalar ve hızla büyüyen sıcak alanlar daha yüksek puan alır.</p></details>
+    <details><summary>Neden teneke gövde? Sinyal sorunu olmaz mı?</summary><p>Metal gövde hayvanlara, dolu ve UV'ye karşı dayanıklıdır, ucuzdur ve yerelde üretilebilir. Metal Faraday kafesi gibi davrandığı için anten gövdenin dışına SMA bağlantıyla monte edilir.</p></details>
+    <details><summary>Kapsama alanı yoksa ne olur?</summary><p>Modem LTE yoksa GSM'e düşer. Hiç şebeke olmayan alanlarda cihaz yine ışık ve siren ile yerel alarm verir; LoRa ağ geçidi seçeneği yol haritasındadır.</p></details>
+    <details><summary>Bakım ne sıklıkla gerekir?</summary><p>Yılda bir kez: panel temizliği, kelepçe gerginliği, silika jel değişimi ve <code>TEST</code> komutu. Bataryanın 4–5 yılda bir değişmesi öngörülür.</p></details>
+    <details><summary>Türkçe karakterler SMS'te neden yok?</summary><p>Mesajlar GSM 7-bit alfabesinde tek SMS'e (160 karakter) sığsın diye ç, ğ, ı, ö, ş, ü harfleri Latin karşılıklarıyla yazılır. Böylece her operatörde ve her telefonda aynı görünür.</p></details>
+  </div>
+</section>
+
+<!-- İLETİŞİM -->
+<section class="contact" id="iletisim">
+  <div class="wrap contact-grid">
+    <div>
+      <span class="eyebrow">İletişim</span>
+      <h2 style="margin-top:18px">Pilot sahanızı birlikte planlayalım.</h2>
+      <p class="lead" style="margin-top:18px">Orman işletmeleri, belediyeler, kamp ve piknik alanı işletmecileri ile orman içi tesisler için keşif, yerleşim planı ve pilot kurulum sunuyoruz.</p>
+    </div>
+    <form id="contactForm">
+      <div class="row2">
+        <label>Ad soyad<input name="ad" required autocomplete="name"></label>
+        <label>Kurum<input name="kurum" autocomplete="organization"></label>
+      </div>
+      <div class="row2">
+        <label>E-posta<input name="eposta" type="email" required autocomplete="email"></label>
+        <label>Telefon<input name="tel" type="tel" autocomplete="tel"></label>
+      </div>
+      <label>Tahmini cihaz adedi
+        <select name="adet"><option>1–10 (pilot)</option><option>10–50</option><option>50–200</option><option>200+</option></select>
+      </label>
+      <label>Saha ve ihtiyaç<textarea name="mesaj" rows="4"></textarea></label>
+      <button class="btn btn-primary" type="submit" style="justify-self:start">Gönder</button>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>© 2026 Orman Nöbetçisi ON-1 · Rev A</span>
+    <span>Ormanın gece gündüz uyanık gözü.</span>
+  </div>
+</footer>
+
+<script>
+  // İletişim formu: sunucusuz kurulumda e-posta istemcisini açar. Alıcı adresini kendi adresinizle değiştirin.
+  const CONTACT_TO = 'info@firmaniz.com.tr';
+  document.getElementById('contactForm').addEventListener('submit', (e) => {
+    e.preventDefault();
+    const f = new FormData(e.target);
+    const body = [...f.entries()].map(([k, v]) => k + ': ' + v).join('\n');
+    location.href = 'mailto:' + CONTACT_TO + '?subject=' + encodeURIComponent('ON-1 teklif talebi') + '&body=' + encodeURIComponent(body);
+  });
+</script>
+<script type="module">
+  import * as THREE from 'three';
+  import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+  import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+  import { EffectComposer } from 'three/addons/postprocessing/EffectComposer.js';
+  import { RenderPass } from 'three/addons/postprocessing/RenderPass.js';
+  import { UnrealBloomPass } from 'three/addons/postprocessing/UnrealBloomPass.js';
+  import { OutputPass } from 'three/addons/postprocessing/OutputPass.js';
+  import { CSS2DRenderer, CSS2DObject } from 'three/addons/renderers/CSS2DRenderer.js';
+
+  const wrap = document.getElementById('viewerWrap');
+  const el = document.getElementById('viewer');
+  let viewer = null;
+  function init() {
+    if (viewer || !window.ON1) return;
+    try {
+      viewer = window.ON1.ON1Viewer(THREE, { OrbitControls, RoomEnvironment, EffectComposer, RenderPass, UnrealBloomPass, OutputPass, CSS2DRenderer, CSS2DObject },
+        el, { view: 'hero', interactive: true, autoRotate: true });
+      document.getElementById('viewerFallback').style.display = 'none';
+      viewer.camera.position.set(66, 30, 88); viewer.controls.target.set(-1, 16, -6);
+      new MutationObserver(() => { wrap.dataset.bg = el.dataset.bg; }).observe(el, { attributes: true, attributeFilter: ['data-bg'] });
+      wrap.dataset.bg = el.dataset.bg;
+    } catch (err) { console.warn('3B görüntüleyici başlatılamadı:', err); }
+  }
+  new IntersectionObserver((ents, obs) => { if (ents.some((e) => e.isIntersecting)) { init(); obs.disconnect(); } }, { rootMargin: '300px' }).observe(wrap);
+  wrap.querySelectorAll('.viewer-ui button').forEach((b) => b.addEventListener('click', () => {
+    init();
+    wrap.querySelectorAll('.viewer-ui button').forEach((x) => x.classList.toggle('on', x === b));
+    if (viewer) {
+      viewer.setMode(b.dataset.mode);
+      if (viewer.controls) {
+        viewer.controls.autoRotate = b.dataset.mode !== 'exploded';
+        if (b.dataset.mode === 'exploded') { viewer.controls.target.set(0, 24, 0); viewer.camera.position.set(64, 34, 104); }
+        else { viewer.controls.target.set(-1, 16, -6); viewer.camera.position.set(66, 30, 88); }
+      }
+    }
+  }));
+</script>
+</body>
+</html>

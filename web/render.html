@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ON-1 Render</title>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&display=swap" rel="stylesheet">
+<style>
+  html, body { margin: 0; height: 100%; overflow: hidden; font-family: Archivo, Arial, sans-serif; }
+  #stage { position: absolute; inset: 0; }
+  #stage[data-bg="day"] { background: radial-gradient(120% 90% at 70% 10%, #f3efe4 0%, #dfe7dc 45%, #b9cbbb 100%); }
+  #stage[data-bg="studio"] { background: radial-gradient(110% 90% at 50% 30%, #ffffff 0%, #f1efe9 60%, #e3e0d8 100%); }
+  #stage[data-bg="night"] { background: radial-gradient(90% 70% at 15% 95%, #6b2410 0%, #2a0f0a 30%, #0b0f14 65%, #06080b 100%); }
+  #stage[data-bg="transparent"] { background: transparent; }
+  .on1-label { width: 0; height: 0; position: relative; }
+  .on1-label .in { position: absolute; top: 0; transform: translateY(-50%); white-space: nowrap; }
+  .on1-label.right .in { left: 4px; }
+  .on1-label.left .in { right: 4px; }
+  .on1-label .txt { display: block; background: #1b1f1d; color: #fff; font: 600 21px Archivo, Arial, sans-serif; padding: 8px 14px; border-radius: 6px; border-left: 3px solid #e4572e; }
+  .on1-label.left .txt { border-left: 0; border-right: 3px solid #e4572e; }
+</style>
+<script type="importmap">
+{ "imports": {
+  "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+  "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+} }
+</script>
+<script src="assets/js/on1-3d.js"></script>
+</head>
+<body>
+<div id="stage"></div>
+<script type="module">
+  import * as THREE from 'three';
+  import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+  import { EffectComposer } from 'three/addons/postprocessing/EffectComposer.js';
+  import { RenderPass } from 'three/addons/postprocessing/RenderPass.js';
+  import { UnrealBloomPass } from 'three/addons/postprocessing/UnrealBloomPass.js';
+  import { OutputPass } from 'three/addons/postprocessing/OutputPass.js';
+  import { CSS2DRenderer, CSS2DObject } from 'three/addons/renderers/CSS2DRenderer.js';
+  const q = new URLSearchParams(location.search);
+  await document.fonts.ready;
+  const v = window.ON1.ON1Viewer(THREE, { RoomEnvironment, EffectComposer, RenderPass, UnrealBloomPass, OutputPass, CSS2DRenderer, CSS2DObject },
+    document.getElementById('stage'), { view: q.get('view') || 'hero', still: true, pixelRatio: 1, labels: q.get('labels') !== '0' });
+  if (q.get('bg')) document.getElementById('stage').dataset.bg = q.get('bg');
+  setTimeout(() => { document.title = 'READY'; }, 1500);
+</script>
+</body>
+</html>

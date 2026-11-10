@@ -1,0 +1,502 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297" font-family="Arial, Helvetica, sans-serif"><rect width="420" height="297" fill="#fff"/><rect x="4.0" y="4.0" width="412.0" height="289.0" fill="none" stroke="#000" stroke-width="0.5"/>
+<rect x="8.0" y="8.0" width="404.0" height="281.0" fill="none" stroke="#000" stroke-width="0.30000000000000004"/>
+<text x="33.25" y="6.9" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">1</text>
+<text x="33.25" y="291.9" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">1</text>
+<text x="83.75" y="6.9" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">2</text>
+<text x="83.75" y="291.9" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">2</text>
+<line x1="58.5" y1="4.0" x2="58.5" y2="8.0" stroke="#000" stroke-width="0.2"/>
+<line x1="58.5" y1="289.0" x2="58.5" y2="293.0" stroke="#000" stroke-width="0.2"/>
+<text x="134.25" y="6.9" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">3</text>
+<text x="134.25" y="291.9" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">3</text>
+<line x1="109.0" y1="4.0" x2="109.0" y2="8.0" stroke="#000" stroke-width="0.2"/>
+<line x1="109.0" y1="289.0" x2="109.0" y2="293.0" stroke="#000" stroke-width="0.2"/>
+<text x="184.75" y="6.9" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">4</text>
+<text x="184.75" y="291.9" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">4</text>
+<line x1="159.5" y1="4.0" x2="159.5" y2="8.0" stroke="#000" stroke-width="0.2"/>
+<line x1="159.5" y1="289.0" x2="159.5" y2="293.0" stroke="#000" stroke-width="0.2"/>
+<text x="235.25" y="6.9" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">5</text>
+<text x="235.25" y="291.9" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">5</text>
+<line x1="210.0" y1="4.0" x2="210.0" y2="8.0" stroke="#000" stroke-width="0.2"/>
+<line x1="210.0" y1="289.0" x2="210.0" y2="293.0" stroke="#000" stroke-width="0.2"/>
+<text x="285.75" y="6.9" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">6</text>
+<text x="285.75" y="291.9" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">6</text>
+<line x1="260.5" y1="4.0" x2="260.5" y2="8.0" stroke="#000" stroke-width="0.2"/>
+<line x1="260.5" y1="289.0" x2="260.5" y2="293.0" stroke="#000" stroke-width="0.2"/>
+<text x="336.25" y="6.9" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">7</text>
+<text x="336.25" y="291.9" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">7</text>
+<line x1="311.0" y1="4.0" x2="311.0" y2="8.0" stroke="#000" stroke-width="0.2"/>
+<line x1="311.0" y1="289.0" x2="311.0" y2="293.0" stroke="#000" stroke-width="0.2"/>
+<text x="386.75" y="6.9" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">8</text>
+<text x="386.75" y="291.9" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">8</text>
+<line x1="361.5" y1="4.0" x2="361.5" y2="8.0" stroke="#000" stroke-width="0.2"/>
+<line x1="361.5" y1="289.0" x2="361.5" y2="293.0" stroke="#000" stroke-width="0.2"/>
+<text x="6.0" y="32.31666666666667" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">A</text>
+<text x="414.0" y="32.31666666666667" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">A</text>
+<text x="6.0" y="79.15" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">B</text>
+<text x="414.0" y="79.15" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">B</text>
+<line x1="4.0" y1="54.833333333333336" x2="8.0" y2="54.833333333333336" stroke="#000" stroke-width="0.2"/>
+<line x1="412.0" y1="54.833333333333336" x2="416.0" y2="54.833333333333336" stroke="#000" stroke-width="0.2"/>
+<text x="6.0" y="125.98333333333335" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">C</text>
+<text x="414.0" y="125.98333333333335" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">C</text>
+<line x1="4.0" y1="101.66666666666667" x2="8.0" y2="101.66666666666667" stroke="#000" stroke-width="0.2"/>
+<line x1="412.0" y1="101.66666666666667" x2="416.0" y2="101.66666666666667" stroke="#000" stroke-width="0.2"/>
+<text x="6.0" y="172.8166666666667" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">D</text>
+<text x="414.0" y="172.8166666666667" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">D</text>
+<line x1="4.0" y1="148.5" x2="8.0" y2="148.5" stroke="#000" stroke-width="0.2"/>
+<line x1="412.0" y1="148.5" x2="416.0" y2="148.5" stroke="#000" stroke-width="0.2"/>
+<text x="6.0" y="219.65" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">E</text>
+<text x="414.0" y="219.65" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">E</text>
+<line x1="4.0" y1="195.33333333333334" x2="8.0" y2="195.33333333333334" stroke="#000" stroke-width="0.2"/>
+<line x1="412.0" y1="195.33333333333334" x2="416.0" y2="195.33333333333334" stroke="#000" stroke-width="0.2"/>
+<text x="6.0" y="266.48333333333335" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">F</text>
+<text x="414.0" y="266.48333333333335" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle">F</text>
+<line x1="4.0" y1="242.16666666666669" x2="8.0" y2="242.16666666666669" stroke="#000" stroke-width="0.2"/>
+<line x1="412.0" y1="242.16666666666669" x2="416.0" y2="242.16666666666669" stroke="#000" stroke-width="0.2"/>
+<rect x="290.0" y="260.0" width="122.0" height="29.0" fill="#fff" stroke="#000" stroke-width="0.30000000000000004"/>
+<rect x="290.0" y="260.0" width="33.0" height="29.0" fill="#1F4D3A"/>
+<circle cx="306.5" cy="269.5" r="4.800000000000001" fill="none" stroke="#F4F1EA" stroke-width="0.6000000000000001"/>
+<path d="M306.5,266.2 L309.5,271.8 L303.5,271.8 Z" fill="#E4572E"/>
+<circle cx="306.5" cy="269.8" r="0.9" fill="#F4F1EA"/>
+<text x="306.5" y="279.0" font-family="Arial, Helvetica, sans-serif" font-size="3.4000000000000004" font-weight="bold" fill="#fff" text-anchor="middle">ORMAN</text>
+<text x="306.5" y="282.8" font-family="Arial, Helvetica, sans-serif" font-size="3.4000000000000004" font-weight="bold" fill="#fff" text-anchor="middle">NÖBETÇİSİ</text>
+<text x="306.5" y="286.2" font-family="Arial, Helvetica, sans-serif" font-size="2.2" fill="#F4F1EA" text-anchor="middle">Model ON-1</text>
+<line x1="323.0" y1="271.0" x2="412.0" y2="271.0" stroke="#000" stroke-width="0.2"/>
+<line x1="323.0" y1="277.0" x2="412.0" y2="277.0" stroke="#000" stroke-width="0.2"/>
+<line x1="323.0" y1="283.0" x2="412.0" y2="283.0" stroke="#000" stroke-width="0.2"/>
+<text x="324.4" y="262.4" font-family="Arial, Helvetica, sans-serif" font-size="1.5" fill="#555">Proje / Çizim başlığı</text>
+<text x="324.4" y="266.2" font-family="Arial, Helvetica, sans-serif" font-size="3.3000000000000003" font-weight="bold">Orman Nöbetçisi ON-1 — Gövde montajı</text>
+<text x="324.4" y="269.6" font-family="Arial, Helvetica, sans-serif" font-size="2.3000000000000003">Mekanik resim 1/2: ön, yan ve üst görünüşler</text>
+<line x1="345.25" y1="271.0" x2="345.25" y2="283.0" stroke="#000" stroke-width="0.2"/>
+<line x1="367.5" y1="271.0" x2="367.5" y2="283.0" stroke="#000" stroke-width="0.2"/>
+<line x1="389.75" y1="271.0" x2="389.75" y2="283.0" stroke="#000" stroke-width="0.2"/>
+<text x="324.0" y="273.0" font-family="Arial, Helvetica, sans-serif" font-size="1.5" fill="#555">Doküman no</text>
+<text x="324.0" y="275.8" font-family="Arial, Helvetica, sans-serif" font-size="2.2" font-weight="bold" fill="#000">ON1-MEC-001</text>
+<text x="346.25" y="273.0" font-family="Arial, Helvetica, sans-serif" font-size="1.5" fill="#555">Revizyon</text>
+<text x="346.25" y="275.8" font-family="Arial, Helvetica, sans-serif" font-size="2.6" font-weight="bold" fill="#000">A</text>
+<text x="368.5" y="273.0" font-family="Arial, Helvetica, sans-serif" font-size="1.5" fill="#555">Tarih</text>
+<text x="368.5" y="275.8" font-family="Arial, Helvetica, sans-serif" font-size="2.4000000000000004" font-weight="normal" fill="#000">2026-11-10</text>
+<text x="390.75" y="273.0" font-family="Arial, Helvetica, sans-serif" font-size="1.5" fill="#555">Sayfa</text>
+<text x="390.75" y="275.8" font-family="Arial, Helvetica, sans-serif" font-size="2.6" font-weight="bold" fill="#000">1/2</text>
+<text x="324.0" y="279.0" font-family="Arial, Helvetica, sans-serif" font-size="1.5" fill="#555">Boyut</text>
+<text x="324.0" y="281.8" font-family="Arial, Helvetica, sans-serif" font-size="2.2" font-weight="normal" fill="#000">A3 yatay</text>
+<text x="346.25" y="279.0" font-family="Arial, Helvetica, sans-serif" font-size="1.5" fill="#555">Ölçek</text>
+<text x="346.25" y="281.8" font-family="Arial, Helvetica, sans-serif" font-size="2.2" font-weight="normal" fill="#000">1:2</text>
+<text x="368.5" y="279.0" font-family="Arial, Helvetica, sans-serif" font-size="1.5" fill="#555">Çizen</text>
+<text x="368.5" y="281.8" font-family="Arial, Helvetica, sans-serif" font-size="1.9000000000000001" font-weight="normal" fill="#000">Algosense Danışmanlık</text>
+<text x="390.75" y="279.0" font-family="Arial, Helvetica, sans-serif" font-size="1.5" fill="#555">Onay</text>
+<text x="390.75" y="281.8" font-family="Arial, Helvetica, sans-serif" font-size="2.2" font-weight="normal" fill="#000">—</text>
+<text x="324.4" y="286.8" font-family="Arial, Helvetica, sans-serif" font-size="1.7000000000000002" fill="#333">Tek doğru kaynak: SPEC.md Rev A • Bu çizim programla üretilmiştir (hardware/tools) — elle düzenlemeyin.</text>
+<path d="M39.75,129.00 h76.50 v83.00 h-76.50 Z" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<path d="M39.00,123.00 h78.00 v6.00 h-78.00 Z" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<line x1="39.75" y1="210.50" x2="116.25" y2="210.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="78.00" y1="228.00" x2="78.00" y2="47.00" stroke="#000" stroke-width="0.25" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<path d="M59.00,212.00 h38.00 v1.50 h-38.00 Z" fill="none" stroke="#000" stroke-width="0.5" stroke-linejoin="round"/>
+<path d="M60.50,213.50 A17.5,11.0 0 0 0 95.50,213.50" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<path d="M65.50,213.50 A12.5,7.5 0 0 0 90.50,213.50" fill="none" stroke="#000" stroke-width="0.35" stroke-dasharray="2.4,1.2" stroke-linejoin="round"/>
+<circle cx="78.00" cy="181.00" r="14.00" fill="none" stroke="#000" stroke-width="0.35"/>
+<circle cx="78.00" cy="181.00" r="10.50" fill="none" stroke="#000" stroke-width="0.6"/>
+<circle cx="78.00" cy="181.00" r="7.50" fill="none" stroke="#000" stroke-width="0.25"/>
+<circle cx="78.00" cy="181.00" r="4.50" fill="none" stroke="#000" stroke-width="0.25"/>
+<circle cx="78.00" cy="181.00" r="1.50" fill="none" stroke="#000" stroke-width="0.25"/>
+<circle cx="65.50" cy="181.00" r="0.80" fill="none" stroke="#000" stroke-width="0.3"/>
+<circle cx="90.50" cy="181.00" r="0.80" fill="none" stroke="#000" stroke-width="0.3"/>
+<circle cx="78.00" cy="149.50" r="7.50" fill="none" stroke="#000" stroke-width="0.6"/>
+<clipPath id="win"><circle cx="78.0" cy="149.5" r="7.5"/></clipPath>
+<g clip-path="url(#win)"><line x1="60.0" y1="139.5" x2="80.0" y2="159.5" stroke="#000" stroke-width="0.12"/><line x1="60.0" y1="159.5" x2="80.0" y2="139.5" stroke="#000" stroke-width="0.12"/><line x1="61.0" y1="139.5" x2="81.0" y2="159.5" stroke="#000" stroke-width="0.12"/><line x1="61.0" y1="159.5" x2="81.0" y2="139.5" stroke="#000" stroke-width="0.12"/><line x1="62.0" y1="139.5" x2="82.0" y2="159.5" stroke="#000" stroke-width="0.12"/><line x1="62.0" y1="159.5" x2="82.0" y2="139.5" stroke="#000" stroke-width="0.12"/><line x1="63.0" y1="139.5" x2="83.0" y2="159.5" stroke="#000" stroke-width="0.12"/><line x1="63.0" y1="159.5" x2="83.0" y2="139.5" stroke="#000" stroke-width="0.12"/><line x1="64.0" y1="139.5" x2="84.0" y2="159.5" stroke="#000" stroke-width="0.12"/><line x1="64.0" y1="159.5" x2="84.0" y2="139.5" stroke="#000" stroke-width="0.12"/><line x1="65.0" y1="139.5" x2="85.0" y2="159.5" stroke="#000" stroke-width="0.12"/><line x1="65.0" y1="159.5" x2="85.0" y2="139.5" stroke="#000" stroke-width="0.12"/><line x1="66.0" y1="139.5" x2="86.0" y2="159.5" stroke="#000" stroke-width="0.12"/><line x1="66.0" y1="159.5" x2="86.0" y2="139.5" stroke="#000" stroke-width="0.12"/><line x1="67.0" y1="139.5" x2="87.0" y2="159.5" stroke="#000" stroke-width="0.12"/><line x1="67.0" y1="159.5" x2="87.0" y2="139.5" stroke="#000" stroke-width="0.12"/><line x1="68.0" y1="139.5" x2="88.0" y2="159.5" stroke="#000" stroke-width="0.12"/><line x1="68.0" y1="159.5" x2="88.0" y2="139.5" stroke="#000" stroke-width="0.12"/><line x1="69.0" y1="139.5" x2="89.0" y2="159.5" stroke="#000" stroke-width="0.12"/><line x1="69.0" y1="159.5" x2="89.0" y2="139.5" stroke="#000" stroke-width="0.12"/><line x1="70.0" y1="139.5" x2="90.0" y2="159.5" stroke="#000" stroke-width="0.12"/><line x1="70.0" y1="159.5" x2="90.0" y2="139.5" stroke="#000" stroke-width="0.12"/><line x1="71.0" y1="139.5" x2="91.0" y2="159.5" stroke="#000" stroke-width="0.12"/><line x1="71.0" y1="159.5" x2="91.0" y2="139.5" stroke="#000" stroke-width="0.12"/><line x1="72.0" y1="139.5" x2="92.0" y2="159.5" stroke="#000" stroke-width="0.12"/><line x1="72.0" y1="159.5" x2="92.0" y2="139.5" stroke="#000" stroke-width="0.12"/><line x1="73.0" y1="139.5" x2="93.0" y2="159.5" stroke="#000" stroke-width="0.12"/><line x1="73.0" y1="159.5" x2="93.0" y2="139.5" stroke="#000" stroke-width="0.12"/><line x1="74.0" y1="139.5" x2="94.0" y2="159.5" stroke="#000" stroke-width="0.12"/><line x1="74.0" y1="159.5" x2="94.0" y2="139.5" stroke="#000" stroke-width="0.12"/><line x1="75.0" y1="139.5" x2="95.0" y2="159.5" stroke="#000" stroke-width="0.12"/><line x1="75.0" y1="159.5" x2="95.0" y2="139.5" stroke="#000" stroke-width="0.12"/><line x1="76.0" y1="139.5" x2="96.0" y2="159.5" stroke="#000" stroke-width="0.12"/><line x1="76.0" y1="159.5" x2="96.0" y2="139.5" stroke="#000" stroke-width="0.12"/></g>
+<path d="M67.00,154.00 L67.00,149.50 A11.0,11.0 0 0 1 89.00,149.50 L89.00,154.00" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<circle cx="68.10" cy="138.50" r="0.80" fill="none" stroke="#000" stroke-width="0.3"/>
+<circle cx="87.90" cy="138.50" r="0.80" fill="none" stroke="#000" stroke-width="0.3"/>
+<ellipse cx="98.27" cy="149.50" rx="3.60" ry="4.25" fill="none" stroke="#000" stroke-width="0.5"/>
+<ellipse cx="98.27" cy="149.50" rx="1.70" ry="2.00" fill="none" stroke="#000" stroke-width="0.25"/>
+<ellipse cx="57.73" cy="149.50" rx="0.93" ry="1.10" fill="none" stroke="#000" stroke-width="0.5"/>
+<path d="M74.50,124.00 h7.00 v11.00 h-7.00 Z" fill="none" stroke="#000" stroke-width="0.4" stroke-linejoin="round"/>
+<line x1="75.50" y1="127.00" x2="80.50" y2="127.00" stroke="#000" stroke-width="0.3" stroke-linecap="round"/>
+<path d="M36.75,80.25 h82.50 v35.25 h-82.50 Z" fill="#F3F6FA" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<line x1="50.50" y1="81.25" x2="50.50" y2="113.50" stroke="#000" stroke-width="0.18" stroke-linecap="round"/>
+<line x1="64.25" y1="81.25" x2="64.25" y2="113.50" stroke="#000" stroke-width="0.18" stroke-linecap="round"/>
+<line x1="78.00" y1="81.25" x2="78.00" y2="113.50" stroke="#000" stroke-width="0.18" stroke-linecap="round"/>
+<line x1="91.75" y1="81.25" x2="91.75" y2="113.50" stroke="#000" stroke-width="0.18" stroke-linecap="round"/>
+<line x1="105.50" y1="81.25" x2="105.50" y2="113.50" stroke="#000" stroke-width="0.18" stroke-linecap="round"/>
+<line x1="38.25" y1="103.75" x2="117.75" y2="103.75" stroke="#000" stroke-width="0.18" stroke-linecap="round"/>
+<line x1="38.25" y1="92.00" x2="117.75" y2="92.00" stroke="#000" stroke-width="0.18" stroke-linecap="round"/>
+<line x1="36.75" y1="114.00" x2="119.25" y2="114.00" stroke="#000" stroke-width="0.3" stroke-linecap="round"/>
+<path d="M47.50,115.50 h1.00 v7.50 h-1.00 Z" fill="none" stroke="#000" stroke-width="0.5" stroke-linejoin="round"/>
+<path d="M48.00,122.00 h4.00 v1.00 h-4.00 Z" fill="none" stroke="#000" stroke-width="0.4" stroke-linejoin="round"/>
+<path d="M107.50,115.50 h1.00 v7.50 h-1.00 Z" fill="none" stroke="#000" stroke-width="0.5" stroke-linejoin="round"/>
+<path d="M104.00,122.00 h4.00 v1.00 h-4.00 Z" fill="none" stroke="#000" stroke-width="0.4" stroke-linejoin="round"/>
+<path d="M68.00,66.00 h20.00 v14.25 h-20.00 Z" fill="none" stroke="#000" stroke-width="0.5" stroke-linejoin="round"/>
+<path d="M76.50,50.00 h3.00 v17.00 h-3.00 Z" fill="none" stroke="#000" stroke-width="0.5" stroke-linejoin="round"/>
+<line x1="76.50" y1="63.00" x2="79.50" y2="63.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M48.33,47.00 h3.00 v33.25 h-3.00 Z" fill="none" stroke="#000" stroke-width="0.5" stroke-linejoin="round"/>
+<path d="M47.33,51.00 l2,-1.2 l2,2.4 l2,-1.2" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<text x="49.83" y="45.50" font-family="Arial, Helvetica, sans-serif" font-size="2.3" text-anchor="middle" font-weight="normal" fill="#000">≈200 (kesik)</text>
+<line x1="39.75" y1="212.80" x2="39.75" y2="237.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="116.25" y1="212.80" x2="116.25" y2="237.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="39.75" y1="236.00" x2="116.25" y2="236.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M39.75,236.00 L42.35,235.10 L42.35,236.90 Z" fill="#000"/>
+<path d="M116.25,236.00 L113.65,236.90 L113.65,235.10 Z" fill="#000"/>
+<text x="78.00" y="235.10" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">Ø153</text>
+<line x1="36.75" y1="79.45" x2="36.75" y2="68.75" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="119.25" y1="79.45" x2="119.25" y2="68.75" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="36.75" y1="70.25" x2="119.25" y2="70.25" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M36.75,70.25 L39.35,69.35 L39.35,71.15 Z" fill="#000"/>
+<path d="M119.25,70.25 L116.65,71.15 L116.65,69.35 Z" fill="#000"/>
+<text x="78.00" y="69.35" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">165</text>
+<line x1="117.80" y1="212.00" x2="127.50" y2="212.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="117.80" y1="123.00" x2="127.50" y2="123.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="126.00" y1="212.00" x2="126.00" y2="123.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M126.00,212.00 L125.10,209.40 L126.90,209.40 Z" fill="#000"/>
+<path d="M126.00,123.00 L126.90,125.60 L125.10,125.60 Z" fill="#000"/>
+<text x="125.10" y="167.50" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000" transform="rotate(-90 125.10 167.50)">178</text>
+<line x1="38.95" y1="212.00" x2="31.25" y2="212.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="38.95" y1="181.00" x2="31.25" y2="181.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="32.75" y1="212.00" x2="32.75" y2="181.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M32.75,212.00 L31.85,209.40 L33.65,209.40 Z" fill="#000"/>
+<path d="M32.75,181.00 L33.65,183.60 L31.85,183.60 Z" fill="#000"/>
+<text x="31.85" y="196.50" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000" transform="rotate(-90 31.85 196.50)">62</text>
+<line x1="38.95" y1="212.00" x2="24.25" y2="212.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="38.95" y1="149.50" x2="24.25" y2="149.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="25.75" y1="212.00" x2="25.75" y2="149.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M25.75,212.00 L24.85,209.40 L26.65,209.40 Z" fill="#000"/>
+<path d="M25.75,149.50 L26.65,152.10 L24.85,152.10 Z" fill="#000"/>
+<text x="24.85" y="180.75" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000" transform="rotate(-90 24.85 180.75)">125</text>
+<line x1="60.50" y1="225.30" x2="60.50" y2="231.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="95.50" y1="225.30" x2="95.50" y2="231.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="60.50" y1="229.50" x2="95.50" y2="229.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M60.50,229.50 L63.10,228.60 L63.10,230.40 Z" fill="#000"/>
+<path d="M95.50,229.50 L92.90,230.40 L92.90,228.60 Z" fill="#000"/>
+<text x="78.00" y="228.60" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">Ø70</text>
+<line x1="73.00" y1="144.00" x2="48.00" y2="137.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M73.00,144.00 L70.68,144.13 L71.08,142.68 Z" fill="#000"/>
+<line x1="48.00" y1="137.00" x2="42.00" y2="137.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<text x="41.20" y="137.90" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="end" font-weight="normal" fill="#000">Ø30 HDPE</text>
+<line x1="85.00" y1="175.50" x2="108.00" y2="171.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M85.00,175.50 L87.02,174.34 L87.30,175.81 Z" fill="#000"/>
+<line x1="108.00" y1="171.00" x2="114.00" y2="171.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<text x="114.80" y="171.90" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">Ø42 siren</text>
+<line x1="28.40" y1="162.00" x2="48.00" y2="162.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="48.00" cy="162.00" r="0.55" fill="#000"/>
+<circle cx="25.50" cy="162.00" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="25.50" y="163.05" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">1</text>
+<line x1="28.40" y1="126.00" x2="41.00" y2="126.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="41.00" cy="126.00" r="0.55" fill="#000"/>
+<circle cx="25.50" cy="126.00" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="25.50" y="127.05" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">2</text>
+<line x1="28.40" y1="92.00" x2="43.00" y2="92.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="43.00" cy="92.00" r="0.55" fill="#000"/>
+<circle cx="25.50" cy="92.00" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="25.50" y="93.05" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">3</text>
+<line x1="28.27" y1="112.86" x2="48.00" y2="119.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="48.00" cy="119.00" r="0.55" fill="#000"/>
+<circle cx="25.50" cy="112.00" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="25.50" y="113.05" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">4</text>
+<line x1="55.87" y1="155.60" x2="78.00" y2="152.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="78.00" cy="152.50" r="0.55" fill="#000"/>
+<circle cx="53.00" cy="156.00" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="53.00" y="157.05" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">5</text>
+<line x1="127.61" y1="147.22" x2="98.27" y2="149.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="98.27" cy="149.50" r="0.55" fill="#000"/>
+<circle cx="130.50" cy="147.00" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="130.50" y="148.05" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">7</text>
+<line x1="127.60" y1="181.00" x2="87.00" y2="181.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="87.00" cy="181.00" r="0.55" fill="#000"/>
+<circle cx="130.50" cy="181.00" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="130.50" y="182.05" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">8</text>
+<line x1="28.39" y1="147.22" x2="57.73" y2="149.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="57.73" cy="149.50" r="0.55" fill="#000"/>
+<circle cx="25.50" cy="147.00" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="25.50" y="148.05" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">9</text>
+<line x1="127.60" y1="219.40" x2="88.00" y2="218.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="88.00" cy="218.00" r="0.55" fill="#000"/>
+<circle cx="130.50" cy="219.50" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="130.50" y="220.55" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">10</text>
+<line x1="95.19" y1="51.70" x2="78.00" y2="56.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="78.00" cy="56.00" r="0.55" fill="#000"/>
+<circle cx="98.00" cy="51.00" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="98.00" y="52.05" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">14</text>
+<line x1="28.40" y1="62.00" x2="49.83" y2="62.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="49.83" cy="62.00" r="0.55" fill="#000"/>
+<circle cx="25.50" cy="62.00" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="25.50" y="63.05" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">15</text>
+<text x="78.00" y="22.00" font-family="Arial, Helvetica, sans-serif" font-size="4.2" text-anchor="middle" font-weight="bold" fill="#000">ÖN GÖRÜNÜŞ</text>
+<line x1="65.50" y1="23.30" x2="90.50" y2="23.30" stroke="#000" stroke-width="0.35" stroke-linecap="round"/>
+<text x="78.00" y="27.50" font-family="Arial, Helvetica, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">Ölçek 1:2</text>
+<path d="M183.75,129.00 h76.50 v83.00 h-76.50 Z" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<path d="M183.00,123.00 h78.00 v6.00 h-78.00 Z" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<line x1="183.75" y1="210.50" x2="260.25" y2="210.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="222.00" y1="228.00" x2="222.00" y2="119.00" stroke="#000" stroke-width="0.25" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<path d="M203.00,212.00 h38.00 v1.50 h-38.00 Z" fill="none" stroke="#000" stroke-width="0.5" stroke-linejoin="round"/>
+<path d="M204.50,213.50 A17.5,11.0 0 0 0 239.50,213.50" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<path d="M220.00,213.50 h4.00 v3.00 h-4.00 Z" fill="none" stroke="#000" stroke-width="0.4" stroke-linejoin="round"/>
+<path d="M192.77,115.50 L251.23,81.75 L251.98,80.45 L193.52,114.20 Z" fill="#F3F6FA" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<path d="M197.00,123.00 L197.00,113.06 L247.00,84.19 L247.00,123.00 Z" fill="none" stroke="#000" stroke-width="0.5" stroke-linejoin="round"/>
+<path d="M207.00,119.00 L237.00,108.26 L237.00,119.00 Z" fill="none" stroke="#000" stroke-width="0.25" stroke-linejoin="round"/>
+<path d="M194.50,122.00 h55.00 v1.00 h-55.00 Z" fill="none" stroke="#000" stroke-width="0.4" stroke-linejoin="round"/>
+<line x1="183.75" y1="142.00" x2="183.75" y2="157.00" stroke="#000" stroke-width="1.0" stroke-linecap="round"/>
+<path d="M183.75,137.50 L169.75,142.00 L169.75,144.00" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<line x1="186.75" y1="149.50" x2="140.88" y2="181.62" stroke="#000" stroke-width="0.25" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="186.75" y1="149.50" x2="151.88" y2="152.55" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="186.75" y1="149.50" x2="171.96" y2="181.22" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="186.75" y1="149.50" x2="156.75" y2="149.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M159.47,149.50 A27.28,27.28 0 0 0 164.40,165.15" fill="none" stroke="#000" stroke-width="0.25"/>
+<path d="M159.47,149.50 L160.22,151.70 L158.72,151.70 Z" fill="#000"/>
+<path d="M164.40,165.15 L162.53,163.78 L163.76,162.91 Z" fill="#000"/>
+<text x="157.39" y="159.66" font-family="Arial, Helvetica, sans-serif" font-size="2.5" text-anchor="middle" font-weight="normal" fill="#000">35°</text>
+<path d="M145.99,153.07 A40.92,40.92 0 0 0 169.46,186.59" fill="none" stroke="#000" stroke-width="0.25"/>
+<path d="M145.99,153.07 L146.92,155.19 L145.43,155.32 Z" fill="#000"/>
+<path d="M169.46,186.59 L167.15,186.34 L167.78,184.98 Z" fill="#000"/>
+<text x="149.95" y="176.17" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="normal" fill="#000">FOV 60°</text>
+<path d="M181.75,170.50 h2.00 v21.00 h-2.00 Z" fill="none" stroke="#000" stroke-width="0.5" stroke-linejoin="round"/>
+<ellipse cx="189.56" cy="149.50" rx="2.25" ry="4.25" fill="none" stroke="#000" stroke-width="0.5"/>
+<ellipse cx="252.14" cy="137.00" rx="2.92" ry="4.75" fill="none" stroke="#000" stroke-width="0.5"/>
+<ellipse cx="252.14" cy="137.00" rx="1.23" ry="2.00" fill="none" stroke="#000" stroke-width="0.3"/>
+<path d="M265.25,66.00 h1.00 v131.00 h-1.00 Z" fill="#ddd" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<path d="M250.25,66.00 h15.00 v1.00 h-15.00 Z" fill="#ddd" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<path d="M260.25,179.50 h5.00 v5.00 h-5.00 Z" fill="none" stroke="#000" stroke-width="0.4" stroke-linejoin="round"/>
+<line x1="256.25" y1="182.00" x2="269.25" y2="182.00" stroke="#000" stroke-width="0.25" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<path d="M260.25,144.50 h5.00 v5.00 h-5.00 Z" fill="none" stroke="#000" stroke-width="0.4" stroke-linejoin="round"/>
+<line x1="256.25" y1="147.00" x2="269.25" y2="147.00" stroke="#000" stroke-width="0.25" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="257.75" y1="66.00" x2="257.75" y2="62.00" stroke="#000" stroke-width="0.6" stroke-linecap="round"/>
+<circle cx="257.75" cy="54.50" r="7.50" fill="none" stroke="#000" stroke-width="0.6"/>
+<circle cx="257.75" cy="54.50" r="4.50" fill="none" stroke="#000" stroke-width="0.5"/>
+<path d="M255.37,47.00 h3.00 v76.00 h-3.00 Z" fill="none" stroke="#000" stroke-width="0.5" stroke-linejoin="round"/>
+<path d="M254.37,51.00 l2,-1.2 l2,2.4 l2,-1.2" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<path d="M257.75,47.00 C260.25,39.50 270.25,37.00 277.75,36.00" fill="none" stroke="#000" stroke-width="0.25" stroke-dasharray="9,1.4,1,1.4,1,1.4" stroke-linejoin="round"/>
+<text x="278.25" y="36.50" font-family="Arial, Helvetica, sans-serif" font-size="2.2" text-anchor="start" font-weight="normal" fill="#000">halat → dal</text>
+<line x1="266.25" y1="227.00" x2="266.25" y2="42.00" stroke="#000" stroke-width="0.25" stroke-dasharray="9,1.4,1,1.4,1,1.4" stroke-linecap="round"/>
+<text x="268.75" y="222.00" font-family="Arial, Helvetica, sans-serif" font-size="2.3" text-anchor="start" font-weight="normal" fill="#000" font-style="italic">ağaç kabuğu</text>
+<path d="M265.75,184.50 h15.00 v10.00 h-15.00 Z" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<clipPath id="c180"><rect x="265.75" y="184.5" width="15.0" height="10.0"/></clipPath>
+<g clip-path="url(#c180)"><line x1="255.75" y1="194.50" x2="265.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="256.75" y1="194.50" x2="266.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="257.75" y1="194.50" x2="267.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="258.75" y1="194.50" x2="268.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="259.75" y1="194.50" x2="269.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="260.75" y1="194.50" x2="270.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="261.75" y1="194.50" x2="271.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="262.75" y1="194.50" x2="272.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="263.75" y1="194.50" x2="273.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="264.75" y1="194.50" x2="274.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="265.75" y1="194.50" x2="275.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="266.75" y1="194.50" x2="276.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="267.75" y1="194.50" x2="277.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="268.75" y1="194.50" x2="278.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="269.75" y1="194.50" x2="279.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="270.75" y1="194.50" x2="280.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="271.75" y1="194.50" x2="281.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="272.75" y1="194.50" x2="282.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="273.75" y1="194.50" x2="283.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="274.75" y1="194.50" x2="284.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="275.75" y1="194.50" x2="285.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="276.75" y1="194.50" x2="286.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="277.75" y1="194.50" x2="287.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="278.75" y1="194.50" x2="288.75" y2="184.50" stroke="#000" stroke-width="0.18"/><line x1="279.75" y1="194.50" x2="289.75" y2="184.50" stroke="#000" stroke-width="0.18"/></g>
+<path d="M265.75,132.00 h15.00 v10.00 h-15.00 Z" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<clipPath id="c183"><rect x="265.75" y="132.0" width="15.0" height="10.0"/></clipPath>
+<g clip-path="url(#c183)"><line x1="255.75" y1="142.00" x2="265.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="256.75" y1="142.00" x2="266.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="257.75" y1="142.00" x2="267.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="258.75" y1="142.00" x2="268.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="259.75" y1="142.00" x2="269.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="260.75" y1="142.00" x2="270.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="261.75" y1="142.00" x2="271.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="262.75" y1="142.00" x2="272.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="263.75" y1="142.00" x2="273.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="264.75" y1="142.00" x2="274.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="265.75" y1="142.00" x2="275.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="266.75" y1="142.00" x2="276.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="267.75" y1="142.00" x2="277.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="268.75" y1="142.00" x2="278.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="269.75" y1="142.00" x2="279.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="270.75" y1="142.00" x2="280.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="271.75" y1="142.00" x2="281.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="272.75" y1="142.00" x2="282.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="273.75" y1="142.00" x2="283.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="274.75" y1="142.00" x2="284.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="275.75" y1="142.00" x2="285.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="276.75" y1="142.00" x2="286.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="277.75" y1="142.00" x2="287.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="278.75" y1="142.00" x2="288.75" y2="132.00" stroke="#000" stroke-width="0.18"/><line x1="279.75" y1="142.00" x2="289.75" y2="132.00" stroke="#000" stroke-width="0.18"/></g>
+<line x1="191.97" y1="123.00" x2="169.27" y2="123.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="191.97" y1="115.50" x2="169.27" y2="115.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="170.77" y1="123.00" x2="170.77" y2="115.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M170.77,123.00 L169.87,120.40 L171.67,120.40 Z" fill="#000"/>
+<path d="M170.77,115.50 L171.67,118.10 L169.87,118.10 Z" fill="#000"/>
+<text x="169.87" y="119.25" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000" transform="rotate(-90 169.87 119.25)">15</text>
+<path d="M170.77,115.50 A22,22 0 0 1 173.72,104.50" fill="none" stroke="#000" stroke-width="0.25"/>
+<path d="M170.77,115.50 L170.02,113.30 L171.52,113.30 Z" fill="#000"/>
+<path d="M173.72,104.50 L173.27,106.78 L171.97,106.03 Z" fill="#000"/>
+<text x="168.14" y="109.80" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">30°</text>
+<line x1="192.77" y1="115.50" x2="180.27" y2="115.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="169.75" y1="225.30" x2="169.75" y2="238.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="266.25" y1="225.30" x2="266.25" y2="238.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="169.75" y1="236.50" x2="266.25" y2="236.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M169.75,236.50 L172.35,235.60 L172.35,237.40 Z" fill="#000"/>
+<path d="M266.25,236.50 L263.65,237.40 L263.65,235.60 Z" fill="#000"/>
+<text x="218.00" y="235.60" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">≈ 195 (siperlik – braket)</text>
+<line x1="251.23" y1="79.45" x2="251.23" y2="64.75" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="192.77" y1="79.45" x2="192.77" y2="64.75" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="251.23" y1="66.25" x2="192.77" y2="66.25" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M251.23,66.25 L248.63,67.15 L248.63,65.35 Z" fill="#000"/>
+<path d="M192.77,66.25 L195.37,65.35 L195.37,67.15 Z" fill="#000"/>
+<text x="222.00" y="65.35" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">117 (135 × cos30°)</text>
+<line x1="267.05" y1="212.00" x2="289.75" y2="212.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="267.05" y1="66.00" x2="289.75" y2="66.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="288.25" y1="212.00" x2="288.25" y2="66.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M288.25,212.00 L287.35,209.40 L289.15,209.40 Z" fill="#000"/>
+<path d="M288.25,66.00 L289.15,68.60 L287.35,68.60 Z" fill="#000"/>
+<text x="287.35" y="139.00" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000" transform="rotate(-90 287.35 139.00)">292</text>
+<line x1="260.25" y1="181.20" x2="260.25" y2="140.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="265.25" y1="181.20" x2="265.25" y2="140.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="260.25" y1="142.00" x2="265.25" y2="142.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M260.25,142.00 L262.85,141.10 L262.85,142.90 Z" fill="#000"/>
+<path d="M265.25,142.00 L262.65,142.90 L262.65,141.10 Z" fill="#000"/>
+<text x="262.75" y="141.10" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">10</text>
+<line x1="213.81" y1="89.26" x2="222.00" y2="99.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="222.00" cy="99.50" r="0.55" fill="#000"/>
+<circle cx="212.00" cy="87.00" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="212.00" y="88.05" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">3</text>
+<line x1="229.86" y1="94.88" x2="232.00" y2="112.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="232.00" cy="112.00" r="0.55" fill="#000"/>
+<circle cx="229.50" cy="92.00" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="229.50" y="93.05" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">4</text>
+<line x1="169.07" y1="133.74" x2="176.75" y2="139.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="176.75" cy="139.50" r="0.55" fill="#000"/>
+<circle cx="166.75" cy="132.00" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="166.75" y="133.05" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">6</text>
+<line x1="292.35" y1="164.50" x2="265.75" y2="164.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="265.75" cy="164.50" r="0.55" fill="#000"/>
+<circle cx="295.25" cy="164.50" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="295.25" y="165.55" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">12</text>
+<line x1="292.68" y1="125.84" x2="271.25" y2="137.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="271.25" cy="137.00" r="0.55" fill="#000"/>
+<circle cx="295.25" cy="124.50" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="295.25" y="125.55" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">13</text>
+<line x1="270.07" y1="51.10" x2="261.75" y2="54.50" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="261.75" cy="54.50" r="0.55" fill="#000"/>
+<circle cx="272.75" cy="50.00" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="272.75" y="51.05" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">14</text>
+<line x1="292.40" y1="143.95" x2="256.14" y2="137.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="256.14" cy="137.00" r="0.55" fill="#000"/>
+<circle cx="295.25" cy="144.50" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="295.25" y="145.55" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">16</text>
+<line x1="202.25" y1="226.89" x2="207.00" y2="217.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="207.00" cy="217.00" r="0.55" fill="#000"/>
+<circle cx="201.00" cy="229.50" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="201.00" y="230.55" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">10</text>
+<line x1="232.52" y1="227.38" x2="220.00" y2="214.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="220.00" cy="214.00" r="0.55" fill="#000"/>
+<circle cx="234.50" cy="229.50" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="234.50" y="230.55" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">11</text>
+<text x="222.00" y="22.00" font-family="Arial, Helvetica, sans-serif" font-size="4.2" text-anchor="middle" font-weight="bold" fill="#000">A — SAĞ YAN GÖRÜNÜŞ</text>
+<line x1="198.25" y1="23.30" x2="245.75" y2="23.30" stroke="#000" stroke-width="0.35" stroke-linecap="round"/>
+<text x="222.00" y="27.50" font-family="Arial, Helvetica, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">Ölçek 1:2 (ön solda, ağaç sağda)</text>
+<circle cx="352.00" cy="95.00" r="39.00" fill="none" stroke="#000" stroke-width="0.6"/>
+<circle cx="352.00" cy="95.00" r="37.50" fill="none" stroke="#000" stroke-width="0.25"/>
+<line x1="307.00" y1="95.00" x2="397.00" y2="95.00" stroke="#000" stroke-width="0.25" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="352.00" y1="45.00" x2="352.00" y2="152.50" stroke="#000" stroke-width="0.25" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<path d="M310.75,65.77 h82.50 v58.46 h-82.50 Z" fill="#F3F6FA" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<line x1="324.50" y1="66.77" x2="324.50" y2="123.23" stroke="#000" stroke-width="0.18" stroke-linecap="round"/>
+<line x1="338.25" y1="66.77" x2="338.25" y2="123.23" stroke="#000" stroke-width="0.18" stroke-linecap="round"/>
+<line x1="352.00" y1="66.77" x2="352.00" y2="123.23" stroke="#000" stroke-width="0.18" stroke-linecap="round"/>
+<line x1="365.75" y1="66.77" x2="365.75" y2="123.23" stroke="#000" stroke-width="0.18" stroke-linecap="round"/>
+<line x1="379.50" y1="66.77" x2="379.50" y2="123.23" stroke="#000" stroke-width="0.18" stroke-linecap="round"/>
+<path d="M321.50,70.00 h1.00 v50.00 h-1.00 Z" fill="none" stroke="#000" stroke-width="0.35" stroke-dasharray="2.4,1.2" stroke-linejoin="round"/>
+<circle cx="322.00" cy="75.00" r="1.07" fill="none" stroke="#000" stroke-width="0.3" stroke-dasharray="2.4,1.2"/>
+<circle cx="322.00" cy="115.00" r="1.07" fill="none" stroke="#000" stroke-width="0.3" stroke-dasharray="2.4,1.2"/>
+<path d="M381.50,70.00 h1.00 v50.00 h-1.00 Z" fill="none" stroke="#000" stroke-width="0.35" stroke-dasharray="2.4,1.2" stroke-linejoin="round"/>
+<circle cx="382.00" cy="75.00" r="1.07" fill="none" stroke="#000" stroke-width="0.3" stroke-dasharray="2.4,1.2"/>
+<circle cx="382.00" cy="115.00" r="1.07" fill="none" stroke="#000" stroke-width="0.3" stroke-dasharray="2.4,1.2"/>
+<path d="M350.00,133.25 h4.00 v4.00 h-4.00 Z" fill="none" stroke="#000" stroke-width="0.4" stroke-linejoin="round"/>
+<path d="M384.86,72.88 h4.00 v4.00 h-4.00 Z" fill="none" stroke="#000" stroke-width="0.4" stroke-linejoin="round"/>
+<path d="M315.14,72.87 h4.00 v4.00 h-4.00 Z" fill="none" stroke="#000" stroke-width="0.4" stroke-linejoin="round"/>
+<path d="M341.00,133.25 h22.00 v14.00 h-22.00 Z" fill="none" stroke="#000" stroke-width="0.5" stroke-linejoin="round"/>
+<line x1="346.00" y1="147.25" x2="339.65" y2="158.25" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="358.00" y1="147.25" x2="364.35" y2="158.25" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<text x="366.00" y="156.25" font-family="Arial, Helvetica, sans-serif" font-size="2.2" text-anchor="start" font-weight="normal" fill="#000" font-style="italic">görüş ±30°</text>
+<circle cx="373.86" cy="129.98" r="4.25" fill="none" stroke="#000" stroke-width="0.5"/>
+<path d="M342.00,50.75 h20.00 v1.00 h-20.00 Z" fill="#ddd" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<path d="M342.00,50.75 h20.00 v15.00 h-20.00 Z" fill="none" stroke="#000" stroke-width="0.5" stroke-linejoin="round"/>
+<circle cx="352.00" cy="59.25" r="1.50" fill="none" stroke="#000" stroke-width="0.5"/>
+<line x1="328.45" y1="64.86" x2="322.91" y2="57.77" stroke="#000" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="375.55" y1="64.86" x2="380.47" y2="58.55" stroke="#000" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="322.91" cy="57.77" r="1.50" fill="none" stroke="#000" stroke-width="0.6"/>
+<path d="M294.50,23.90 A75.0,75.0 0 0 0 409.50,23.90" fill="none" stroke="#000" stroke-width="0.25" stroke-dasharray="9,1.4,1,1.4,1,1.4" stroke-linejoin="round"/>
+<path d="M342.00,50.25 C322.00,47.75 304.50,36.75 296.00,22.75" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<path d="M362.00,50.25 C382.00,47.75 399.50,36.75 408.00,22.75" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<text x="352.00" y="35.75" font-family="Arial, Helvetica, sans-serif" font-size="2.3" text-anchor="middle" font-weight="normal" fill="#000" font-style="italic">ağaç (örnek Ø300; Ø150…600)</text>
+<line x1="352.00" y1="95.00" x2="352.00" y2="44.25" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="352.00" y1="95.00" x2="320.76" y2="55.01" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="352.00" y1="95.00" x2="383.24" y2="55.01" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M352.00,62.76 A32.24,32.24 0 0 0 332.15,69.59" fill="none" stroke="#000" stroke-width="0.25"/>
+<path d="M352.00,62.76 L349.80,63.51 L349.80,62.01 Z" fill="#000"/>
+<path d="M332.15,69.59 L333.42,67.65 L334.35,68.83 Z" fill="#000"/>
+<text x="339.55" y="59.74" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="normal" fill="#000">38°</text>
+<path d="M352.00,62.76 A32.24,32.24 0 0 1 371.85,69.59" fill="none" stroke="#000" stroke-width="0.25"/>
+<path d="M352.00,62.76 L354.20,62.01 L354.20,63.51 Z" fill="#000"/>
+<path d="M371.85,69.59 L369.65,68.83 L370.58,67.65 Z" fill="#000"/>
+<text x="364.45" y="59.74" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="normal" fill="#000">38°</text>
+<path d="M352.00,125.00 A30,30 0 0 0 367.90,120.44" fill="none" stroke="#000" stroke-width="0.25"/>
+<path d="M352.00,125.00 L354.20,124.25 L354.20,125.75 Z" fill="#000"/>
+<path d="M367.90,120.44 L366.43,122.24 L365.63,120.97 Z" fill="#000"/>
+<text x="361.23" y="128.10" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="normal" fill="#000">32°</text>
+<line x1="310.75" y1="125.03" x2="310.75" y2="151.73" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="393.25" y1="125.03" x2="393.25" y2="151.73" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="310.75" y1="150.23" x2="393.25" y2="150.23" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M310.75,150.23 L313.35,149.33 L313.35,151.13 Z" fill="#000"/>
+<path d="M393.25,150.23 L390.65,151.13 L390.65,149.33 Z" fill="#000"/>
+<text x="352.00" y="149.33" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">165</text>
+<line x1="394.05" y1="65.77" x2="400.75" y2="65.77" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="394.05" y1="124.23" x2="400.75" y2="124.23" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="399.25" y1="65.77" x2="399.25" y2="124.23" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M399.25,65.77 L400.15,68.37 L398.35,68.37 Z" fill="#000"/>
+<path d="M399.25,124.23 L398.35,121.63 L400.15,121.63 Z" fill="#000"/>
+<text x="398.35" y="95.00" font-family="Arial, Helvetica, sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000" transform="rotate(-90 398.35 95.00)">117</text>
+<line x1="304.41" y1="83.39" x2="317.14" y2="74.88" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="317.14" cy="74.88" r="0.55" fill="#000"/>
+<circle cx="302.00" cy="85.00" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="302.00" y="86.05" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">2</text>
+<line x1="304.84" y1="73.07" x2="324.50" y2="77.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="324.50" cy="77.00" r="0.55" fill="#000"/>
+<circle cx="302.00" cy="72.50" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="302.00" y="73.55" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">4</text>
+<line x1="304.89" y1="57.74" x2="324.14" y2="59.34" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="324.14" cy="59.34" r="0.55" fill="#000"/>
+<circle cx="302.00" cy="57.50" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="302.00" y="58.55" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">15</text>
+<line x1="399.12" y1="57.83" x2="379.24" y2="60.13" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="379.24" cy="60.13" r="0.55" fill="#000"/>
+<circle cx="402.00" cy="57.50" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="402.00" y="58.55" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">16</text>
+<line x1="399.20" y1="123.25" x2="373.86" y2="129.98" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="373.86" cy="129.98" r="0.55" fill="#000"/>
+<circle cx="402.00" cy="122.50" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="402.00" y="123.55" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">7</text>
+<line x1="304.88" y1="135.36" x2="344.50" y2="140.25" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<circle cx="344.50" cy="140.25" r="0.55" fill="#000"/>
+<circle cx="302.00" cy="135.00" r="2.9" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<text x="302.00" y="136.05" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="middle" font-weight="bold" fill="#000">6</text>
+<text x="352.00" y="22.00" font-family="Arial, Helvetica, sans-serif" font-size="4.2" text-anchor="middle" font-weight="bold" fill="#000">B — ÜST GÖRÜNÜŞ</text>
+<line x1="333.25" y1="23.30" x2="370.75" y2="23.30" stroke="#000" stroke-width="0.35" stroke-linecap="round"/>
+<text x="352.00" y="27.50" font-family="Arial, Helvetica, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">Ölçek 1:2 (ön aşağıda)</text>
+<line x1="146.25" y1="202.00" x2="155.25" y2="202.00" stroke="#000" stroke-width="0.5" stroke-linecap="round"/>
+<path d="M146.25,202.00 L149.65,200.70 L149.65,203.30 Z" fill="#000"/>
+<text x="157.25" y="203.50" font-family="Arial, Helvetica, sans-serif" font-size="4.2" text-anchor="middle" font-weight="bold" fill="#000">A</text>
+<line x1="118.00" y1="44.50" x2="118.00" y2="35.50" stroke="#000" stroke-width="0.5" stroke-linecap="round"/>
+<path d="M118.00,44.50 L116.70,41.10 L119.30,41.10 Z" fill="#000"/>
+<text x="115.00" y="35.00" font-family="Arial, Helvetica, sans-serif" font-size="4.2" text-anchor="middle" font-weight="bold" fill="#000">B</text>
+<rect x="290" y="170" width="120" height="88.0" fill="#fff" stroke="#000" stroke-width="0.35"/>
+<rect x="290" y="170" width="120" height="6" fill="#1F4D3A"/>
+<text x="292.00" y="174.30" font-family="Arial, Helvetica, sans-serif" font-size="3" text-anchor="start" font-weight="bold" fill="#fff">PARÇA / ÖZELLİK LİSTESİ</text>
+<circle cx="294" cy="179.0" r="2.1" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="294.00" y="180.00" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="bold" fill="#000">1</text>
+<text x="298.00" y="178.60" font-family="Arial, Helvetica, sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#000">Gövde: kalaylı sac teneke Ø153 × 178, dış RAL 9010 ısı yansıtıcı epoksi,</text>
+<text x="298.00" y="180.90" font-family="Arial, Helvetica, sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#000">iç astar + 5 mm Al-yüzlü PE köpük</text>
+<circle cx="294" cy="184.0" r="2.1" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="294.00" y="185.00" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="bold" fill="#000">2</text>
+<text x="298.00" y="184.70" font-family="Arial, Helvetica, sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#000">Kapak + EPDM conta + 3 paslanmaz kilit klipsi (0° / 120° / 240°)</text>
+<circle cx="294" cy="189.0" r="2.1" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="294.00" y="190.00" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="bold" fill="#000">3</text>
+<text x="298.00" y="189.70" font-family="Arial, Helvetica, sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#000">Güneş paneli 6 V 3 W ETFE 165 × 135, 30° eğim — güneşlik görevi</text>
+<circle cx="294" cy="194.0" r="2.1" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="294.00" y="195.00" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="bold" fill="#000">4</text>
+<text x="298.00" y="193.60" font-family="Arial, Helvetica, sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#000">Al 5052 panel braketi (2 yan yanak, 4×M4 kapağa), panel–kapak 15 mm hava</text>
+<text x="298.00" y="195.90" font-family="Arial, Helvetica, sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#000">boşluğu</text>
+<circle cx="294" cy="199.0" r="2.1" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="294.00" y="200.00" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="bold" fill="#000">5</text>
+<text x="298.00" y="199.70" font-family="Arial, Helvetica, sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#000">Termal pencere Ø30: HDPE 0,4 mm + paslanmaz tel örgü (cam/akrilik yok)</text>
+<circle cx="294" cy="204.0" r="2.1" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="294.00" y="205.00" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="bold" fill="#000">6</text>
+<text x="298.00" y="204.70" font-family="Arial, Helvetica, sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#000">Yağmur siperliği; AMG8833 ekseni yataydan 35° aşağı, FOV 60°</text>
+<circle cx="294" cy="209.0" r="2.1" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="294.00" y="210.00" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="bold" fill="#000">7</text>
+<text x="298.00" y="209.70" font-family="Arial, Helvetica, sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#000">M12 ePTFE membran vent (BME680 haznesi), θ = +32°</text>
+<circle cx="294" cy="214.0" r="2.1" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="294.00" y="215.00" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="bold" fill="#000">8</text>
+<text x="298.00" y="214.70" font-family="Arial, Helvetica, sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#000">Piezo siren Ø42, 12 V 105 dB, 2×M3 flanş</text>
+<circle cx="294" cy="219.0" r="2.1" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="294.00" y="220.00" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="bold" fill="#000">9</text>
+<text x="298.00" y="219.70" font-family="Arial, Helvetica, sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#000">Durum LED’i ışık borusu Ø3, θ = −32°</text>
+<circle cx="294" cy="224.0" r="2.1" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="294.00" y="225.00" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="bold" fill="#000">10</text>
+<text x="298.00" y="224.70" font-family="Arial, Helvetica, sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#000">Alt PC kubbe Ø70 (6 × 1 W LED halkası Ø50) + mıknatıs test noktası (SW3)</text>
+<circle cx="294" cy="229.0" r="2.1" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="294.00" y="230.00" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="bold" fill="#000">11</text>
+<text x="298.00" y="229.70" font-family="Arial, Helvetica, sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#000">M8 ePTFE basınç dengeleme + labirentli drenaj (alt kapak)</text>
+<circle cx="294" cy="234.0" r="2.1" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="294.00" y="235.00" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="bold" fill="#000">12</text>
+<text x="298.00" y="234.70" font-family="Arial, Helvetica, sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#000">Paslanmaz L braket 2 mm, 2×M5 + 10 mm aralayıcı, iç takviye pulu</text>
+<circle cx="294" cy="239.0" r="2.1" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="294.00" y="240.00" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="bold" fill="#000">13</text>
+<text x="298.00" y="239.70" font-family="Arial, Helvetica, sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#000">Paslanmaz bant kelepçe (Ø15–60 cm ağaç), braket yarıklarından geçer</text>
+<circle cx="294" cy="244.0" r="2.1" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="294.00" y="245.00" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="bold" fill="#000">14</text>
+<text x="298.00" y="244.70" font-family="Arial, Helvetica, sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#000">M6 mapa + 2 mm paslanmaz emniyet halatı (üst dala)</text>
+<circle cx="294" cy="249.0" r="2.1" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="294.00" y="250.00" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="bold" fill="#000">15</text>
+<text x="298.00" y="249.70" font-family="Arial, Helvetica, sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#000">SMA dişi bulkhead (θ = 218°) + 90° adaptör + 3 dBi IP67 LTE anten (yukarı)</text>
+<circle cx="294" cy="254.0" r="2.1" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="294.00" y="255.00" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="middle" font-weight="bold" fill="#000">16</text>
+<text x="298.00" y="254.70" font-family="Arial, Helvetica, sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#000">PG7 kablo rakoru (θ = 142°) — panel kablosu</text>
+<text x="14.00" y="252.00" font-family="Arial, Helvetica, sans-serif" font-size="2.9" text-anchor="start" font-weight="bold" fill="#000">NOTLAR</text>
+<text x="14.00" y="256.30" font-family="Arial, Helvetica, sans-serif" font-size="2.5" text-anchor="start" font-weight="normal" fill="#000">1. Ölçüler mm. Genel tolerans ISO 2768-m. Delikler boyamadan önce açılır, çapakları alınır.</text>
+<text x="14.00" y="260.60" font-family="Arial, Helvetica, sans-serif" font-size="2.5" text-anchor="start" font-weight="normal" fill="#000">2. Tüm dış delikler EPDM/O-ring ile sızdırmaz; hedef IP54. Teneke iç yüzeyi astarlanır.</text>
+<text x="14.00" y="264.90" font-family="Arial, Helvetica, sans-serif" font-size="2.5" text-anchor="start" font-weight="normal" fill="#000">3. Anten zorunludur (teneke gövde Faraday kafesidir). Anten dikey yukarı.</text>
+<text x="14.00" y="269.20" font-family="Arial, Helvetica, sans-serif" font-size="2.5" text-anchor="start" font-weight="normal" fill="#000">4. Panel tabanı ile kapak arası ≥ 15 mm hava boşluğu: gövdeyi güneşten korur.</text>
+<text x="14.00" y="273.50" font-family="Arial, Helvetica, sans-serif" font-size="2.5" text-anchor="start" font-weight="normal" fill="#000">5. Delik konumları için sayfa 2 (delme şablonu) ve 1:1 şablon dosyalarına bakın.</text>
+<text x="14.00" y="277.80" font-family="Arial, Helvetica, sans-serif" font-size="2.5" text-anchor="start" font-weight="normal" fill="#000">6. Montaj yüksekliği 3–5 m; sensör yamaca / izlenecek alana bakacak şekilde döndürülür.</text>
+<text x="14.00" y="248.00" font-family="Arial, Helvetica, sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#444" font-style="italic">Görünüşler ok yöntemiyle (ISO 128-30) gösterilmiştir.</text></svg>

@@ -1,0 +1,59 @@
+﻿Ref;Adet;Parça;Değer/Model;Kılıf;Not;Birim Fiyat (USD);Toplam (USD)
+U1;1;Arduino Pro Mini 328 3,3 V / 8 MHz;Pro Mini 3V3/8MHz;Modül, 2×12 + 4 pin;2×12 pin header ile takılır, A4/A5 (ve A7) için tek pin. Güç LED'ini (ve isterseniz kart üstü regülatörü) sökün: uyku akımı için şart. RAW boş.;2,60;2,60
+U3;1;4 kanal BSS138 çift yönlü seviye çevirici;BSS138 x4;Modül 2×6 (0,4");SparkFun BOB-12009 pin düzeni (LV1 LV2 LV GND LV3 LV4 / HV1 HV2 HV GND HV3 HV4, sıralar 0,4").;0,40;0,40
+J2;1;Pin header 1×9 erkek (A7670E kablosu);A7670E;2,54 mm;A7670E kartına kısa (≤10 cm) kablo, VMOD/GND için 0,5 mm² tel önerilir.;0,05;0,05
+C10,C11;2;470 µF 6,3 V düşük ESR radyal (Ø6,3 mm);470µ 6V3;Ø6,3 mm, 2,5 mm;;0,00;0,00
+C12,C13,C14,C2,C4,C3;6;100 nF seramik;100n;5,08 mm;;0,02;0,12
+Q1,Q6,Q2;3;AO3401A P-MOSFET (ALT YÜZ, SMD);AO3401A;SOT-23;;0,05;0,15
+R1,R5,R14,R16,R7,R28;6;100 kΩ 1/4 W;100k;Eksenel 10,16;;0,01;0,06
+Q5,Q4,Q7;3;2N3904 NPN;2N3904;TO-92;;0,03;0,09
+R2,R15;2;10 kΩ 1/4 W;10k;Eksenel 10,16;;0,01;0,02
+R3,R21;2;100 kΩ 1/4 W;100k;Eksenel, dik montaj 2,54;;0,01;0,02
+R4;1;4,7 kΩ 1/4 W;4k7;Eksenel 10,16;;0,01;0,01
+J8;1;Klemens 2p 5,08 mm (kapak reed, NC/Form-B);KAPAK REED (NC);5,08 mm;Kapak reed anahtarı NC (Form-B): kapak kapalı + mıknatıs = açık devre.;0,12;0,12
+R24;1;1 MΩ 1/4 W;1M;Eksenel 10,16;;0,01;0,01
+J7;1;Klemens 2p 5,08 mm;SİREN;5,08 mm;;0,12;0,12
+U7;1;MT3608 boost modülü (12 V'a ayarlı);MT3608 12V;Modül, 4 kablo;Trimpot ile çıkışı 12,0 V'a ayarlayın (FB ref. 0,6 V) — sireni bağlamadan önce.;0,45;0,45
+Q3;1;IRLZ44N N-MOSFET mantık seviyeli;IRLZ44N;TO-220 dik;Dik TO-220, soğutucu gerekmez (%12 görev, ~0,15 W).;0,60;0,60
+R6,R27;2;100 Ω 1/4 W;100R;Eksenel 10,16;;0,01;0,02
+R8,R9,R10,R11,R12,R13;6;4,7 Ω 1 W;4R7 1W;Eksenel, dik montaj 5,08;Dik (saç tokası) montaj, 5,08 mm.;0,05;0,30
+J5,J6;2;Klemens 4p 5,08 mm;LED HALKA;5,08 mm;;0,25;0,50
+U6;1;MCP1700-3302E/TO LDO 3,3 V;MCP1700-3302E;TO-92;;0,45;0,45
+C5;1;1 µF seramik (X7R);1µ;5,08 mm;;0,05;0,05
+C6;1;10 µF seramik (X5R/X7R);10µ;5,08 mm;;0,10;0,10
+R26;1;220 kΩ %1 1/4 W;220k;Eksenel 10,16;;0,02;0,02
+J10;1;Pin header 1×2 (NTC 10k B3950 kablosu);NTC 10k;2,54 mm;;0,02;0,02
+SW1;1;SW-18010P titreşim anahtarı;SW-18010P;THT 2 bacak;;0,10;0,10
+J3;1;Klemens 2p 5,08 mm;PİL 1S2P;5,08 mm;;0,12;0,12
+U5;1;1S Li-ion koruma modülü (DW01A+FS8205A), P+ = B+;1S KORUMA;Modül, 3 kablo;Pil yanındaki koruma kartı, B+ ve P+ aynı düğümdür.;0,25;0,25
+F1;1;PTC sigorta 3 A tutma (RXEF300);PTC 3A;Radyal 5,08;;0,15;0,15
+J1;1;Klemens 2p 5,08 mm;GÜNEŞ 6V;5,08 mm;;0,12;0,12
+D1;1;1N5822 Schottky 3 A 40 V;1N5822;DO-201AD;SPEC: SS34 (SMD) yerine THT eşdeğeri.;0,10;0,10
+TVS1;1;P6KE8.2A TVS 600 W (Vrwm 7,02 V);P6KE8.2A;DO-15;SPEC: SMBJ7.0A yerine THT eşdeğeri (P6KE6.8A KULLANMAYIN: Vrwm 5,8 V panel Voc'nin altında).;0,12;0,12
+C1;1;10 µF 25 V elektrolitik;10µ 25V;Ø5 mm;;0,03;0,03
+U4;1;CN3791 6 V MPPT şarj modülü;CN3791 MPPT;Modül, 5 kablo;Modül kartın dışına/şasiye, IN+/IN-/BAT+/BAT- kalın tel. CHRG ve MPPT için ince tel (TP2/TP1).;2,40;2,40
+TP2;1;Kablo noktası → CN3791 modülü CHRG (kırmızı LED katodu);-;Ø1,2 delik;CN3791 modülündeki kırmızı CHRG LED'inin katot ucu.;0,00;0,00
+D2;1;BAT85 Schottky sinyal diyodu;BAT85;DO-35;;0,05;0,05
+R19,R17;2;1 MΩ %1 1/4 W;1M;Eksenel 10,16;;0,02;0,04
+R20;1;150 kΩ %1 1/4 W;150k;Eksenel 10,16;;0,02;0,02
+R18;1;330 kΩ %1 1/4 W;330k;Eksenel 10,16;;0,02;0,02
+C8;1;10 µF seramik;10µ;2,54 mm;;0,10;0,10
+C9;1;100 nF seramik;100n;2,54 mm;;0,02;0,02
+R22,R23;2;4,7 kΩ 1/4 W;4k7;Eksenel, dik montaj 2,54;;0,01;0,02
+J4;1;Pin header 1×4 (AMG8833 + BME680 kablosu);SENSÖR;2,54 mm;;0,03;0,03
+J9;1;Klemens 2p 5,08 mm (test reed);TEST REED;5,08 mm;;0,12;0,12
+R25;1;1 kΩ 1/4 W;1k;Eksenel 10,16;;0,01;0,01
+LED1;1;3 mm yeşil LED;YEŞİL;3 mm;;0,02;0,02
+Q8;1;2N7000 N-MOSFET;2N7000;TO-92;D13 = CHG_INHIBIT, TP1'den CN3791 MPPT bölücü düğümüne tel.;0,08;0,08
+TP1;1;Kablo noktası → CN3791 MPPT bölücü düğümü;-;Ø1,2 delik;CN3791 modülünde MPPT direnç bölücüsünün orta noktası (MPPT pini) — README'ye bakın.;0,00;0,00
+H1,H2,H3,H4;4;M3 montaj deliği;M3;Ø3,2 NPTH;M3 vida + 8 mm aralayıcı ile şasiye.;0,00;0,00
+J-W1;1;VBAT bara teli (üst yüz);Ø1,0 mm kalaylı bakır tel;40.64 mm, 5 lehim noktası;Düz, karta yatık, her noktada alttan lehimlenir (VBAT dağıtımı).;0,03;0,03
+J-W2,J-W3,J-W4,J-W5,J-W6,J-W7,J-W8,J-W9,J-W10,J-W11,J-W12,J-W13,J-W14,J-W15,J-W16;15;Atlama teli (üst yüz);Ø0,6-0,8 mm kalaylı bakır tel;toplam 163 mm;Düz, kart yüzeyine yatık, GND/güç hatlarındakiler için 0,8 mm.;0,01;0,15
+PCB;1;Tek yüzlü bakır plaket FR4;100×75 mm (veya 100×100 kesilir), 1,6 mm, 35 µm;-;Pozitif fotorezist kaplı plaket de olur.;0,90;0,90
+-;1;Aşındırıcı;Demir(III) klorür FeCl3 250 g  —  veya sodyum persülfat 250 g;-;Biri yeterli. Plastik kap, eldiven, gözlük.;3,00;3,00
+-;1;Toner transfer kâğıdı / parlak kuşe kâğıt;A4, 5 yaprak;-;Lazer yazıcı gerekir.;0,80;0,80
+-;1;Pin header şeridi (erkek);1×40, 2,54 mm;-;Pro Mini (2×12 + 3 tekli), seviye çevirici (2×6), J2, J4, J10 için kesilir.;0,15;0,15
+-;1;Dişi header (opsiyonel soket);1×40, 2,54 mm;-;Pro Mini ve BSS138 modülünü sökülebilir yapmak için.;0,35;0,35
+-;4;M3 aralayıcı + vida;M3×8 mm;-;Şasiye montaj.;0,10;0,40
+-;1;Kalay teli + flux;Sn60/Pb40 veya SAC305, 0,8 mm;-;Kalaylama için sıvı kalay (opsiyonel).;1,50;1,50
+TOPLAM;;Kart + üzerindeki modüller (A7670E kartı, sensörler, siren, LED halka, panel, pil HARİÇ);;;Harici parçalar için hardware/BOM.csv;;17,48

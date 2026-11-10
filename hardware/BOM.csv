@@ -1,0 +1,132 @@
+﻿Ref;Adet;Parça;Değer/Model;Kılıf;Üretici/Örnek P/N;Açıklama;Birim Fiyat (USD, ~100 adet);Toplam (USD)
+## ELEKTRONİK — ON1-MB ana kart;;;;;;;;
+U1;1;Mikrodenetleyici;ATmega328P-AU;TQFP-32;Microchip ATMEGA328P-AU;8 MHz, 3,3 V, Optiboot;1,95;1,95
+U2;1;LTE Cat-1 modem;A7670E-LASE;LCC+LGA 24×24;SIMCom A7670E-LASE;LTE B1/3/5/7/8/20 + GSM 900/1800, SMS + ses;11,50;11,50
+U3;1;MPPT şarj denetleyici;CN3791;SSOP-10;Consonance CN3791;Tek hücre Li-ion 4,2 V, MPPT;0,42;0,42
+U4;1;LDO regülatör;MCP1700T-3302E/TT;SOT-23;Microchip MCP1700T-3302E/TT;3,3 V 250 mA, Iq 1,6 µA;0,32;0,32
+U5;1;Boost DC/DC;MT3608;SOT-23-6;Aerosemi MT3608;Siren 12 V beslemesi;0,07;0,07
+U6;1;Li-ion koruma IC;DW01A;SOT-23-6;Fortune DW01A;OV 4,3 V / UV 2,4 V / OC;0,05;0,05
+U9;1;Çift N-MOSFET;FS8205A;TSSOP-8;Fortune FS8205A;Koruma anahtarı, ortak drenaj;0,07;0,07
+U10;1;ESD dizisi;ESDA6V1-5SC6;SOT-23-6;STMicroelectronics ESDA6V1-5SC6;SIM hatları ESD;0,15;0,15
+Q1, Q2, Q10;3;P-MOSFET;AO3401A;SOT-23;AOS AO3401A;−30 V −4 A, yüksek taraf anahtar;0,04;0,12
+Q3, Q11;2;N-MOSFET;AO3400A;SOT-23;AOS AO3400A;30 V 5,7 A, alçak taraf anahtar;0,04;0,08
+Q4, Q5;2;NPN transistör;MMBT3904;SOT-23;onsemi MMBT3904;PWRKEY / Q1 sürücü / NETLIGHT;0,015;0,03
+Q6–Q9, Q12;5;N-MOSFET;BSS138;SOT-23;onsemi BSS138;Seviye çevirici / MPPT kesme;0,03;0,15
+Q13;0;NPN transistör;MMBT3904;SOT-23;onsemi MMBT3904;PWRKEY / Q1 sürücü / NETLIGHT — DNP: 1 konum, üretimde takılmaz;0,015;0,00
+D1–D3;3;Schottky diyot;SS34;SMA (DO-214AC);MDD/Vishay SS34;40 V 3 A;0,04;0,12
+TVS1;1;TVS diyot;SMBJ7.0A;SMB (DO-214AA);Littelfuse SMBJ7.0A;Panel girişi, tek yönlü 7,0 V;0,06;0,06
+TVS2;1;TVS diyot;ESD5Z5.0T1G;SOD-523;onsemi ESD5Z5.0T1G;VMODEM ESD;0,03;0,03
+F1;1;Resetlenebilir sigorta;PTC 3 A hold;1812;Bourns MF-MSMF300-2 / Littelfuse 1812L300 eşd.;VBAT rayı;0,12;0,12
+L1;1;Güç bobini;22 µH 2 A;SMD 6×6×4,5;Sunlord SWPA6045S220MT;CN3791 MPPT;0,12;0,12
+L2;1;Güç bobini;22 µH 1,5 A;SMD 5×5×4;Sunlord SWPA5040S220MT;MT3608 boost;0,09;0,09
+Y1;1;Kristal;8 MHz ±20 ppm, 12 pF;SMD 3225;Yangxing X322508MOB4SI;MCU saat;0,10;0,10
+R3;1;Direnç;120 Ω %1;0603;Yageo RC0603FR-07120RL;CN3791 COM;0,002;0,002
+R4;1;Direnç;390 kΩ %1;0603;Yageo RC0603FR-07390KL;MPPT bölücü üst (R_MP1);0,002;0,002
+R5;1;Direnç;100 kΩ %1;0603;Yageo RC0603FR-07100KL;MPPT bölücü alt (R_MP2);0,002;0,002
+R6;1;Direnç;0,24 Ω %1 1/4 W;1206;Yageo RL1206FR-070R24L;Şarj akımı algılama (R_CS);0,02;0,02
+R7, R19, R21, R23, R38, R48, R51;7;Direnç;100 kΩ %1;0603;Yageo RC0603FR-07100KL;;0,002;0,014
+R8, R29;0;Direnç;1 kΩ %1;0603;Yageo RC0603FR-071KL;DNP: 2 konum, üretimde takılmaz;0,002;0,00
+R9, R47, R52;3;Direnç;100 Ω %1;0603;Yageo RC0603FR-07100RL;;0,002;0,006
+R10, R13;2;Direnç;1 kΩ %1;0603;Yageo RC0603FR-071KL;;0,002;0,004
+R11;1;Direnç;220 kΩ %1;0603;Yageo RC0603FR-07220KL;NTC bölücü (Δ1);0,002;0,002
+R12, R20, R30–R37;10;Direnç;10 kΩ %1;0603;Yageo RC0603FR-0710KL;;0,002;0,02
+R14, R15, R17;3;Direnç;1 MΩ %1;0603;Yageo RC0603FR-071ML;;0,002;0,006
+R16;1;Direnç;330 kΩ %1;0603;Yageo RC0603FR-07330KL;VBAT bölücü;0,002;0,002
+R18;1;Direnç;150 kΩ %1;0603;Yageo RC0603FR-07150KL;SOLAR bölücü;0,002;0,002
+R22, R39, R40;3;Direnç;4,7 kΩ %1;0603;Yageo RC0603FR-074K7L;;0,002;0,006
+R24–R26;3;Direnç;22 Ω %1;0603;Yageo RC0603FR-0722RL;SIM seri;0,002;0,006
+R27;1;Direnç;0 Ω;0603;Yageo RC0603JR-070RL;RF π eşleştirme seri;0,002;0,002
+R28;0;Direnç;10 kΩ %1;0603;Yageo RC0603FR-0710KL;DNP: 1 konum, üretimde takılmaz;0,002;0,00
+R41–R46;6;Direnç;4,7 Ω %5 1 W;2512;Yageo RC2512JK-074R7L;LED akım sınırlama;0,04;0,24
+R49;1;Direnç;200 kΩ %1;0603;Yageo RC0603FR-07200KL;MT3608 FB üst;0,002;0,002
+R50;1;Direnç;10,5 kΩ %1;0603;Yageo RC0603FR-0710K5L;MT3608 FB alt (Δ3);0,002;0,002
+C1;1;Kondansatör;10 µF 25 V X5R;1206;Samsung CL31A106KAHNNNE;Panel girişi;0,03;0,03
+C2, C4, C7, C9, C12, C19–C22, C25–C29, C34;15;Kondansatör;100 nF 50 V X7R;0603;Samsung CL10B104KB8NNNC;;0,004;0,06
+C5;1;Kondansatör;220 nF 25 V X7R;0603;Samsung CL10B224KA8NNNC;CN3791 COM;0,005;0,005
+C6, C35;2;Kondansatör;22 µF 10 V X5R;1206;Samsung CL31A226KPHNNNE;;0,04;0,08
+C10, C11;2;Polimer kondansatör;470 µF 6,3 V, ESR ≤ 15 mΩ;SMD 6,3×5,8;Panasonic 6SVPF470M / eşd.;VMODEM 2 A darbe;0,30;0,60
+C13, C30;2;Kondansatör;33 pF 50 V C0G;0603;Murata GRM1885C1H330JA01;RF dekuplaj;0,003;0,006
+C14;1;Kondansatör;10 pF 50 V C0G;0603;Murata GRM1885C1H100JA01;VMODEM RF dekuplaj;0,003;0,003
+C15, C17;2;Kondansatör;1 µF 16 V X7R;0603;Samsung CL10B105KO8NNNC;;0,006;0,012
+C16, C18, C33;3;Kondansatör;10 µF 10 V X5R;0805;Samsung CL21A106KPFNNNE;;0,02;0,06
+C23, C24;2;Kondansatör;22 pF 50 V C0G;0603;Murata GRM1885C1H220JA01;Kristal yük;0,003;0,006
+C31, C32;0;Kondansatör;DNP (RF eşleştirme);0402;—;π eşleştirme şönt, değer anten ayarında — DNP: 2 konum, üretimde takılmaz;0,00;0,00
+C36;1;Kondansatör;22 µF 25 V X5R;1206;Samsung CL31A226KAHNNNE;Boost çıkışı;0,08;0,08
+LED1;1;LED;Yeşil;0603;Everlight 19-217/G7C;Durum LED’i (ışık borusu);0,01;0,01
+LED2;0;LED;Kırmızı;0603;Everlight 19-217/R6C;CHRG göstergesi — DNP: 1 konum, üretimde takılmaz;0,01;0,00
+LED3;0;LED;Mavi;0603;Everlight 19-217/BHC;NETLIGHT (hata ayıklama) — DNP: 1 konum, üretimde takılmaz;0,01;0,00
+SW1;1;Titreşim anahtarı;SW-18010P;THT;Generic SW-18010P;Kurcalama (NO);0,06;0,06
+J1, J5;2;Konektör;JST-XH 2p dik;THT 2,50 mm;JST B2B-XH-A;;0,05;0,10
+J2;1;Konektör;JST-VH 2p dik;THT 3,96 mm;JST B2P-VH;Batarya (Δ2, 10 A);0,10;0,10
+J3, J9, J10;3;Konektör;JST-PH 2p dik;THT 2,00 mm;JST B2B-PH-K-S;;0,04;0,12
+J4;1;Konektör;JST-SH 6p yatay;SMD 1,00 mm;JST SM06B-SRSS-TB;Sensör kablosu;0,30;0,30
+J6;1;Pin başlık;1×6 2,54 mm;THT;Generic;FTDI programlama;0,03;0,03
+J7;1;Pin başlık;2×3 2,54 mm;THT;Generic;AVR ISP;0,05;0,05
+J8;1;Konektör;JST-XH 8p dik;THT 2,50 mm;JST B8B-XH-A;LED halkası;0,12;0,12
+J11;1;SIM yuvası;Nano-SIM push-push;SMD;Molex 78723-1001 / eşd.;;0,25;0,25
+J12;1;RF konektör;U.FL;SMD;Hirose U.FL-R-SMT-1(10);Anten pigtail;0,35;0,35
+TP1–TP5;0;Test noktası;Ped Ø1,5 mm;SMD ped;—;A7670E USB/BOOT/LOG (SIMCom önerisi), maliyetsiz;0,00;0,00
+## ELEKTRONİK — SNS-1 sensör kartı;;;;;;;;
+U7;1;Termal dizi sensörü;AMG8833 Grid-EYE;SMD 11,6×8;Panasonic AMG8833;8×8 IR, 60° FOV, I2C 0x69;24,00;24,00
+U8;1;Gaz/ortam sensörü;BME680;LGA-8 3×3;Bosch BME680;VOC + T/RH/P, I2C 0x77;6,80;6,80
+R101;1;Direnç;20 Ω %1;0603;Yageo RC0603FR-0720RL;AMG8833 AVDD-PC RC;0,002;0,002
+C101;1;Kondansatör;10 µF 10 V X5R;0805;Samsung CL21A106KPFNNNE;;0,02;0,02
+C102;1;Kondansatör;1 µF 16 V X7R;0603;Samsung CL10B105KO8NNNC;;0,006;0,006
+C103;1;Kondansatör;1,5 µF 16 V X5R;0603;Murata GRM188R61C155KA;AMG8833 DVDD-PC;0,01;0,01
+C104, C105;2;Kondansatör;100 nF 50 V X7R;0603;Samsung CL10B104KB8NNNC;;0,004;0,008
+J101;1;Konektör;JST-SH 6p yatay;SMD 1,00 mm;JST SM06B-SRSS-TB;Sensör kablosu;0,30;0,30
+## ELEKTRONİK — kart dışı parçalar ve kablolar;;;;;;;;
+SW2;1;Reed anahtar;Form-C (NC kontak kullanılır);Cam + kılıf, kablolu;Littelfuse/Hamlin Form-C (örnek);Kapak kurcalama (Δ6) + kapak mıknatısı;0,70;0,70
+SW3;1;Reed anahtar;Form-A (NO);Kılıflı, kablolu;Littelfuse/Hamlin Form-A (örnek);Mıknatıslı test/kurulum;0,45;0,45
+LD1–LD6;6;Güç LED’i;1 W kırmızı 625 nm;3535 (MCPCB);Generic 3535 1 W 620–625 nm;Strob halkası;0,10;0,60
+PV1;1;Güneş paneli;6 V 3 W monokristal ETFE;165×135 mm;Generic ETFE 6V3W;Kablolu, J1 JST-XH + PG7;5,50;5,50
+BT1, BT2;2;Li-ion hücre;18650 3500 mAh;18650;Samsung INR18650-35E / LG MJ1;1S2P = 7000 mAh;3,30;6,60
+NTC1;1;NTC termistör;10 kΩ B3950 epoksi;kablolu 10 cm;Generic MF52 10K 3950;Hücreye yapıştırılır, J3 PH 2p;0,10;0,10
+SR1;1;Piezo siren;12 V 105 dB @30 cm IP65;Ø42 mm;Generic 12V 105dB IP65 piezo;≈30 mA;2,80;2,80
+ANT1;1;LTE anten;3 dBi IP67 çubuk, SMA erkek;~200 mm;Generic 698–2690 MHz IP67;Harici, yukarı bakar;2,60;2,60
+W1;1;Kablo demeti;U.FL → SMA dişi bulkhead 15 cm, O-ring;RG1.13;Generic;Anten pigtail + bulkhead somun;0,85;0,85
+W2;1;Kablo demeti;JST-SH 6p ↔ 6p, 25 cm, 1:1;AWG28;JST/Generic;J4 ↔ J101;0,40;0,40
+W3;1;Kablo demeti;JST-XH 8p, 15 cm;AWG22;Generic;J8 ↔ LED halkası;0,35;0,35
+W4;1;Kablo demeti;JST-XH 2p, 30 cm;AWG24;Generic;J5 ↔ siren;0,15;0,15
+W5;1;Kablo;Panel kablosu 2×0,5 mm² UV dayanımlı, 0,6 m + JST-XH 2p;—;Generic;PV1 → PG7 → J1;0,45;0,45
+W6;2;Kablo demeti;JST-PH 2p, 20 cm;AWG26;Generic;J9 / J10 reed;0,10;0,20
+## MEKANİK — gövde, montaj ve aksesuarlar;;;;;;;;
+M1;1;Gövde;Kalaylı sac teneke Ø153 × 178 mm (≈3 L) + kapak;0,25 mm tinplate;Generic 3 L teneke kutu;Delme şablonuna göre delinir;1,90;1,90
+M2;1;Boya / kaplama;RAL 9010 ısı yansıtıcı epoksi (dış) + korozyon astarı (iç);—;Toz boya, fason;Delikler sonrası;1,60;1,60
+M3;1;İç yalıtım;5 mm alüminyum yüzlü kapalı hücreli PE köpük seti;kesim seti;Generic;Gövde içi ısı yalıtımı;0,90;0,90
+M4;1;Conta;EPDM kapak contası;Ø153;Generic;IP54;0,35;0,35
+M5;3;Kilit klipsi;Paslanmaz yaylı kilit (draw latch) + 2 perçin;SS304;Generic;Kapak, 0°/120°/240°;0,30;0,90
+M6;1;Panel braketi;30° eğimli Al 5052 2 mm, eloksal, 15 mm hava boşluğu;lazer + büküm;Fason;Güneşlik görevi, 4×M4;3,80;3,80
+M7;1;Termal pencere;HDPE 0,4 mm Ø34 disk (8–14 µm geçirgen);—;Generic;Cam/akrilik KULLANILMAZ;0,08;0,08
+M8;1;Koruma teli;Paslanmaz tel örgü Ø34 (SS304, 1 mm göz);—;Generic;Pencere önü;0,15;0,15
+M9;1;Yağmur siperliği;Termal pencere siperliği + 35° sensör yuvası;ASA baskı;İç üretim;Pencere üstü;0,45;0,45
+M10;1;Havalandırma;M12×1,5 ePTFE membran vent;M12;Generic IP68 vent;BME680 haznesi;0,65;0,65
+M11;1;Basınç dengeleme;M8 ePTFE vent;M8;Generic IP68 vent;Alt kapak;0,45;0,45
+M12;1;Drenaj tapası;Labirentli drenaj tapası Ø6;ASA;İç üretim;Alt kapak;0,20;0,20
+M13;1;LED kubbesi;UV dayanımlı polikarbonat kubbe Ø70 + O-ring + 3×M3;PC;Generic;Alt LED halkası;1,40;1,40
+M14;1;Işık borusu;Ø3 mm ışık borusu (durum LED’i);PC;Generic;Ön yüz;0,15;0,15
+M15;1;Kablo rakoru;PG7 naylon IP68;PG7;Generic;Panel kablosu;0,18;0,18
+M16;1;Gövde kelepçesi;Paslanmaz bant kelepçe 2 m + toka (Ø15–60 cm ağaç);SS304;Generic;Ağaca montaj;3,20;3,20
+M17;1;L braket;Paslanmaz L braket 2 mm + 2×M5 cıvata/aralayıcı;SS304;Fason;Arka yüz, bant yarıkları;2,60;2,60
+M18;1;Mapa;M6 mapa A2 + somun + pul;M6;DIN 580 eşd.;Emniyet halatı;0,55;0,55
+M19;1;Emniyet halatı;2 mm paslanmaz halat 3 m + 2 klemens + kos;SS304;Generic;Düşme emniyeti;2,10;2,10
+M20;1;Nem alıcı;Silika jel 10 g (renk göstergeli);poşet;Generic;Şasi cebi;0,12;0,12
+M21;1;Etiket;UV laminasyonlu polyester (ID, QR, mıknatıs noktası, uyarılar);—;Fason baskı;;0,25;0,25
+M22;1;İç şasi;3B baskı ASA şasi (PCB + 2×18650 + silika cebi), ≈70 g;ASA;İç üretim;;3,20;3,20
+M23;1;Pil tutucu;2×18650 paralel tutucu, kablolu (JST-VH 2p);—;Generic;Şasiye vidalı;0,40;0,40
+M24;1;Mıknatıslar;Kapak mıknatısı Ø6×2 + test mıknatısı (anahtarlık);NdFeB;Generic;SW2 / SW3;0,50;0,50
+M25;1;Bağlantı elemanları;M3/M4 vida, somun, pul, kablo bağı seti;SS;Generic;;0,50;0,50
+## ÜRETİM — PCB, dizgi, kaplama, test, montaj;;;;;;;;
+P1;1;PCB;ON1-MB Rev A, 78×58 mm, 2 kat FR4 1,6 mm, ENIG;—;JLCPCB/PCBWay sınıfı;100 adet;0,95;0,95
+P2;1;PCB;SNS-1, ≈30×26 mm, 2 kat FR4 1,0 mm, ENIG;—;JLCPCB/PCBWay sınıfı;100 adet;0,35;0,35
+P3;1;PCB;LED halkası Al-MCPCB Ø50 mm 1,6 mm;—;JLCPCB/PCBWay sınıfı;100 adet;0,55;0,55
+P4;1;Dizgi (PCBA);ON1-MB SMT + THT, şablon/kurulum amortismanı dahil;—;Fason dizgi;≈150 yerleşim;5,50;5,50
+P5;1;Dizgi (PCBA);SNS-1 + LED halkası dizgisi;—;Fason dizgi;;1,60;1,60
+P6;1;Konformal kaplama;Akrilik seçici kaplama (sensör/konektör maskeli);—;Fason;ON1-MB + SNS-1 (sensör hariç);0,90;0,90
+P7;1;Programlama + test;Bootloader/firmware yükleme + fonksiyon testi (fikstür);—;İç;;1,50;1,50
+P8;1;Son montaj;Gövde montajı, sızdırmazlık, IP54 kontrol, paketleme (≈20 dk);—;İç işçilik;;5,00;5,00
+;;;;;;;;
+;;ARA TOPLAM — Elektronik;;;;;;71,22
+;;ARA TOPLAM — Mekanik;;;;;;26,58
+;;ARA TOPLAM — Üretim;;;;;;16,35
+;;GENEL TOPLAM (cihaz başı, ~100 adet);;;;SIM kart/abonelik, KDV, nakliye hariç;;114,15

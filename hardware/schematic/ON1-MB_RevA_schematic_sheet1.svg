@@ -1,0 +1,834 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 4200 2970" font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="4200" height="2970" fill="#ffffff"/>
+<rect x="40.0" y="40.0" width="4120.0" height="2890.0" fill="none" stroke="#000" stroke-width="5.0"/>
+<rect x="80.0" y="80.0" width="4040.0" height="2810.0" fill="none" stroke="#000" stroke-width="3.0"/>
+<text x="332.5" y="69.0" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">1</text>
+<text x="332.5" y="2919.0" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">1</text>
+<text x="837.5" y="69.0" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">2</text>
+<text x="837.5" y="2919.0" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">2</text>
+<line x1="585.0" y1="40.0" x2="585.0" y2="80.0" stroke="#000" stroke-width="2.0"/>
+<line x1="585.0" y1="2890.0" x2="585.0" y2="2930.0" stroke="#000" stroke-width="2.0"/>
+<text x="1342.5" y="69.0" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">3</text>
+<text x="1342.5" y="2919.0" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">3</text>
+<line x1="1090.0" y1="40.0" x2="1090.0" y2="80.0" stroke="#000" stroke-width="2.0"/>
+<line x1="1090.0" y1="2890.0" x2="1090.0" y2="2930.0" stroke="#000" stroke-width="2.0"/>
+<text x="1847.5" y="69.0" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">4</text>
+<text x="1847.5" y="2919.0" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">4</text>
+<line x1="1595.0" y1="40.0" x2="1595.0" y2="80.0" stroke="#000" stroke-width="2.0"/>
+<line x1="1595.0" y1="2890.0" x2="1595.0" y2="2930.0" stroke="#000" stroke-width="2.0"/>
+<text x="2352.5" y="69.0" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">5</text>
+<text x="2352.5" y="2919.0" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">5</text>
+<line x1="2100.0" y1="40.0" x2="2100.0" y2="80.0" stroke="#000" stroke-width="2.0"/>
+<line x1="2100.0" y1="2890.0" x2="2100.0" y2="2930.0" stroke="#000" stroke-width="2.0"/>
+<text x="2857.5" y="69.0" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">6</text>
+<text x="2857.5" y="2919.0" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">6</text>
+<line x1="2605.0" y1="40.0" x2="2605.0" y2="80.0" stroke="#000" stroke-width="2.0"/>
+<line x1="2605.0" y1="2890.0" x2="2605.0" y2="2930.0" stroke="#000" stroke-width="2.0"/>
+<text x="3362.5" y="69.0" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">7</text>
+<text x="3362.5" y="2919.0" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">7</text>
+<line x1="3110.0" y1="40.0" x2="3110.0" y2="80.0" stroke="#000" stroke-width="2.0"/>
+<line x1="3110.0" y1="2890.0" x2="3110.0" y2="2930.0" stroke="#000" stroke-width="2.0"/>
+<text x="3867.5" y="69.0" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">8</text>
+<text x="3867.5" y="2919.0" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">8</text>
+<line x1="3615.0" y1="40.0" x2="3615.0" y2="80.0" stroke="#000" stroke-width="2.0"/>
+<line x1="3615.0" y1="2890.0" x2="3615.0" y2="2930.0" stroke="#000" stroke-width="2.0"/>
+<text x="60.0" y="323.16666666666663" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">A</text>
+<text x="4140.0" y="323.16666666666663" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">A</text>
+<text x="60.0" y="791.5" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">B</text>
+<text x="4140.0" y="791.5" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">B</text>
+<line x1="40.0" y1="548.3333333333333" x2="80.0" y2="548.3333333333333" stroke="#000" stroke-width="2.0"/>
+<line x1="4120.0" y1="548.3333333333333" x2="4160.0" y2="548.3333333333333" stroke="#000" stroke-width="2.0"/>
+<text x="60.0" y="1259.8333333333333" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">C</text>
+<text x="4140.0" y="1259.8333333333333" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">C</text>
+<line x1="40.0" y1="1016.6666666666666" x2="80.0" y2="1016.6666666666666" stroke="#000" stroke-width="2.0"/>
+<line x1="4120.0" y1="1016.6666666666666" x2="4160.0" y2="1016.6666666666666" stroke="#000" stroke-width="2.0"/>
+<text x="60.0" y="1728.1666666666665" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">D</text>
+<text x="4140.0" y="1728.1666666666665" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">D</text>
+<line x1="40.0" y1="1485.0" x2="80.0" y2="1485.0" stroke="#000" stroke-width="2.0"/>
+<line x1="4120.0" y1="1485.0" x2="4160.0" y2="1485.0" stroke="#000" stroke-width="2.0"/>
+<text x="60.0" y="2196.5" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">E</text>
+<text x="4140.0" y="2196.5" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">E</text>
+<line x1="40.0" y1="1953.3333333333333" x2="80.0" y2="1953.3333333333333" stroke="#000" stroke-width="2.0"/>
+<line x1="4120.0" y1="1953.3333333333333" x2="4160.0" y2="1953.3333333333333" stroke="#000" stroke-width="2.0"/>
+<text x="60.0" y="2664.833333333333" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">F</text>
+<text x="4140.0" y="2664.833333333333" font-family="Arial, Helvetica, sans-serif" font-size="26.0" text-anchor="middle">F</text>
+<line x1="40.0" y1="2421.6666666666665" x2="80.0" y2="2421.6666666666665" stroke="#000" stroke-width="2.0"/>
+<line x1="4120.0" y1="2421.6666666666665" x2="4160.0" y2="2421.6666666666665" stroke="#000" stroke-width="2.0"/>
+<rect x="2900.0" y="2600.0" width="1220.0" height="290.0" fill="#fff" stroke="#000" stroke-width="3.0"/>
+<rect x="2900.0" y="2600.0" width="330.0" height="290.0" fill="#1F4D3A"/>
+<circle cx="3065.0" cy="2695.0" r="48.0" fill="none" stroke="#F4F1EA" stroke-width="6.0"/>
+<path d="M3065.0,2662.0 L3095.0,2718.0 L3035.0,2718.0 Z" fill="#E4572E"/>
+<circle cx="3065.0" cy="2698.0" r="9.0" fill="#F4F1EA"/>
+<text x="3065.0" y="2790.0" font-family="Arial, Helvetica, sans-serif" font-size="34.0" font-weight="bold" fill="#fff" text-anchor="middle">ORMAN</text>
+<text x="3065.0" y="2828.0" font-family="Arial, Helvetica, sans-serif" font-size="34.0" font-weight="bold" fill="#fff" text-anchor="middle">NÖBETÇİSİ</text>
+<text x="3065.0" y="2862.0" font-family="Arial, Helvetica, sans-serif" font-size="22.0" fill="#F4F1EA" text-anchor="middle">Model ON-1</text>
+<line x1="3230.0" y1="2710.0" x2="4120.0" y2="2710.0" stroke="#000" stroke-width="2.0"/>
+<line x1="3230.0" y1="2770.0" x2="4120.0" y2="2770.0" stroke="#000" stroke-width="2.0"/>
+<line x1="3230.0" y1="2830.0" x2="4120.0" y2="2830.0" stroke="#000" stroke-width="2.0"/>
+<text x="3244.0" y="2624.0" font-family="Arial, Helvetica, sans-serif" font-size="15.0" fill="#555">Proje / Çizim başlığı</text>
+<text x="3244.0" y="2662.0" font-family="Arial, Helvetica, sans-serif" font-size="33.0" font-weight="bold">Orman Nöbetçisi ON-1 — ON1-MB Rev A</text>
+<text x="3244.0" y="2696.0" font-family="Arial, Helvetica, sans-serif" font-size="23.0">Devre şeması 1/2: Güç katı — şarj, koruma, 3V3, LED strob, siren</text>
+<line x1="3452.5" y1="2710.0" x2="3452.5" y2="2830.0" stroke="#000" stroke-width="2.0"/>
+<line x1="3675.0" y1="2710.0" x2="3675.0" y2="2830.0" stroke="#000" stroke-width="2.0"/>
+<line x1="3897.5" y1="2710.0" x2="3897.5" y2="2830.0" stroke="#000" stroke-width="2.0"/>
+<text x="3240.0" y="2730.0" font-family="Arial, Helvetica, sans-serif" font-size="15.0" fill="#555">Doküman no</text>
+<text x="3240.0" y="2758.0" font-family="Arial, Helvetica, sans-serif" font-size="22.0" font-weight="bold" fill="#000">ON1-MB-SCH</text>
+<text x="3462.5" y="2730.0" font-family="Arial, Helvetica, sans-serif" font-size="15.0" fill="#555">Revizyon</text>
+<text x="3462.5" y="2758.0" font-family="Arial, Helvetica, sans-serif" font-size="26.0" font-weight="bold" fill="#000">A</text>
+<text x="3685.0" y="2730.0" font-family="Arial, Helvetica, sans-serif" font-size="15.0" fill="#555">Tarih</text>
+<text x="3685.0" y="2758.0" font-family="Arial, Helvetica, sans-serif" font-size="24.0" font-weight="normal" fill="#000">2026-11-10</text>
+<text x="3907.5" y="2730.0" font-family="Arial, Helvetica, sans-serif" font-size="15.0" fill="#555">Sayfa</text>
+<text x="3907.5" y="2758.0" font-family="Arial, Helvetica, sans-serif" font-size="26.0" font-weight="bold" fill="#000">1/2</text>
+<text x="3240.0" y="2790.0" font-family="Arial, Helvetica, sans-serif" font-size="15.0" fill="#555">Boyut</text>
+<text x="3240.0" y="2818.0" font-family="Arial, Helvetica, sans-serif" font-size="22.0" font-weight="normal" fill="#000">A3 yatay</text>
+<text x="3462.5" y="2790.0" font-family="Arial, Helvetica, sans-serif" font-size="15.0" fill="#555">Ölçek</text>
+<text x="3462.5" y="2818.0" font-family="Arial, Helvetica, sans-serif" font-size="22.0" font-weight="normal" fill="#000">—</text>
+<text x="3685.0" y="2790.0" font-family="Arial, Helvetica, sans-serif" font-size="15.0" fill="#555">Çizen</text>
+<text x="3685.0" y="2818.0" font-family="Arial, Helvetica, sans-serif" font-size="19.0" font-weight="normal" fill="#000">Algosense Danışmanlık</text>
+<text x="3907.5" y="2790.0" font-family="Arial, Helvetica, sans-serif" font-size="15.0" fill="#555">Onay</text>
+<text x="3907.5" y="2818.0" font-family="Arial, Helvetica, sans-serif" font-size="22.0" font-weight="normal" fill="#000">—</text>
+<text x="3244.0" y="2868.0" font-family="Arial, Helvetica, sans-serif" font-size="17.0" fill="#333">Tek doğru kaynak: SPEC.md Rev A • Bu çizim programla üretilmiştir (hardware/tools) — elle düzenlemeyin.</text>
+<rect x="100" y="100" width="2060" height="990" fill="none" stroke="#1F4D3A" stroke-width="3" stroke-dasharray="18,8" rx="6"/>
+<rect x="100" y="100" width="2060" height="40" fill="#1F4D3A" rx="6"/>
+<rect x="100" y="120" width="2060" height="20" fill="#1F4D3A"/>
+<text x="116" y="129" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#fff">1)  Güneş paneli girişi ve CN3791 MPPT şarj</text>
+<rect x="112" y="210" width="128" height="300" fill="#F7F7F7" stroke="#666" stroke-width="2" stroke-dasharray="10,6" rx="10"/>
+<text x="122" y="234" font-family="Arial, Helvetica, sans-serif" font-size="17" font-style="italic" fill="#444">Panel</text>
+<rect x="2190" y="100" width="1910" height="990" fill="none" stroke="#1F4D3A" stroke-width="3" stroke-dasharray="18,8" rx="6"/>
+<rect x="2190" y="100" width="1910" height="40" fill="#1F4D3A" rx="6"/>
+<rect x="2190" y="120" width="1910" height="20" fill="#1F4D3A"/>
+<text x="2206" y="129" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#fff">2)  Batarya ve koruma (DW01A + FS8205A, PTC, NTC)</text>
+<rect x="2210" y="440" width="215" height="380" fill="#F7F7F7" stroke="#666" stroke-width="2" stroke-dasharray="10,6" rx="10"/>
+<text x="2220" y="464" font-family="Arial, Helvetica, sans-serif" font-size="17" font-style="italic" fill="#444">2×18650 (1S2P)</text>
+<rect x="3575" y="560" width="165" height="230" fill="#F7F7F7" stroke="#666" stroke-width="2" stroke-dasharray="10,6" rx="10"/>
+<text x="3585" y="584" font-family="Arial, Helvetica, sans-serif" font-size="17" font-style="italic" fill="#444">NTC (hücrede)</text>
+<rect x="100" y="1120" width="960" height="540" fill="none" stroke="#1F4D3A" stroke-width="3" stroke-dasharray="18,8" rx="6"/>
+<rect x="100" y="1120" width="960" height="40" fill="#1F4D3A" rx="6"/>
+<rect x="100" y="1140" width="960" height="20" fill="#1F4D3A"/>
+<text x="116" y="1149" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#fff">3)  3,3 V LDO</text>
+<rect x="1090" y="1120" width="3010" height="830" fill="none" stroke="#1F4D3A" stroke-width="3" stroke-dasharray="18,8" rx="6"/>
+<rect x="1090" y="1120" width="3010" height="40" fill="#1F4D3A" rx="6"/>
+<rect x="1090" y="1140" width="3010" height="20" fill="#1F4D3A"/>
+<text x="1106" y="1149" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#fff">8)  Yerel alarm: 6×LED strob sürücü + MT3608 12 V siren besleme</text>
+<rect x="1125" y="1560" width="905" height="330" fill="#F7F7F7" stroke="#666" stroke-width="2" stroke-dasharray="10,6" rx="10"/>
+<text x="1135" y="1878" font-family="Arial, Helvetica, sans-serif" font-size="17" font-style="italic" fill="#444">LED halkası — Al-MCPCB Ø50 mm, alt kapakta PC kubbe Ø70 mm (kart dışı)</text>
+<rect x="3985" y="1400" width="105" height="250" fill="#F7F7F7" stroke="#666" stroke-width="2" stroke-dasharray="10,6" rx="10"/>
+<text x="3995" y="1424" font-family="Arial, Helvetica, sans-serif" font-size="17" font-style="italic" fill="#444">Siren</text>
+<rect x="100" y="1990" width="2760" height="880" fill="#FBFAF6" stroke="#1F4D3A" stroke-width="2.5" rx="6"/>
+<rect x="120" y="2445" width="1180" height="26" fill="#1F4D3A"/>
+<rect x="120" y="2497" width="1180" height="26" fill="#EEF2EE"/>
+<rect x="120" y="2549" width="1180" height="26" fill="#EEF2EE"/>
+<rect x="120" y="2601" width="1180" height="26" fill="#EEF2EE"/>
+<rect x="120" y="2653" width="1180" height="26" fill="#EEF2EE"/>
+<rect x="120" y="2445" width="1180" height="234" fill="none" stroke="#1F4D3A" stroke-width="2"/>
+<path d="M165,330 L230,330" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M165,410 L200,410 L200,370 L230,370" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M380,370 L410,370" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M380,330 L480,330" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M480,330 L480,360" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M480,330 L560,330" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M560,330 L560,270" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M560,330 L610,330" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M690,330 L1020,330" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1100,330 L1200,330" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1200,330 L1200,360" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1200,330 L1290,330" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1370,330 L1600,330" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1600,330 L1610,330" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1690,330 L2050,330" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1210,560 L1060,560 L1060,394" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1210,620 L980,620 L980,330" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1130,700 L1130,720 L1210,720" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1210,800 L870,800" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M870,755 L870,800" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M870,800 L870,830" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M870,675 L870,655" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M700,820 L700,800 L870,800" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M636,860 L520,860" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M590,860 L590,880" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1180,860 L1210,860" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1100,860 L1050,860 L1050,890" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1530,560 L1600,560 L1600,330" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1530,620 L1770,620 L1770,330" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1530,720 L2010,720" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1960,690 L1960,720" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1960,560 L1960,610" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M2275,580 L2275,545 L2370,545 L2370,580" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M2370,545 L2420,545 L2420,540 L2450,540" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M2275,660 L2275,695 L2370,695 L2370,660" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M2370,695 L2435,695 L2435,580 L2450,580" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M2600,540 L2690,540 L2690,330" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M2600,580 L2650,580 L2650,800" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M2810,330 L2810,350" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M2810,430 L2810,500 L2880,500" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M2750,500 L2810,500" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M2750,580 L2750,800" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M2880,560 L2850,560 L2850,800" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M2650,800 L3240,800" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3240,840 L3220,840 L3220,800" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3190,500 L3440,500 L3440,740" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3190,540 L3330,540 L3330,740" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3190,580 L3230,580" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3530,800 L3560,800 L3560,840 L3530,840" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3330,940 L3330,955 L3440,955 L3440,940" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M2300,330 L3660,330" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3740,330 L3960,330" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3640,640 L3760,640" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M3640,720 L3720,720 L3720,680 L3760,680" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M3910,640 L3960,640" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3960,600 L3960,640" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3960,640 L3960,680" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3960,640 L3985,640" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M200,1320 L500,1320" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M740,1320 L1000,1320" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1200,1255 L1750,1255" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1200,1255 L1200,1295" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1200,1375 L1200,1420" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1310,1255 L1310,1295" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1310,1375 L1310,1420" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1420,1255 L1420,1295" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1420,1375 L1420,1420" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1530,1255 L1530,1295" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1530,1375 L1530,1420" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1640,1255 L1640,1295" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1640,1375 L1640,1420" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1750,1255 L1750,1295" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1750,1375 L1750,1420" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1860,1420 L1860,1400 L1970,1400 L1970,1420" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1970,1400 L2560,1400" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M1200,1550 L1200,1610" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M1200,1690 L1200,1730" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M1310,1550 L1310,1610" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M1310,1690 L1310,1730" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M1420,1550 L1420,1610" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M1420,1690 L1420,1730" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M1530,1550 L1530,1610" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M1530,1690 L1530,1730" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M1640,1550 L1640,1610" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M1640,1690 L1640,1730" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M1750,1550 L1750,1610" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M1750,1690 L1750,1730" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M1200,1730 L1970,1730" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M1860,1730 L1860,1550" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M1970,1730 L1970,1550" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M2560,1400 L2560,1440" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M2460,1480 L2496,1480" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M2478,1480 L2478,1540" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M2800,1300 L3040,1300" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M2980,1500 L2950,1500 L2950,1300" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3120,1300 L3300,1300" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3260,1500 L3300,1500 L3300,1300" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3300,1300 L3340,1300" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3420,1300 L3740,1300" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3610,1300 L3610,1360" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3610,1440 L3610,1570 L3610,1610" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3260,1570 L3610,1570" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M2980,1570 L2840,1570" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M2900,1570 L2900,1610" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3740,1300 L3740,1500 L3800,1500" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3800,1540 L3770,1540 L3770,1780" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3660,1820 L3706,1820" fill="none" stroke-width="2.4" stroke="#000" stroke-linejoin="round"/>
+<path d="M3970,1500 L4010,1500 L4010,1520" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<path d="M3970,1540 L3990,1540 L3990,1620 L4010,1620 L4010,1600" fill="none" stroke-width="2.4" stroke-dasharray="8,5" stroke="#555" stroke-linejoin="round"/>
+<g transform="translate(165,370) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-6" stroke-width="2.4" /><line x1="0" y1="6" x2="0" y2="40" stroke-width="2.4" /><line x1="-18" y1="-6" x2="18" y2="-6" stroke-width="2.4" /><line x1="-9" y1="6" x2="9" y2="6" stroke-width="5" /><line x1="-27" y1="-18" x2="-19" y2="-18" stroke-width="2" /><line x1="-23" y1="-22" x2="-23" y2="-14" stroke-width="2" /></g>
+<text x="176" y="470" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle" font-weight="normal" fill="#000">PV1 6V 3W</text>
+<rect x="260" y="310" width="90" height="80" fill="#F2F5FA" stroke="#000" stroke-width="2.4"/>
+<text x="328" y="336" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="end" font-weight="normal" fill="#000">PV+</text>
+<text x="266" y="336" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">1</text>
+<line x1="350" y1="330" x2="380" y2="330" stroke="#000" stroke-width="2.4"/>
+<line x1="260" y1="330" x2="230" y2="330" stroke="#000" stroke-width="2.4" stroke-dasharray="6,4"/>
+<text x="328" y="376" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="end" font-weight="normal" fill="#000">PV−</text>
+<text x="266" y="376" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">2</text>
+<line x1="350" y1="370" x2="380" y2="370" stroke="#000" stroke-width="2.4"/>
+<line x1="260" y1="370" x2="230" y2="370" stroke="#000" stroke-width="2.4" stroke-dasharray="6,4"/>
+<text x="305" y="274.9" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="bold" fill="#000">J1</text>
+<text x="305" y="298" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" font-weight="normal" fill="#000">JST-XH 2p</text>
+<g transform="translate(480,400) rotate(180)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-12" stroke-width="2.4" /><line x1="0" y1="12" x2="0" y2="40" stroke-width="2.4" /><path d="M-14,-12 L14,-12 L0,12 Z" fill="#fff"/><path d="M-21,6 L-15,12 L15,12 L21,18" fill="none"/></g>
+<text x="508" y="395.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">TVS1</text>
+<text x="508" y="419.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">SMBJ7.0A</text>
+<g transform="translate(650,330) rotate(270)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-12" stroke-width="2.4" /><line x1="0" y1="12" x2="0" y2="40" stroke-width="2.4" /><path d="M-14,-12 L14,-12 L0,12 Z" fill="#fff"/><path d="M-13,7 L-19,7 L-19,12 L19,12 L19,17 L13,17" fill="none"/></g>
+<text x="650" y="254.96" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="bold" fill="#000">D1</text>
+<text x="650" y="278.48" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="normal" fill="#000">SS34</text>
+<text x="650" y="302" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="normal" fill="#000">ters polarite</text>
+<g transform="translate(750,370) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-5" stroke-width="2.4" /><line x1="0" y1="5" x2="0" y2="40" stroke-width="2.4" /><line x1="-17" y1="-5" x2="17" y2="-5" stroke-width="4.2" /><line x1="-17" y1="5" x2="17" y2="5" stroke-width="4.2" /></g>
+<text x="776" y="353.83" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">C1</text>
+<text x="776" y="377.35" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">10µF</text>
+<text x="776" y="400.87" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">25V</text>
+<g transform="translate(860,370) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-5" stroke-width="2.4" /><line x1="0" y1="5" x2="0" y2="40" stroke-width="2.4" /><line x1="-17" y1="-5" x2="17" y2="-5" stroke-width="4.2" /><line x1="-17" y1="5" x2="17" y2="5" stroke-width="4.2" /></g>
+<text x="886" y="353.83" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">C2</text>
+<text x="886" y="377.35" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">100nF</text>
+<text x="886" y="400.87" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">50V</text>
+<g transform="translate(1060,354) rotate(270)" stroke="#000" fill="none" stroke-linecap="round"><line x1="-40" y1="0" x2="-2" y2="0" stroke-width="2.4" /><line x1="-2" y1="-20" x2="-2" y2="20" stroke-width="2.6" /><line x1="8" y1="-26" x2="8" y2="-12" stroke-width="3" /><line x1="8" y1="-6" x2="8" y2="6" stroke-width="3" /><line x1="8" y1="12" x2="8" y2="26" stroke-width="3" /><line x1="8" y1="-19" x2="24" y2="-19" stroke-width="2.4" /><line x1="24" y1="-40" x2="24" y2="0" stroke-width="2.4" /><line x1="8" y1="19" x2="24" y2="19" stroke-width="2.4" /><line x1="24" y1="19" x2="24" y2="40" stroke-width="2.4" /><line x1="8" y1="0" x2="24" y2="0" stroke-width="2.4" /><path d="M22,0 l-9,-5 l0,10 Z" fill="#000" stroke-width="1"/><line x1="24" y1="-30" x2="42" y2="-30" stroke-width="1.6" /><line x1="42" y1="-30" x2="42" y2="30" stroke-width="1.6" /><line x1="42" y1="30" x2="24" y2="30" stroke-width="1.6" /><path d="M35,-6 L49,-6 L42,6 Z" fill="#fff" stroke-width="1.6"/><line x1="35" y1="6" x2="49" y2="6" stroke-width="1.6" /></g>
+<text x="1060" y="266.48" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="bold" fill="#000">Q10</text>
+<text x="1060" y="290" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="normal" fill="#000">AO3401A</text>
+<g transform="translate(1200,400) rotate(180)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-12" stroke-width="2.4" /><line x1="0" y1="12" x2="0" y2="40" stroke-width="2.4" /><path d="M-14,-12 L14,-12 L0,12 Z" fill="#fff"/><path d="M-13,7 L-19,7 L-19,12 L19,12 L19,17 L13,17" fill="none"/></g>
+<text x="1228" y="395.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">D2</text>
+<text x="1228" y="419.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">SS34</text>
+<g transform="translate(1330,330) rotate(90)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-24" stroke-width="2.4" /><line x1="0" y1="24" x2="0" y2="40" stroke-width="2.4" /><path d="M0,-24 a6,6 0 0 1 0,12 a6,6 0 0 1 0,12 a6,6 0 0 1 0,12 a6,6 0 0 1 0,12" fill="none"/></g>
+<text x="1330" y="296.48" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="bold" fill="#000">L1</text>
+<text x="1330" y="320" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="normal" fill="#000">22µH 2A</text>
+<g transform="translate(1650,330) rotate(90)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="1650" y="265.96" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="bold" fill="#000">R6</text>
+<text x="1650" y="289.48" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="normal" fill="#000">0,24Ω 1206</text>
+<text x="1650" y="313" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="normal" fill="#000">R_CS, Ich=500 mA</text>
+<g transform="translate(1860,370) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-5" stroke-width="2.4" /><line x1="0" y1="5" x2="0" y2="40" stroke-width="2.4" /><line x1="-17" y1="-5" x2="17" y2="-5" stroke-width="4.2" /><line x1="-17" y1="5" x2="17" y2="5" stroke-width="4.2" /></g>
+<text x="1886" y="353.83" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">C6</text>
+<text x="1886" y="377.35" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">22µF</text>
+<text x="1886" y="400.87" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">10V 1206</text>
+<rect x="1240" y="520" width="260" height="380" fill="#FFFDF0" stroke="#000" stroke-width="2.8"/>
+<text x="1248" y="566.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="start" font-weight="normal" fill="#000">DRV</text>
+<text x="1235" y="555" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="end" font-weight="normal" fill="#333">10</text>
+<line stroke="#000" x1="1240" y1="560" x2="1210" y2="560" stroke-width="2.4" />
+<text x="1248" y="626.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="start" font-weight="normal" fill="#000">VCC</text>
+<text x="1235" y="615" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="end" font-weight="normal" fill="#333">9</text>
+<line stroke="#000" x1="1240" y1="620" x2="1210" y2="620" stroke-width="2.4" />
+<text x="1248" y="726.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="start" font-weight="normal" fill="#000">VG</text>
+<text x="1235" y="715" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="end" font-weight="normal" fill="#333">1</text>
+<line stroke="#000" x1="1240" y1="720" x2="1210" y2="720" stroke-width="2.4" />
+<text x="1248" y="806.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="start" font-weight="normal" fill="#000">MPPT</text>
+<text x="1235" y="795" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="end" font-weight="normal" fill="#333">6</text>
+<line stroke="#000" x1="1240" y1="800" x2="1210" y2="800" stroke-width="2.4" />
+<text x="1248" y="866.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="start" font-weight="normal" fill="#000">COM</text>
+<text x="1235" y="855" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="end" font-weight="normal" fill="#333">5</text>
+<line stroke="#000" x1="1240" y1="860" x2="1210" y2="860" stroke-width="2.4" />
+<text x="1492" y="566.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="end" font-weight="normal" fill="#000">CSP</text>
+<text x="1505" y="555" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">8</text>
+<line stroke="#000" x1="1500" y1="560" x2="1530" y2="560" stroke-width="2.4" />
+<text x="1492" y="626.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="end" font-weight="normal" fill="#000">BAT</text>
+<text x="1505" y="615" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">7</text>
+<line stroke="#000" x1="1500" y1="620" x2="1530" y2="620" stroke-width="2.4" />
+<text x="1492" y="726.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="end" font-weight="normal" fill="#000">CHRG</text>
+<text x="1505" y="715" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">3</text>
+<line stroke="#000" x1="1500" y1="720" x2="1530" y2="720" stroke-width="2.4" />
+<text x="1492" y="806.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="end" font-weight="normal" fill="#000">DONE</text>
+<text x="1505" y="795" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">4</text>
+<line stroke="#000" x1="1500" y1="800" x2="1530" y2="800" stroke-width="2.4" />
+<text x="1370" y="891" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="normal" fill="#000">GND</text>
+<text x="1375" y="918" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">2</text>
+<line stroke="#000" x1="1370" y1="900" x2="1370" y2="930" stroke-width="2.4" />
+<text x="1240" y="484.9" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">U3</text>
+<text x="1240" y="508" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">CN3791 (SSOP-10)</text>
+<text x="1370" y="710" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="normal" fill="#555" font-style="italic">MPPT Li-ion şarj</text>
+<g transform="translate(1130,660) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-5" stroke-width="2.4" /><line x1="0" y1="5" x2="0" y2="40" stroke-width="2.4" /><line x1="-17" y1="-5" x2="17" y2="-5" stroke-width="4.2" /><line x1="-17" y1="5" x2="17" y2="5" stroke-width="4.2" /></g>
+<text x="1104" y="655.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="end" font-weight="bold" fill="#000">C4</text>
+<text x="1104" y="679.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="end" font-weight="normal" fill="#000">100nF</text>
+<g transform="translate(870,715) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="887" y="698.83" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">R4</text>
+<text x="887" y="722.35" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">390k 1%</text>
+<text x="887" y="745.87" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">R_MP1</text>
+<g transform="translate(870,870) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="887" y="853.83" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">R5</text>
+<text x="887" y="877.35" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">100k 1%</text>
+<text x="887" y="900.87" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">R_MP2</text>
+<g transform="translate(676,860) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="-40" y1="0" x2="-2" y2="0" stroke-width="2.4" /><line x1="-2" y1="-20" x2="-2" y2="20" stroke-width="2.6" /><line x1="8" y1="-26" x2="8" y2="-12" stroke-width="3" /><line x1="8" y1="-6" x2="8" y2="6" stroke-width="3" /><line x1="8" y1="12" x2="8" y2="26" stroke-width="3" /><line x1="8" y1="-19" x2="24" y2="-19" stroke-width="2.4" /><line x1="24" y1="-19" x2="24" y2="-40" stroke-width="2.4" /><line x1="8" y1="19" x2="24" y2="19" stroke-width="2.4" /><line x1="24" y1="0" x2="24" y2="40" stroke-width="2.4" /><line x1="8" y1="0" x2="24" y2="0" stroke-width="2.4" /><path d="M9,0 l9,-5 l0,10 Z" fill="#000" stroke-width="1"/></g>
+<text x="714" y="855.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">Q12</text>
+<text x="714" y="879.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">BSS138</text>
+<g transform="translate(590,920) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="573" y="915.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="end" font-weight="bold" fill="#000">R7</text>
+<text x="573" y="939.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="end" font-weight="normal" fill="#000">100k</text>
+<g transform="translate(1140,860) rotate(90)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="1140" y="819.48" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="bold" fill="#000">R3</text>
+<text x="1140" y="843" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="normal" fill="#000">120Ω</text>
+<g transform="translate(1050,930) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-5" stroke-width="2.4" /><line x1="0" y1="5" x2="0" y2="40" stroke-width="2.4" /><line x1="-17" y1="-5" x2="17" y2="-5" stroke-width="4.2" /><line x1="-17" y1="5" x2="17" y2="5" stroke-width="4.2" /></g>
+<text x="1024" y="925.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="end" font-weight="bold" fill="#000">C5</text>
+<text x="1024" y="949.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="end" font-weight="normal" fill="#000">220nF</text>
+<g transform="translate(1960,650) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-12" stroke-width="2.4" /><line x1="0" y1="12" x2="0" y2="40" stroke-width="2.4" /><path d="M-14,-12 L14,-12 L0,12 Z" fill="#fff"/><line x1="-14" y1="12" x2="14" y2="12" stroke-width="2.4" /><line x1="17" y1="-8" x2="30" y2="-20" stroke-width="1.8" /><path d="M30,-20 l-7,1.5 l4.5,4.5 Z" fill="#000" stroke-width="1"/><line x1="17" y1="4" x2="30" y2="-8" stroke-width="1.8" /><path d="M30,-8 l-7,1.5 l4.5,4.5 Z" fill="#000" stroke-width="1"/></g>
+<text x="1998" y="633.83" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">LED2</text>
+<text x="1998" y="657.35" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">kırmızı 0603</text>
+<text x="1998" y="680.87" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#B00000">DNP</text>
+<g transform="translate(1960,520) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="1977" y="503.83" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">R8</text>
+<text x="1977" y="527.35" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">1k</text>
+<text x="1977" y="550.87" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#B00000">DNP</text>
+<text x="130" y="1020" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="normal" fill="#333">MPPT: V_MPPT = 1,205 V × (1 + R4/R5) = 5,90 V (panel tarafında, D1 öncesi ölçülür)  •  Ich = 120 mV / R6 = 500 mA  •  CHRG → A3</text>
+<text x="130" y="1050" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="normal" fill="#333">Q12: D13=HIGH → MPPT pini GND’ye çekilir → şarj durur (NTC ile 0…45 °C penceresi firmware’de, bkz. Δ1). Prototipte doğrulanmalı.</text>
+<g transform="translate(2275,620) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-6" stroke-width="2.4" /><line x1="0" y1="6" x2="0" y2="40" stroke-width="2.4" /><line x1="-18" y1="-6" x2="18" y2="-6" stroke-width="2.4" /><line x1="-9" y1="6" x2="9" y2="6" stroke-width="5" /><line x1="-27" y1="-18" x2="-19" y2="-18" stroke-width="2" /><line x1="-23" y1="-22" x2="-23" y2="-14" stroke-width="2" /></g>
+<g transform="translate(2370,620) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-6" stroke-width="2.4" /><line x1="0" y1="6" x2="0" y2="40" stroke-width="2.4" /><line x1="-18" y1="-6" x2="18" y2="-6" stroke-width="2.4" /><line x1="-9" y1="6" x2="9" y2="6" stroke-width="5" /><line x1="-27" y1="-18" x2="-19" y2="-18" stroke-width="2" /><line x1="-23" y1="-22" x2="-23" y2="-14" stroke-width="2" /></g>
+<text x="2318" y="750" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="normal" fill="#000">BT1 ‖ BT2</text>
+<text x="2318" y="772" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" fill="#000">18650 3500 mAh</text>
+<text x="2318" y="792" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" fill="#000">= 7000 mAh</text>
+<rect x="2480" y="520" width="90" height="80" fill="#F2F5FA" stroke="#000" stroke-width="2.4"/>
+<text x="2548" y="546" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="end" font-weight="normal" fill="#000">B+</text>
+<text x="2486" y="546" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">1</text>
+<line x1="2570" y1="540" x2="2600" y2="540" stroke="#000" stroke-width="2.4"/>
+<line x1="2480" y1="540" x2="2450" y2="540" stroke="#000" stroke-width="2.4" stroke-dasharray="6,4"/>
+<text x="2548" y="586" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="end" font-weight="normal" fill="#000">B−</text>
+<text x="2486" y="586" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">2</text>
+<line x1="2570" y1="580" x2="2600" y2="580" stroke="#000" stroke-width="2.4"/>
+<line x1="2480" y1="580" x2="2450" y2="580" stroke="#000" stroke-width="2.4" stroke-dasharray="6,4"/>
+<text x="2525" y="484.9" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="bold" fill="#000">J2</text>
+<text x="2525" y="508" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" font-weight="normal" fill="#000">JST-VH 2p</text>
+<g transform="translate(2810,390) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="2827" y="385.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">R9</text>
+<text x="2827" y="409.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">100Ω</text>
+<rect x="2910" y="470" width="250" height="180" fill="#FFFDF0" stroke="#000" stroke-width="2.8"/>
+<text x="2918" y="506.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="start" font-weight="normal" fill="#000">VCC</text>
+<text x="2905" y="495" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="end" font-weight="normal" fill="#333">5</text>
+<line stroke="#000" x1="2910" y1="500" x2="2880" y2="500" stroke-width="2.4" />
+<text x="2918" y="566.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="start" font-weight="normal" fill="#000">GND</text>
+<text x="2905" y="555" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="end" font-weight="normal" fill="#333">6</text>
+<line stroke="#000" x1="2910" y1="560" x2="2880" y2="560" stroke-width="2.4" />
+<text x="3152" y="506.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="end" font-weight="normal" fill="#000">OD</text>
+<text x="3165" y="495" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">1</text>
+<line stroke="#000" x1="3160" y1="500" x2="3190" y2="500" stroke-width="2.4" />
+<text x="3152" y="546.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="end" font-weight="normal" fill="#000">OC</text>
+<text x="3165" y="535" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">3</text>
+<line stroke="#000" x1="3160" y1="540" x2="3190" y2="540" stroke-width="2.4" />
+<text x="3152" y="586.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="end" font-weight="normal" fill="#000">CS</text>
+<text x="3165" y="575" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">2</text>
+<line stroke="#000" x1="3160" y1="580" x2="3190" y2="580" stroke-width="2.4" />
+<text x="3152" y="626.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="end" font-weight="normal" fill="#000">TD</text>
+<text x="3165" y="615" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">4</text>
+<line stroke="#000" x1="3160" y1="620" x2="3190" y2="620" stroke-width="2.4" />
+<text x="2910" y="434.9" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">U6</text>
+<text x="2910" y="458" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">DW01A (SOT-23-6)</text>
+<g transform="translate(2750,540) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-5" stroke-width="2.4" /><line x1="0" y1="5" x2="0" y2="40" stroke-width="2.4" /><line x1="-17" y1="-5" x2="17" y2="-5" stroke-width="4.2" /><line x1="-17" y1="5" x2="17" y2="5" stroke-width="4.2" /></g>
+<text x="2724" y="535.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="end" font-weight="bold" fill="#000">C7</text>
+<text x="2724" y="559.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="end" font-weight="normal" fill="#000">100nF</text>
+<rect x="3270" y="770" width="230" height="140" fill="#FFFDF0" stroke="#000" stroke-width="2.8"/>
+<text x="3278" y="806.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="start" font-weight="normal" fill="#000">S1</text>
+<text x="3265" y="795" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="end" font-weight="normal" fill="#333">2</text>
+<line stroke="#000" x1="3270" y1="800" x2="3240" y2="800" stroke-width="2.4" />
+<text x="3278" y="846.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="start" font-weight="normal" fill="#000">S1</text>
+<text x="3265" y="835" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="end" font-weight="normal" fill="#333">3</text>
+<line stroke="#000" x1="3270" y1="840" x2="3240" y2="840" stroke-width="2.4" />
+<text x="3492" y="806.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="end" font-weight="normal" fill="#000">S2</text>
+<text x="3505" y="795" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">7</text>
+<line stroke="#000" x1="3500" y1="800" x2="3530" y2="800" stroke-width="2.4" />
+<text x="3492" y="846.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="end" font-weight="normal" fill="#000">S2</text>
+<text x="3505" y="835" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">6</text>
+<line stroke="#000" x1="3500" y1="840" x2="3530" y2="840" stroke-width="2.4" />
+<text x="3330" y="795" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="normal" fill="#000">G2</text>
+<text x="3335" y="762" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">5</text>
+<line stroke="#000" x1="3330" y1="770" x2="3330" y2="740" stroke-width="2.4" />
+<text x="3440" y="795" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="normal" fill="#000">G1</text>
+<text x="3445" y="762" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">4</text>
+<line stroke="#000" x1="3440" y1="770" x2="3440" y2="740" stroke-width="2.4" />
+<text x="3330" y="901" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="normal" fill="#000">D</text>
+<text x="3335" y="928" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">1</text>
+<line stroke="#000" x1="3330" y1="910" x2="3330" y2="940" stroke-width="2.4" />
+<text x="3440" y="901" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="normal" fill="#000">D</text>
+<text x="3445" y="928" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">8</text>
+<line stroke="#000" x1="3440" y1="910" x2="3440" y2="940" stroke-width="2.4" />
+<text x="3270" y="1000" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="start" font-weight="bold" fill="#000">U9  FS8205A (TSSOP-8)</text>
+<text x="3270" y="1023" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#555">çift N-MOSFET, ortak drenaj (1, 8)</text>
+<g transform="translate(3230,620) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="3247" y="615.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">R10</text>
+<text x="3247" y="639.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">1k</text>
+<text x="3580" y="880" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#555">P− = GND</text>
+<g transform="translate(3700,330) rotate(90)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/><path d="M-17,18 L15,-18 L23,-18" fill="none" stroke-width="1.8"/></g>
+<text x="3700" y="281.48" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="bold" fill="#000">F1</text>
+<text x="3700" y="305" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="normal" fill="#000">PTC 3A 1812</text>
+<text x="3790" y="362" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#555">VBAT 3,0–4,2 V</text>
+<text x="2730" y="280" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#555">DW01A: aşırı şarj 4,3 V • aşırı deşarj 2,4 V • aşırı akım 150 mV/R_SS</text>
+<g transform="translate(3640,680) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/><path d="M-23,18 L-15,18 L15,-18" fill="none" stroke-width="1.8"/><text x="12" y="20" font-size="15" font-family="Arial, Helvetica, sans-serif" stroke="none" fill="#000">-t°</text></g>
+<text x="3657" y="772" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="normal" fill="#000">NTC1 10k B3950</text>
+<rect x="3790" y="620" width="90" height="80" fill="#F2F5FA" stroke="#000" stroke-width="2.4"/>
+<text x="3858" y="646" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="end" font-weight="normal" fill="#000">NTC</text>
+<text x="3796" y="646" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">1</text>
+<line x1="3880" y1="640" x2="3910" y2="640" stroke="#000" stroke-width="2.4"/>
+<line x1="3790" y1="640" x2="3760" y2="640" stroke="#000" stroke-width="2.4" stroke-dasharray="6,4"/>
+<text x="3858" y="686" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="end" font-weight="normal" fill="#000">GND</text>
+<text x="3796" y="686" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">2</text>
+<line x1="3880" y1="680" x2="3910" y2="680" stroke="#000" stroke-width="2.4"/>
+<line x1="3790" y1="680" x2="3760" y2="680" stroke="#000" stroke-width="2.4" stroke-dasharray="6,4"/>
+<text x="3835" y="584.9" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="bold" fill="#000">J3</text>
+<text x="3835" y="608" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" font-weight="normal" fill="#000">JST-PH 2p</text>
+<g transform="translate(3960,560) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="3977" y="555.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">R11</text>
+<text x="3977" y="579.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">220k 1%</text>
+<g transform="translate(3960,720) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-5" stroke-width="2.4" /><line x1="0" y1="5" x2="0" y2="40" stroke-width="2.4" /><line x1="-17" y1="-5" x2="17" y2="-5" stroke-width="4.2" /><line x1="-17" y1="5" x2="17" y2="5" stroke-width="4.2" /></g>
+<text x="3986" y="715.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">C9</text>
+<text x="3986" y="739.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">100nF</text>
+<text x="3790" y="840" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#555">BAT_NTC → U1 A7 (ADC7)</text>
+<g transform="translate(290,1360) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-5" stroke-width="2.4" /><line x1="0" y1="5" x2="0" y2="40" stroke-width="2.4" /><line x1="-17" y1="-5" x2="17" y2="-5" stroke-width="4.2" /><line x1="-17" y1="5" x2="17" y2="5" stroke-width="4.2" /></g>
+<text x="316" y="1355.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">C15</text>
+<text x="316" y="1379.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">1µF</text>
+<g transform="translate(390,1360) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-5" stroke-width="2.4" /><line x1="0" y1="5" x2="0" y2="40" stroke-width="2.4" /><line x1="-17" y1="-5" x2="17" y2="-5" stroke-width="4.2" /><line x1="-17" y1="5" x2="17" y2="5" stroke-width="4.2" /></g>
+<text x="416" y="1355.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">C16</text>
+<text x="416" y="1379.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">10µF</text>
+<rect x="530" y="1270" width="180" height="110" fill="#FFFDF0" stroke="#000" stroke-width="2.8"/>
+<text x="538" y="1326.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="start" font-weight="normal" fill="#000">VIN</text>
+<text x="525" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="end" font-weight="normal" fill="#333">3</text>
+<line stroke="#000" x1="530" y1="1320" x2="500" y2="1320" stroke-width="2.4" />
+<text x="702" y="1326.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="end" font-weight="normal" fill="#000">VOUT</text>
+<text x="715" y="1315" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">2</text>
+<line stroke="#000" x1="710" y1="1320" x2="740" y2="1320" stroke-width="2.4" />
+<text x="620" y="1371" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="normal" fill="#000">GND</text>
+<text x="625" y="1398" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">1</text>
+<line stroke="#000" x1="620" y1="1380" x2="620" y2="1410" stroke-width="2.4" />
+<text x="530" y="1234.9" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">U4</text>
+<text x="530" y="1258" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">MCP1700T-3302E/TT</text>
+<g transform="translate(810,1360) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-5" stroke-width="2.4" /><line x1="0" y1="5" x2="0" y2="40" stroke-width="2.4" /><line x1="-17" y1="-5" x2="17" y2="-5" stroke-width="4.2" /><line x1="-17" y1="5" x2="17" y2="5" stroke-width="4.2" /></g>
+<text x="836" y="1355.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">C17</text>
+<text x="836" y="1379.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">1µF</text>
+<g transform="translate(910,1360) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-5" stroke-width="2.4" /><line x1="0" y1="5" x2="0" y2="40" stroke-width="2.4" /><line x1="-17" y1="-5" x2="17" y2="-5" stroke-width="4.2" /><line x1="-17" y1="5" x2="17" y2="5" stroke-width="4.2" /></g>
+<text x="936" y="1355.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">C18</text>
+<text x="936" y="1379.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">10µF</text>
+<text x="130" y="1500" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="normal" fill="#333">Iq = 1,6 µA, 250 mA, dropout 178 mV.</text>
+<text x="130" y="1528" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="normal" fill="#333">Besler: U1 ATmega328P, BSS138 HV pull-up’ları,</text>
+<text x="130" y="1556" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="normal" fill="#333">NTC bölücü, Q2 üzerinden sensör rayı V_SNS.</text>
+<text x="130" y="1600" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#8a4b00" font-style="italic">Not: FTDI 3V3 yalnızca batarya takılıyken bağlanmalı</text>
+<text x="130" y="1622" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#8a4b00" font-style="italic">(MCP1700 ters akım korumasız).</text>
+<text x="1110" y="1192" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="start" font-weight="bold" fill="#1F4D3A">8a) LED strob (D6 → Q3)</text>
+<text x="2730" y="1192" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="start" font-weight="bold" fill="#1F4D3A">8b) Siren: MT3608 boost 12 V (D9 → EN, Q11)</text>
+<rect x="1145" y="1450" width="880" height="70" fill="#F2F5FA" stroke="#000" stroke-width="2.4"/>
+<line x1="1200" y1="1450" x2="1200" y2="1420" stroke="#000" stroke-width="2.4"/>
+<line x1="1200" y1="1520" x2="1200" y2="1550" stroke="#000" stroke-width="2.4" stroke-dasharray="6,4"/>
+<text x="1200" y="1474" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="normal" fill="#333">1</text>
+<text x="1200" y="1508" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="normal" fill="#000">A1</text>
+<line x1="1310" y1="1450" x2="1310" y2="1420" stroke="#000" stroke-width="2.4"/>
+<line x1="1310" y1="1520" x2="1310" y2="1550" stroke="#000" stroke-width="2.4" stroke-dasharray="6,4"/>
+<text x="1310" y="1474" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="normal" fill="#333">2</text>
+<text x="1310" y="1508" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="normal" fill="#000">A2</text>
+<line x1="1420" y1="1450" x2="1420" y2="1420" stroke="#000" stroke-width="2.4"/>
+<line x1="1420" y1="1520" x2="1420" y2="1550" stroke="#000" stroke-width="2.4" stroke-dasharray="6,4"/>
+<text x="1420" y="1474" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="normal" fill="#333">3</text>
+<text x="1420" y="1508" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="normal" fill="#000">A3</text>
+<line x1="1530" y1="1450" x2="1530" y2="1420" stroke="#000" stroke-width="2.4"/>
+<line x1="1530" y1="1520" x2="1530" y2="1550" stroke="#000" stroke-width="2.4" stroke-dasharray="6,4"/>
+<text x="1530" y="1474" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="normal" fill="#333">4</text>
+<text x="1530" y="1508" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="normal" fill="#000">A4</text>
+<line x1="1640" y1="1450" x2="1640" y2="1420" stroke="#000" stroke-width="2.4"/>
+<line x1="1640" y1="1520" x2="1640" y2="1550" stroke="#000" stroke-width="2.4" stroke-dasharray="6,4"/>
+<text x="1640" y="1474" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="normal" fill="#333">5</text>
+<text x="1640" y="1508" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="normal" fill="#000">A5</text>
+<line x1="1750" y1="1450" x2="1750" y2="1420" stroke="#000" stroke-width="2.4"/>
+<line x1="1750" y1="1520" x2="1750" y2="1550" stroke="#000" stroke-width="2.4" stroke-dasharray="6,4"/>
+<text x="1750" y="1474" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="normal" fill="#333">6</text>
+<text x="1750" y="1508" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="normal" fill="#000">A6</text>
+<line x1="1860" y1="1450" x2="1860" y2="1420" stroke="#000" stroke-width="2.4"/>
+<line x1="1860" y1="1520" x2="1860" y2="1550" stroke="#000" stroke-width="2.4" stroke-dasharray="6,4"/>
+<text x="1860" y="1474" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="normal" fill="#333">7</text>
+<text x="1860" y="1508" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="normal" fill="#000">K</text>
+<line x1="1970" y1="1450" x2="1970" y2="1420" stroke="#000" stroke-width="2.4"/>
+<line x1="1970" y1="1520" x2="1970" y2="1550" stroke="#000" stroke-width="2.4" stroke-dasharray="6,4"/>
+<text x="1970" y="1474" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="normal" fill="#333">8</text>
+<text x="1970" y="1508" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle" font-weight="normal" fill="#000">K</text>
+<text x="2039" y="1478" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">J8</text>
+<text x="2039" y="1501.1" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="normal" fill="#000">JST-XH 8p</text>
+<g transform="translate(1200,1335) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="1217" y="1330.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">R41</text>
+<text x="1217" y="1354.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">4,7Ω</text>
+<g transform="translate(1310,1335) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="1327" y="1330.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">R42</text>
+<text x="1327" y="1354.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">4,7Ω</text>
+<g transform="translate(1420,1335) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="1437" y="1330.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">R43</text>
+<text x="1437" y="1354.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">4,7Ω</text>
+<g transform="translate(1530,1335) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="1547" y="1330.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">R44</text>
+<text x="1547" y="1354.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">4,7Ω</text>
+<g transform="translate(1640,1335) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="1657" y="1330.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">R45</text>
+<text x="1657" y="1354.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">4,7Ω</text>
+<g transform="translate(1750,1335) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="1767" y="1330.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">R46</text>
+<text x="1767" y="1354.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">4,7Ω</text>
+<text x="1300" y="1230" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">R41–R46: 4,7 Ω 1 W 2512 (her LED ≈300 mA, toplam ≈1,8 A tepe)</text>
+<g transform="translate(1200,1650) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-12" stroke-width="2.4" /><line x1="0" y1="12" x2="0" y2="40" stroke-width="2.4" /><path d="M-14,-12 L14,-12 L0,12 Z" fill="#fff"/><line x1="-14" y1="12" x2="14" y2="12" stroke-width="2.4" /><line x1="17" y1="-8" x2="30" y2="-20" stroke-width="1.8" /><path d="M30,-20 l-7,1.5 l4.5,4.5 Z" fill="#000" stroke-width="1"/><line x1="17" y1="4" x2="30" y2="-8" stroke-width="1.8" /><path d="M30,-8 l-7,1.5 l4.5,4.5 Z" fill="#000" stroke-width="1"/></g>
+<text x="1244" y="1657.35" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">LD1</text>
+<g transform="translate(1310,1650) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-12" stroke-width="2.4" /><line x1="0" y1="12" x2="0" y2="40" stroke-width="2.4" /><path d="M-14,-12 L14,-12 L0,12 Z" fill="#fff"/><line x1="-14" y1="12" x2="14" y2="12" stroke-width="2.4" /><line x1="17" y1="-8" x2="30" y2="-20" stroke-width="1.8" /><path d="M30,-20 l-7,1.5 l4.5,4.5 Z" fill="#000" stroke-width="1"/><line x1="17" y1="4" x2="30" y2="-8" stroke-width="1.8" /><path d="M30,-8 l-7,1.5 l4.5,4.5 Z" fill="#000" stroke-width="1"/></g>
+<text x="1354" y="1657.35" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">LD2</text>
+<g transform="translate(1420,1650) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-12" stroke-width="2.4" /><line x1="0" y1="12" x2="0" y2="40" stroke-width="2.4" /><path d="M-14,-12 L14,-12 L0,12 Z" fill="#fff"/><line x1="-14" y1="12" x2="14" y2="12" stroke-width="2.4" /><line x1="17" y1="-8" x2="30" y2="-20" stroke-width="1.8" /><path d="M30,-20 l-7,1.5 l4.5,4.5 Z" fill="#000" stroke-width="1"/><line x1="17" y1="4" x2="30" y2="-8" stroke-width="1.8" /><path d="M30,-8 l-7,1.5 l4.5,4.5 Z" fill="#000" stroke-width="1"/></g>
+<text x="1464" y="1657.35" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">LD3</text>
+<g transform="translate(1530,1650) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-12" stroke-width="2.4" /><line x1="0" y1="12" x2="0" y2="40" stroke-width="2.4" /><path d="M-14,-12 L14,-12 L0,12 Z" fill="#fff"/><line x1="-14" y1="12" x2="14" y2="12" stroke-width="2.4" /><line x1="17" y1="-8" x2="30" y2="-20" stroke-width="1.8" /><path d="M30,-20 l-7,1.5 l4.5,4.5 Z" fill="#000" stroke-width="1"/><line x1="17" y1="4" x2="30" y2="-8" stroke-width="1.8" /><path d="M30,-8 l-7,1.5 l4.5,4.5 Z" fill="#000" stroke-width="1"/></g>
+<text x="1574" y="1657.35" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">LD4</text>
+<g transform="translate(1640,1650) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-12" stroke-width="2.4" /><line x1="0" y1="12" x2="0" y2="40" stroke-width="2.4" /><path d="M-14,-12 L14,-12 L0,12 Z" fill="#fff"/><line x1="-14" y1="12" x2="14" y2="12" stroke-width="2.4" /><line x1="17" y1="-8" x2="30" y2="-20" stroke-width="1.8" /><path d="M30,-20 l-7,1.5 l4.5,4.5 Z" fill="#000" stroke-width="1"/><line x1="17" y1="4" x2="30" y2="-8" stroke-width="1.8" /><path d="M30,-8 l-7,1.5 l4.5,4.5 Z" fill="#000" stroke-width="1"/></g>
+<text x="1684" y="1657.35" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">LD5</text>
+<g transform="translate(1750,1650) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-12" stroke-width="2.4" /><line x1="0" y1="12" x2="0" y2="40" stroke-width="2.4" /><path d="M-14,-12 L14,-12 L0,12 Z" fill="#fff"/><line x1="-14" y1="12" x2="14" y2="12" stroke-width="2.4" /><line x1="17" y1="-8" x2="30" y2="-20" stroke-width="1.8" /><path d="M30,-20 l-7,1.5 l4.5,4.5 Z" fill="#000" stroke-width="1"/><line x1="17" y1="4" x2="30" y2="-8" stroke-width="1.8" /><path d="M30,-8 l-7,1.5 l4.5,4.5 Z" fill="#000" stroke-width="1"/></g>
+<text x="1794" y="1657.35" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">LD6</text>
+<text x="1140" y="1790" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#000">LD1–LD6: 1 W kırmızı 625 nm, Vf ≈ 2,2 V, ortak katot (K) → Q3</text>
+<text x="1140" y="1815" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#000">Desen: 60 ms açık / 90 ms kapalı / 60 ms açık / 790 ms kapalı (≈ %12 görev)</text>
+<g transform="translate(2536,1480) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="-40" y1="0" x2="-2" y2="0" stroke-width="2.4" /><line x1="-2" y1="-20" x2="-2" y2="20" stroke-width="2.6" /><line x1="8" y1="-26" x2="8" y2="-12" stroke-width="3" /><line x1="8" y1="-6" x2="8" y2="6" stroke-width="3" /><line x1="8" y1="12" x2="8" y2="26" stroke-width="3" /><line x1="8" y1="-19" x2="24" y2="-19" stroke-width="2.4" /><line x1="24" y1="-19" x2="24" y2="-40" stroke-width="2.4" /><line x1="8" y1="19" x2="24" y2="19" stroke-width="2.4" /><line x1="24" y1="0" x2="24" y2="40" stroke-width="2.4" /><line x1="8" y1="0" x2="24" y2="0" stroke-width="2.4" /><path d="M9,0 l9,-5 l0,10 Z" fill="#000" stroke-width="1"/></g>
+<text x="2570" y="1475.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">Q3</text>
+<text x="2570" y="1499.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">AO3400A</text>
+<g transform="translate(2420,1480) rotate(90)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="2420" y="1439.48" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="bold" fill="#000">R47</text>
+<text x="2420" y="1463" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="normal" fill="#000">100Ω</text>
+<g transform="translate(2478,1580) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="2495" y="1575.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">R48</text>
+<text x="2495" y="1599.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">100k</text>
+<text x="2240" y="1700" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#555">Q3 kapı: 100 Ω seri + 100 kΩ pull-down</text>
+<text x="2240" y="1722" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#555">D6 HIGH → LED’ler yanar</text>
+<g transform="translate(2880,1340) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-5" stroke-width="2.4" /><line x1="0" y1="5" x2="0" y2="40" stroke-width="2.4" /><line x1="-17" y1="-5" x2="17" y2="-5" stroke-width="4.2" /><line x1="-17" y1="5" x2="17" y2="5" stroke-width="4.2" /></g>
+<text x="2854" y="1335.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="end" font-weight="bold" fill="#000">C35</text>
+<text x="2854" y="1359.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="end" font-weight="normal" fill="#000">22µF</text>
+<rect x="3010" y="1460" width="220" height="180" fill="#FFFDF0" stroke="#000" stroke-width="2.8"/>
+<text x="3018" y="1506.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="start" font-weight="normal" fill="#000">IN</text>
+<text x="3005" y="1495" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="end" font-weight="normal" fill="#333">5</text>
+<line stroke="#000" x1="3010" y1="1500" x2="2980" y2="1500" stroke-width="2.4" />
+<text x="3018" y="1576.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="start" font-weight="normal" fill="#000">EN</text>
+<text x="3005" y="1565" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="end" font-weight="normal" fill="#333">4</text>
+<line stroke="#000" x1="3010" y1="1570" x2="2980" y2="1570" stroke-width="2.4" />
+<text x="3222" y="1506.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="end" font-weight="normal" fill="#000">SW</text>
+<text x="3235" y="1495" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">1</text>
+<line stroke="#000" x1="3230" y1="1500" x2="3260" y2="1500" stroke-width="2.4" />
+<text x="3222" y="1576.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="end" font-weight="normal" fill="#000">FB</text>
+<text x="3235" y="1565" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">3</text>
+<line stroke="#000" x1="3230" y1="1570" x2="3260" y2="1570" stroke-width="2.4" />
+<text x="3222" y="1616.65" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="end" font-weight="normal" fill="#000">NC</text>
+<text x="3235" y="1605" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">6</text>
+<line stroke="#000" x1="3230" y1="1610" x2="3260" y2="1610" stroke-width="2.4" />
+<text x="3120" y="1631" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="normal" fill="#000">GND</text>
+<text x="3125" y="1658" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">2</text>
+<line stroke="#000" x1="3120" y1="1640" x2="3120" y2="1670" stroke-width="2.4" />
+<text x="3010" y="1424.9" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">U5</text>
+<text x="3010" y="1448" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">MT3608 (SOT-23-6)</text>
+<g transform="translate(3080,1300) rotate(90)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-24" stroke-width="2.4" /><line x1="0" y1="24" x2="0" y2="40" stroke-width="2.4" /><path d="M0,-24 a6,6 0 0 1 0,12 a6,6 0 0 1 0,12 a6,6 0 0 1 0,12 a6,6 0 0 1 0,12" fill="none"/></g>
+<text x="3080" y="1266.48" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="bold" fill="#000">L2</text>
+<text x="3080" y="1290" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="normal" fill="#000">22µH 1,5A</text>
+<g transform="translate(3380,1300) rotate(270)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-12" stroke-width="2.4" /><line x1="0" y1="12" x2="0" y2="40" stroke-width="2.4" /><path d="M-14,-12 L14,-12 L0,12 Z" fill="#fff"/><path d="M-13,7 L-19,7 L-19,12 L19,12 L19,17 L13,17" fill="none"/></g>
+<text x="3380" y="1248.48" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="bold" fill="#000">D3</text>
+<text x="3380" y="1272" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="normal" fill="#000">SS34</text>
+<g transform="translate(3490,1340) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-5" stroke-width="2.4" /><line x1="0" y1="5" x2="0" y2="40" stroke-width="2.4" /><line x1="-17" y1="-5" x2="17" y2="-5" stroke-width="4.2" /><line x1="-17" y1="5" x2="17" y2="5" stroke-width="4.2" /></g>
+<text x="3516" y="1323.83" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">C36</text>
+<text x="3516" y="1347.35" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">22µF</text>
+<text x="3516" y="1370.87" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">25V 1206</text>
+<g transform="translate(3610,1400) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="3627" y="1395.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">R49</text>
+<text x="3627" y="1419.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">200k 1%</text>
+<g transform="translate(3610,1650) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="3627" y="1645.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">R50</text>
+<text x="3627" y="1669.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">10,5k 1%</text>
+<g transform="translate(2900,1650) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="2917" y="1645.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">R51</text>
+<text x="2917" y="1669.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">100k</text>
+<rect x="3830" y="1480" width="110" height="80" fill="#F2F5FA" stroke="#000" stroke-width="2.4"/>
+<text x="3852" y="1506" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="normal" fill="#000">+12V</text>
+<text x="3934" y="1506" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="end" font-weight="normal" fill="#333">1</text>
+<line x1="3830" y1="1500" x2="3800" y2="1500" stroke="#000" stroke-width="2.4"/>
+<line x1="3940" y1="1500" x2="3970" y2="1500" stroke="#000" stroke-width="2.4" stroke-dasharray="6,4"/>
+<text x="3852" y="1546" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="normal" fill="#000">SİREN−</text>
+<text x="3934" y="1546" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="end" font-weight="normal" fill="#333">2</text>
+<line x1="3830" y1="1540" x2="3800" y2="1540" stroke="#000" stroke-width="2.4"/>
+<line x1="3940" y1="1540" x2="3970" y2="1540" stroke="#000" stroke-width="2.4" stroke-dasharray="6,4"/>
+<text x="3885" y="1444.9" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="bold" fill="#000">J5</text>
+<text x="3885" y="1468" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle" font-weight="normal" fill="#000">JST-XH 2p</text>
+<g transform="translate(3746,1820) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="-40" y1="0" x2="-2" y2="0" stroke-width="2.4" /><line x1="-2" y1="-20" x2="-2" y2="20" stroke-width="2.6" /><line x1="8" y1="-26" x2="8" y2="-12" stroke-width="3" /><line x1="8" y1="-6" x2="8" y2="6" stroke-width="3" /><line x1="8" y1="12" x2="8" y2="26" stroke-width="3" /><line x1="8" y1="-19" x2="24" y2="-19" stroke-width="2.4" /><line x1="24" y1="-19" x2="24" y2="-40" stroke-width="2.4" /><line x1="8" y1="19" x2="24" y2="19" stroke-width="2.4" /><line x1="24" y1="0" x2="24" y2="40" stroke-width="2.4" /><line x1="8" y1="0" x2="24" y2="0" stroke-width="2.4" /><path d="M9,0 l9,-5 l0,10 Z" fill="#000" stroke-width="1"/></g>
+<text x="3780" y="1815.59" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="bold" fill="#000">Q11</text>
+<text x="3780" y="1839.11" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="start" font-weight="normal" fill="#000">AO3400A</text>
+<g transform="translate(3620,1820) rotate(90)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-8" y="-22" width="16" height="44" fill="#fff"/></g>
+<text x="3620" y="1779.48" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="bold" fill="#000">R52</text>
+<text x="3620" y="1803" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" font-weight="normal" fill="#000">100Ω</text>
+<g transform="translate(4010,1560) rotate(0)" stroke="#000" fill="none" stroke-linecap="round"><line x1="0" y1="-40" x2="0" y2="-22" stroke-width="2.4" /><line x1="0" y1="22" x2="0" y2="40" stroke-width="2.4" /><rect x="-10" y="-22" width="20" height="44" fill="#fff"/><path d="M10,-12 L28,-26 L28,26 L10,12" fill="#fff"/><path d="M34,-12 q8,12 0,24 M40,-18 q12,18 0,36" fill="none" stroke-width="1.6"/></g>
+<text x="3995" y="1680" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#000">SR1 12 V</text>
+<text x="3995" y="1700" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#000">105 dB</text>
+<text x="3995" y="1720" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="start" font-weight="normal" fill="#000">IP65</text>
+<text x="2730" y="1885" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">Vout = 0,6 V × (1 + R49/R50) = 0,6 × (1 + 200k/10,5k) = 12,03 V  •  siren ≈ 30 mA @ 12 V</text>
+<text x="2730" y="1910" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#333">Q11: EN = LOW iken boost çıkışı ≈ VBAT kalır → siren Q11 ile ayrılır (Δ4)</text>
+<text x="116" y="2024" font-family="Arial, Helvetica, sans-serif" font-size="24" text-anchor="start" font-weight="bold" fill="#1F4D3A">NOTLAR</text>
+<text x="120" y="2056" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="normal" fill="#000">• Dirençler 0603 %1 / 1/10 W, kondansatörler 0603 X7R/X5R (aksi belirtilmedikçe).</text>
+<text x="120" y="2083" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="normal" fill="#000">• DNP = üretimde takılmaz (yalnızca hata ayıklama).  Kesik çizgi = kart dışı (kablo/harici parça).</text>
+<text x="120" y="2110" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="normal" fill="#000">• Bayrak etiketleri (▷) aynı isimli netleri iki sayfa arasında birleştirir. GND = P− (FS8205A sonrası).</text>
+<text x="120" y="2137" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="normal" fill="#000">• Pin numaraları üretici veri sayfasına göredir (A7670E: SIMCom A7672X/A7670X HW Design V1.03).</text>
+<text x="120" y="2164" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="normal" fill="#000">• Kırmızı üçgen Δn: SPEC.md Rev A’dan sapma / düzeltme — açıklama aşağıda.</text>
+<text x="116" y="2199" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="start" font-weight="bold" fill="#C0392B">SPEC Rev A düzeltmeleri</text>
+<text x="120" y="2229" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="bold" fill="#C0392B">Δ1</text>
+<text x="170" y="2229" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#000">CN3791’de TEMP/NTC pini yok (SSOP-10: VG, GND, CHRG, DONE, COM, MPPT, BAT, CSP, VCC, DRV). NTC → J3 → R11 220k bölücü → A7 (ADC7); şarj kesme: D13 → Q12 BSS138 → MPPT pini GND.</text>
+<text x="120" y="2255" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="bold" fill="#C0392B">Δ2</text>
+<text x="170" y="2255" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#000">J2 batarya konektörü JST-PH (2 A) yerine JST-VH 2p (10 A): LED strob 1,8–2,5 A + modem 2 A darbe.</text>
+<text x="120" y="2281" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="bold" fill="#C0392B">Δ3</text>
+<text x="170" y="2281" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#000">MT3608 VREF = 0,6 V: 200k/18k → 7,27 V verir. 12 V için R50 = 10,5 kΩ %1 (12,03 V).</text>
+<text x="120" y="2307" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="bold" fill="#C0392B">Δ4</text>
+<text x="170" y="2307" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#000">Boost EN=LOW iken çıkış ≈ VBAT−0,4 V kalır, siren zayıf öter/akım çeker → Q11 AO3400A alçak taraf anahtar (D9).</text>
+<text x="120" y="2333" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="bold" fill="#C0392B">Δ5</text>
+<text x="170" y="2333" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#000">NETLIGHT 1,8 V çıkış mavi LED’i (Vf≈2,9 V) süremez → Q13 MMBT3904 + LED3/R29 VMODEM’den (DNP).</text>
+<text x="120" y="2359" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="bold" fill="#C0392B">Δ6</text>
+<text x="170" y="2359" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#000">Kapak reed’i paralel bağlıyken kapak açılınca LOW vermesi için NC (Form-B/C) olmalı; spec’te NO yazıyor.</text>
+<text x="120" y="2385" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="start" font-weight="bold" fill="#C0392B">Δ7</text>
+<text x="170" y="2385" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start" font-weight="normal" fill="#000">Q4/Q5 baz pull-down 100 kΩ (R23/R21) eklendi: reset/ISP sırasında modem kendiliğinden açılmasın.</text>
+<text x="116" y="2433" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="start" font-weight="bold" fill="#1F4D3A">GÜÇ RAYLARI</text>
+<text x="128" y="2463" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#fff">Ray</text>
+<text x="278" y="2463" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#fff">Kaynak</text>
+<text x="478" y="2463" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#fff">Gerilim / akım</text>
+<text x="748" y="2463" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#fff">Besledikleri</text>
+<text x="128" y="2489" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#000">SOLAR_IN</text>
+<text x="278" y="2489" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">PV1 → J1</text>
+<text x="478" y="2489" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">0–7,5 V / 0,5 A</text>
+<text x="748" y="2489" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">D1 → U3 VCC, MPPT ve SOLAR_SENSE bölücü</text>
+<text x="128" y="2515" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#000">BAT+</text>
+<text x="278" y="2515" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">BT1‖BT2 (P+)</text>
+<text x="478" y="2515" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">3,0–4,2 V</text>
+<text x="748" y="2515" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">U3 BAT (şarj), R9 → U6, F1</text>
+<text x="128" y="2541" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#000">VBAT</text>
+<text x="278" y="2541" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">F1 PTC 3 A</text>
+<text x="478" y="2541" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">3,0–4,2 V / ≤4,5 A tepe</text>
+<text x="748" y="2541" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">U4, Q1→modem, R41–46 LED, U5, VBAT_SENSE</text>
+<text x="128" y="2567" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#000">3V3</text>
+<text x="278" y="2567" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">U4 MCP1700</text>
+<text x="478" y="2567" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">3,3 V / 250 mA</text>
+<text x="748" y="2567" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">U1, HV pull-up, Q2→V_SNS, R11 NTC, R8</text>
+<text x="128" y="2593" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#000">V_SNS</text>
+<text x="278" y="2593" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">Q2 AO3401A</text>
+<text x="478" y="2593" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">3,3 V anahtarlı</text>
+<text x="748" y="2593" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">SNS-1: U7 AMG8833, U8 BME680, I2C pull-up</text>
+<text x="128" y="2619" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#000">VMODEM</text>
+<text x="278" y="2619" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">Q1 AO3401A</text>
+<text x="478" y="2619" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">VBAT, 2 A darbe</text>
+<text x="748" y="2619" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">U2 A7670E VBAT (55–57), LED3 (DNP)</text>
+<text x="128" y="2645" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#000">VDD_EXT</text>
+<text x="278" y="2645" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">U2 pin 15</text>
+<text x="478" y="2645" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">1,8 V / 50 mA</text>
+<text x="748" y="2645" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">Q6–Q9 kapıları + LV pull-up</text>
+<text x="128" y="2671" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#000">V12</text>
+<text x="278" y="2671" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">U5 MT3608</text>
+<text x="478" y="2671" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">12,0 V / ≈30 mA</text>
+<text x="748" y="2671" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">J5 → SR1 siren (Q11 alçak taraf)</text>
+<text x="1340" y="2433" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="start" font-weight="bold" fill="#1F4D3A">TASARIM HESAPLARI</text>
+<text x="1340" y="2463" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">• MPPT: 1,205 V × (1 + 390k/100k) = 5,90 V (panel tarafı; bölücü D1 öncesine bağlı → gece sızıntı yok)</text>
+<text x="1340" y="2488" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">• Şarj akımı: 120 mV / 0,24 Ω = 500 mA  •  R6 kaybı 60 mW</text>
+<text x="1340" y="2513" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">• VBAT bölücü: 330k/1,33M = 0,2481 → 4,20 V = 1,042 V &lt; 1,1 V ref  •  3,2 µA</text>
+<text x="1340" y="2538" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">• SOLAR bölücü: 150k/1,15M = 0,1304 → 8,4 V’a kadar ölçer (Voc soğukta ≈ 7,6 V)</text>
+<text x="1340" y="2563" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">• NTC: 220k + 10k B3950 → 0 °C = 0,437 V, 25 °C = 0,143 V, 45 °C = 0,064 V (15 µA)</text>
+<text x="1340" y="2588" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">• LED: (3,7 − 2,2) / 4,7 Ω ≈ 0,32 A/LED; 4,2 V’ta 0,40 A → 2,4 A tepe, R kaybı 0,76 W tepe / 0,09 W ort.</text>
+<text x="1340" y="2613" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">• Boost: 12 V × 30 mA / (0,85 × 3,7 V) ≈ 115 mA giriş  •  FB sızıntısı EN=LOW: 3,7 V / 210k ≈ 18 µA</text>
+<text x="1340" y="2660" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="start" font-weight="bold" fill="#8a4b00">RİSKLER / ÖNERİLER (çizimi değiştirmez)</text>
+<text x="1340" y="2690" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">• BSS138 VGS(th) ≤ 1,5 V, kapı 1,8 V: −20 °C’de marjinal → NX3008NBK (pin uyumlu) önerilir.</text>
+<text x="1340" y="2715" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">• VMODEM yolu (FS8205A + PTC + Q1) 2 A GSM darbesinde ≈ 0,25 V düşer; VBAT &lt; 3,6 V’ta modem resetlenebilir.</text>
+<text x="1340" y="2740" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">• Q1 açılışında 940 µF ani akımı: gerekirse Q1 kapısına 10 kΩ seri + 100 nF (soft-start) ekleyin.</text>
+<text x="1340" y="2765" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">• Test reed’i teneke içinden zor tetiklenir → SW3 alt PC kubbe kenarına (manyetik olmayan) yerleştirin.</text>
+<text x="1340" y="2790" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="normal" fill="#000">• Bekleme bütçesine eklenmeli: NTC 15 µA + boost FB 18 µA ≈ 0,8 mAh/gün (toplam ≈ 57 mAh/gün).</text>
+<circle cx="480" cy="330" r="6.5" fill="#000"/>
+<circle cx="560" cy="330" r="6.5" fill="#000"/>
+<circle cx="1200" cy="330" r="6.5" fill="#000"/>
+<circle cx="1600" cy="330" r="6.5" fill="#000"/>
+<circle cx="980" cy="330" r="6.5" fill="#000"/>
+<circle cx="870" cy="800" r="6.5" fill="#000"/>
+<circle cx="590" cy="860" r="6.5" fill="#000"/>
+<circle cx="1770" cy="330" r="6.5" fill="#000"/>
+<circle cx="1960" cy="720" r="6.5" fill="#000"/>
+<circle cx="2370" cy="545" r="6.5" fill="#000"/>
+<circle cx="2370" cy="695" r="6.5" fill="#000"/>
+<circle cx="2690" cy="330" r="6.5" fill="#000"/>
+<circle cx="2810" cy="330" r="6.5" fill="#000"/>
+<circle cx="2810" cy="500" r="6.5" fill="#000"/>
+<circle cx="2750" cy="800" r="6.5" fill="#000"/>
+<circle cx="2850" cy="800" r="6.5" fill="#000"/>
+<circle cx="3220" cy="800" r="6.5" fill="#000"/>
+<circle cx="3560" cy="840" r="6.5" fill="#000"/>
+<circle cx="3960" cy="640" r="6.5" fill="#000"/>
+<circle cx="1200" cy="1255" r="6.5" fill="#000"/>
+<circle cx="1310" cy="1255" r="6.5" fill="#000"/>
+<circle cx="1420" cy="1255" r="6.5" fill="#000"/>
+<circle cx="1530" cy="1255" r="6.5" fill="#000"/>
+<circle cx="1640" cy="1255" r="6.5" fill="#000"/>
+<circle cx="1970" cy="1400" r="6.5" fill="#000"/>
+<circle cx="1310" cy="1730" r="6.5" fill="#000"/>
+<circle cx="1420" cy="1730" r="6.5" fill="#000"/>
+<circle cx="1530" cy="1730" r="6.5" fill="#000"/>
+<circle cx="1640" cy="1730" r="6.5" fill="#000"/>
+<circle cx="1750" cy="1730" r="6.5" fill="#000"/>
+<circle cx="1860" cy="1730" r="6.5" fill="#000"/>
+<circle cx="2478" cy="1480" r="6.5" fill="#000"/>
+<circle cx="2950" cy="1300" r="6.5" fill="#000"/>
+<circle cx="3300" cy="1300" r="6.5" fill="#000"/>
+<circle cx="3610" cy="1300" r="6.5" fill="#000"/>
+<circle cx="3610" cy="1570" r="6.5" fill="#000"/>
+<circle cx="2900" cy="1570" r="6.5" fill="#000"/>
+<circle cx="1130" cy="620" r="6.5" fill="#000"/>
+<circle cx="290" cy="1320" r="6.5" fill="#000"/>
+<circle cx="1860" cy="330" r="6.5" fill="#000"/>
+<circle cx="3680" cy="1300" r="6.5" fill="#000"/>
+<circle cx="750" cy="330" r="6.5" fill="#000"/>
+<circle cx="860" cy="330" r="6.5" fill="#000"/>
+<circle cx="3490" cy="1300" r="6.5" fill="#000"/>
+<circle cx="2880" cy="1300" r="6.5" fill="#000"/>
+<circle cx="810" cy="1320" r="6.5" fill="#000"/>
+<circle cx="910" cy="1320" r="6.5" fill="#000"/>
+<circle cx="390" cy="1320" r="6.5" fill="#000"/>
+<g stroke="#000" stroke-width="2.4"><line x1="410" y1="370" x2="410" y2="382" stroke-width="2.4" /><line x1="394" y1="382" x2="426" y2="382" stroke-width="2.4" /><line x1="400" y1="388" x2="420" y2="388" stroke-width="2.4" /><line x1="406" y1="394" x2="414" y2="394" stroke-width="2.4" /></g>
+<g stroke="#000" stroke-width="2.4"><line x1="480" y1="440" x2="480" y2="452" stroke-width="2.4" /><line x1="464" y1="452" x2="496" y2="452" stroke-width="2.4" /><line x1="470" y1="458" x2="490" y2="458" stroke-width="2.4" /><line x1="476" y1="464" x2="484" y2="464" stroke-width="2.4" /></g>
+<path d="M560,270 L616.33,260 L616.33,230 L503.67,230 L503.67,260 Z" fill="#FFFFFF" stroke="#000" stroke-width="1.8"/>
+<text x="560" y="251.5" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="normal" fill="#000">SOLAR_IN</text>
+<g stroke="#000" stroke-width="2.4"><line x1="750" y1="410" x2="750" y2="422" stroke-width="2.4" /><line x1="734" y1="422" x2="766" y2="422" stroke-width="2.4" /><line x1="740" y1="428" x2="760" y2="428" stroke-width="2.4" /><line x1="746" y1="434" x2="754" y2="434" stroke-width="2.4" /></g>
+<g stroke="#000" stroke-width="2.4"><line x1="860" y1="410" x2="860" y2="422" stroke-width="2.4" /><line x1="844" y1="422" x2="876" y2="422" stroke-width="2.4" /><line x1="850" y1="428" x2="870" y2="428" stroke-width="2.4" /><line x1="856" y1="434" x2="864" y2="434" stroke-width="2.4" /></g>
+<text x="1110" y="320" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#1F4D3A">SW_CHG</text>
+<text x="904" y="320" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#1F4D3A">VIN_CHG</text>
+<text x="1466" y="320" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#1F4D3A">CSP</text>
+<g stroke="#000" stroke-width="2.4"><line x1="1200" y1="440" x2="1200" y2="452" stroke-width="2.4" /><line x1="1184" y1="452" x2="1216" y2="452" stroke-width="2.4" /><line x1="1190" y1="458" x2="1210" y2="458" stroke-width="2.4" /><line x1="1196" y1="464" x2="1204" y2="464" stroke-width="2.4" /></g>
+<path d="M2050,330 L2060,315 L2125.11,315 L2125.11,345 L2060,345 Z" fill="#FFFFFF" stroke="#000" stroke-width="1.8"/>
+<text x="2094.56" y="336.5" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="normal" fill="#000">BAT+</text>
+<g stroke="#000" stroke-width="2.4"><line x1="1860" y1="410" x2="1860" y2="422" stroke-width="2.4" /><line x1="1844" y1="422" x2="1876" y2="422" stroke-width="2.4" /><line x1="1850" y1="428" x2="1870" y2="428" stroke-width="2.4" /><line x1="1856" y1="434" x2="1864" y2="434" stroke-width="2.4" /></g>
+<path d="M1521,791 L1539,809 M1521,809 L1539,791" stroke="#000" stroke-width="2.2" fill="none"/>
+<g stroke="#000" stroke-width="2.4"><line x1="1370" y1="930" x2="1370" y2="942" stroke-width="2.4" /><line x1="1354" y1="942" x2="1386" y2="942" stroke-width="2.4" /><line x1="1360" y1="948" x2="1380" y2="948" stroke-width="2.4" /><line x1="1366" y1="954" x2="1374" y2="954" stroke-width="2.4" /></g>
+<text x="1016" y="790" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#1F4D3A">MPPT</text>
+<g stroke="#000" stroke-width="2.4"><line x1="870" y1="910" x2="870" y2="922" stroke-width="2.4" /><line x1="854" y1="922" x2="886" y2="922" stroke-width="2.4" /><line x1="860" y1="928" x2="880" y2="928" stroke-width="2.4" /><line x1="866" y1="934" x2="874" y2="934" stroke-width="2.4" /></g>
+<path d="M870,655 L926.33,645 L926.33,615 L813.67,615 L813.67,645 Z" fill="#FFFFFF" stroke="#000" stroke-width="1.8"/>
+<text x="870" y="636.5" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="normal" fill="#000">SOLAR_IN</text>
+<g stroke="#000" stroke-width="2.4"><line x1="700" y1="900" x2="700" y2="912" stroke-width="2.4" /><line x1="684" y1="912" x2="716" y2="912" stroke-width="2.4" /><line x1="690" y1="918" x2="710" y2="918" stroke-width="2.4" /><line x1="696" y1="924" x2="704" y2="924" stroke-width="2.4" /></g>
+<g stroke="#000" stroke-width="2.4"><line x1="590" y1="960" x2="590" y2="972" stroke-width="2.4" /><line x1="574" y1="972" x2="606" y2="972" stroke-width="2.4" /><line x1="580" y1="978" x2="600" y2="978" stroke-width="2.4" /><line x1="586" y1="984" x2="594" y2="984" stroke-width="2.4" /></g>
+<path d="M520,860 L510,845 L370.88,845 L370.88,875 L510,875 Z" fill="#FFFFFF" stroke="#000" stroke-width="1.8"/>
+<text x="438.44" y="866.5" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="normal" fill="#000">CHG_INHIBIT</text>
+<path d="M470,919 L486,947 L454,947 Z" fill="#FFE8E0" stroke="#C0392B" stroke-width="2"/>
+<text x="470" y="943" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" fill="#C0392B">1</text>
+<g stroke="#000" stroke-width="2.4"><line x1="1050" y1="970" x2="1050" y2="982" stroke-width="2.4" /><line x1="1034" y1="982" x2="1066" y2="982" stroke-width="2.4" /><line x1="1040" y1="988" x2="1060" y2="988" stroke-width="2.4" /><line x1="1046" y1="994" x2="1054" y2="994" stroke-width="2.4" /></g>
+<path d="M2010,720 L2020,705 L2164.82,705 L2164.82,735 L2020,735 Z" fill="#FFFFFF" stroke="#000" stroke-width="1.8"/>
+<text x="2094.41" y="726.5" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="normal" fill="#000">CHG_STAT_N</text>
+<line stroke="#000" x1="1960" y1="480" x2="1960" y2="464" stroke-width="2.4" />
+<line stroke="#000" x1="1943" y1="464" x2="1977" y2="464" stroke-width="3" />
+<text x="1960" y="456" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" fill="#000">3V3</text>
+<path d="M2300,330 L2290,315 L2224.89,315 L2224.89,345 L2290,345 Z" fill="#FFFFFF" stroke="#000" stroke-width="1.8"/>
+<text x="2255.44" y="336.5" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="normal" fill="#000">BAT+</text>
+<path d="M2620,454 L2636,482 L2604,482 Z" fill="#FFE8E0" stroke="#C0392B" stroke-width="2"/>
+<text x="2620" y="478" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" fill="#C0392B">2</text>
+<path d="M3181,611 L3199,629 M3181,629 L3199,611" stroke="#000" stroke-width="2.2" fill="none"/>
+<g stroke="#000" stroke-width="2.4"><line x1="3230" y1="660" x2="3230" y2="672" stroke-width="2.4" /><line x1="3214" y1="672" x2="3246" y2="672" stroke-width="2.4" /><line x1="3220" y1="678" x2="3240" y2="678" stroke-width="2.4" /><line x1="3226" y1="684" x2="3234" y2="684" stroke-width="2.4" /></g>
+<g stroke="#000" stroke-width="2.4"><line x1="3560" y1="840" x2="3560" y2="852" stroke-width="2.4" /><line x1="3544" y1="852" x2="3576" y2="852" stroke-width="2.4" /><line x1="3550" y1="858" x2="3570" y2="858" stroke-width="2.4" /><line x1="3556" y1="864" x2="3564" y2="864" stroke-width="2.4" /></g>
+<text x="2666" y="824" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#1F4D3A">BAT−</text>
+<line stroke="#000" x1="3960" y1="330" x2="3960" y2="314" stroke-width="2.4" />
+<line stroke="#000" x1="3943" y1="314" x2="3977" y2="314" stroke-width="3" />
+<text x="3960" y="306" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" fill="#000">VBAT</text>
+<g stroke="#000" stroke-width="2.4"><line x1="3910" y1="680" x2="3910" y2="692" stroke-width="2.4" /><line x1="3894" y1="692" x2="3926" y2="692" stroke-width="2.4" /><line x1="3900" y1="698" x2="3920" y2="698" stroke-width="2.4" /><line x1="3906" y1="704" x2="3914" y2="704" stroke-width="2.4" /></g>
+<line stroke="#000" x1="3960" y1="520" x2="3960" y2="504" stroke-width="2.4" />
+<line stroke="#000" x1="3943" y1="504" x2="3977" y2="504" stroke-width="3" />
+<text x="3960" y="496" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" fill="#000">3V3</text>
+<g stroke="#000" stroke-width="2.4"><line x1="3960" y1="760" x2="3960" y2="772" stroke-width="2.4" /><line x1="3944" y1="772" x2="3976" y2="772" stroke-width="2.4" /><line x1="3950" y1="778" x2="3970" y2="778" stroke-width="2.4" /><line x1="3956" y1="784" x2="3964" y2="784" stroke-width="2.4" /></g>
+<path d="M3985,640 L3995,625 L4100.76,625 L4100.76,655 L3995,655 Z" fill="#FFFFFF" stroke="#000" stroke-width="1.8"/>
+<text x="4049.88" y="646.5" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="normal" fill="#000">BAT_NTC</text>
+<path d="M3880,484 L3896,512 L3864,512 Z" fill="#FFE8E0" stroke="#C0392B" stroke-width="2"/>
+<text x="3880" y="508" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" fill="#C0392B">1</text>
+<line stroke="#000" x1="200" y1="1320" x2="200" y2="1304" stroke-width="2.4" />
+<line stroke="#000" x1="183" y1="1304" x2="217" y2="1304" stroke-width="3" />
+<text x="200" y="1296" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" fill="#000">VBAT</text>
+<line stroke="#000" x1="1000" y1="1320" x2="1000" y2="1304" stroke-width="2.4" />
+<line stroke="#000" x1="983" y1="1304" x2="1017" y2="1304" stroke-width="3" />
+<text x="1000" y="1296" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" fill="#000">3V3</text>
+<g stroke="#000" stroke-width="2.4"><line x1="290" y1="1400" x2="290" y2="1412" stroke-width="2.4" /><line x1="274" y1="1412" x2="306" y2="1412" stroke-width="2.4" /><line x1="280" y1="1418" x2="300" y2="1418" stroke-width="2.4" /><line x1="286" y1="1424" x2="294" y2="1424" stroke-width="2.4" /></g>
+<g stroke="#000" stroke-width="2.4"><line x1="390" y1="1400" x2="390" y2="1412" stroke-width="2.4" /><line x1="374" y1="1412" x2="406" y2="1412" stroke-width="2.4" /><line x1="380" y1="1418" x2="400" y2="1418" stroke-width="2.4" /><line x1="386" y1="1424" x2="394" y2="1424" stroke-width="2.4" /></g>
+<g stroke="#000" stroke-width="2.4"><line x1="810" y1="1400" x2="810" y2="1412" stroke-width="2.4" /><line x1="794" y1="1412" x2="826" y2="1412" stroke-width="2.4" /><line x1="800" y1="1418" x2="820" y2="1418" stroke-width="2.4" /><line x1="806" y1="1424" x2="814" y2="1424" stroke-width="2.4" /></g>
+<g stroke="#000" stroke-width="2.4"><line x1="910" y1="1400" x2="910" y2="1412" stroke-width="2.4" /><line x1="894" y1="1412" x2="926" y2="1412" stroke-width="2.4" /><line x1="900" y1="1418" x2="920" y2="1418" stroke-width="2.4" /><line x1="906" y1="1424" x2="914" y2="1424" stroke-width="2.4" /></g>
+<g stroke="#000" stroke-width="2.4"><line x1="620" y1="1410" x2="620" y2="1422" stroke-width="2.4" /><line x1="604" y1="1422" x2="636" y2="1422" stroke-width="2.4" /><line x1="610" y1="1428" x2="630" y2="1428" stroke-width="2.4" /><line x1="616" y1="1434" x2="624" y2="1434" stroke-width="2.4" /></g>
+<line stroke="#000" x1="1200" y1="1255" x2="1200" y2="1239" stroke-width="2.4" />
+<line stroke="#000" x1="1183" y1="1239" x2="1217" y2="1239" stroke-width="3" />
+<text x="1200" y="1231" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" fill="#000">VBAT</text>
+<text x="2146" y="1390" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#1F4D3A">LED_K</text>
+<g stroke="#000" stroke-width="2.4"><line x1="2560" y1="1520" x2="2560" y2="1532" stroke-width="2.4" /><line x1="2544" y1="1532" x2="2576" y2="1532" stroke-width="2.4" /><line x1="2550" y1="1538" x2="2570" y2="1538" stroke-width="2.4" /><line x1="2556" y1="1544" x2="2564" y2="1544" stroke-width="2.4" /></g>
+<g stroke="#000" stroke-width="2.4"><line x1="2478" y1="1620" x2="2478" y2="1632" stroke-width="2.4" /><line x1="2462" y1="1632" x2="2494" y2="1632" stroke-width="2.4" /><line x1="2468" y1="1638" x2="2488" y2="1638" stroke-width="2.4" /><line x1="2474" y1="1644" x2="2482" y2="1644" stroke-width="2.4" /></g>
+<path d="M2380,1480 L2370,1465 L2224.65,1465 L2224.65,1495 L2370,1495 Z" fill="#FFFFFF" stroke="#000" stroke-width="1.8"/>
+<text x="2295.32" y="1486.5" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="normal" fill="#000">LED_STROBE</text>
+<line stroke="#000" x1="2800" y1="1300" x2="2800" y2="1284" stroke-width="2.4" />
+<line stroke="#000" x1="2783" y1="1284" x2="2817" y2="1284" stroke-width="3" />
+<text x="2800" y="1276" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" fill="#000">VBAT</text>
+<g stroke="#000" stroke-width="2.4"><line x1="2880" y1="1380" x2="2880" y2="1392" stroke-width="2.4" /><line x1="2864" y1="1392" x2="2896" y2="1392" stroke-width="2.4" /><line x1="2870" y1="1398" x2="2890" y2="1398" stroke-width="2.4" /><line x1="2876" y1="1404" x2="2884" y2="1404" stroke-width="2.4" /></g>
+<path d="M3251,1601 L3269,1619 M3251,1619 L3269,1601" stroke="#000" stroke-width="2.2" fill="none"/>
+<g stroke="#000" stroke-width="2.4"><line x1="3490" y1="1380" x2="3490" y2="1392" stroke-width="2.4" /><line x1="3474" y1="1392" x2="3506" y2="1392" stroke-width="2.4" /><line x1="3480" y1="1398" x2="3500" y2="1398" stroke-width="2.4" /><line x1="3486" y1="1404" x2="3494" y2="1404" stroke-width="2.4" /></g>
+<g stroke="#000" stroke-width="2.4"><line x1="3610" y1="1690" x2="3610" y2="1702" stroke-width="2.4" /><line x1="3594" y1="1702" x2="3626" y2="1702" stroke-width="2.4" /><line x1="3600" y1="1708" x2="3620" y2="1708" stroke-width="2.4" /><line x1="3606" y1="1714" x2="3614" y2="1714" stroke-width="2.4" /></g>
+<path d="M3720,1584 L3736,1612 L3704,1612 Z" fill="#FFE8E0" stroke="#C0392B" stroke-width="2"/>
+<text x="3720" y="1608" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" fill="#C0392B">3</text>
+<line stroke="#000" x1="3680" y1="1300" x2="3680" y2="1284" stroke-width="2.4" />
+<line stroke="#000" x1="3663" y1="1284" x2="3697" y2="1284" stroke-width="3" />
+<text x="3680" y="1276" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" fill="#000">V12</text>
+<g stroke="#000" stroke-width="2.4"><line x1="2900" y1="1690" x2="2900" y2="1702" stroke-width="2.4" /><line x1="2884" y1="1702" x2="2916" y2="1702" stroke-width="2.4" /><line x1="2890" y1="1708" x2="2910" y2="1708" stroke-width="2.4" /><line x1="2896" y1="1714" x2="2904" y2="1714" stroke-width="2.4" /></g>
+<path d="M2840,1570 L2830,1555 L2717.35,1555 L2717.35,1585 L2830,1585 Z" fill="#FFFFFF" stroke="#000" stroke-width="1.8"/>
+<text x="2771.67" y="1576.5" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="normal" fill="#000">SIREN_EN</text>
+<g stroke="#000" stroke-width="2.4"><line x1="3120" y1="1670" x2="3120" y2="1682" stroke-width="2.4" /><line x1="3104" y1="1682" x2="3136" y2="1682" stroke-width="2.4" /><line x1="3110" y1="1688" x2="3130" y2="1688" stroke-width="2.4" /><line x1="3116" y1="1694" x2="3124" y2="1694" stroke-width="2.4" /></g>
+<g stroke="#000" stroke-width="2.4"><line x1="3770" y1="1860" x2="3770" y2="1872" stroke-width="2.4" /><line x1="3754" y1="1872" x2="3786" y2="1872" stroke-width="2.4" /><line x1="3760" y1="1878" x2="3780" y2="1878" stroke-width="2.4" /><line x1="3766" y1="1884" x2="3774" y2="1884" stroke-width="2.4" /></g>
+<path d="M3580,1820 L3570,1805 L3457.35,1805 L3457.35,1835 L3570,1835 Z" fill="#FFFFFF" stroke="#000" stroke-width="1.8"/>
+<text x="3511.67" y="1826.5" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle" font-weight="normal" fill="#000">SIREN_EN</text>
+<path d="M3880,1874 L3896,1902 L3864,1902 Z" fill="#FFE8E0" stroke="#C0392B" stroke-width="2"/>
+<text x="3880" y="1898" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle" font-weight="bold" fill="#C0392B">4</text>
+<text x="3778" y="1666" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#1F4D3A">SIREN_N</text>
+<text x="3206" y="1290" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#1F4D3A">SW_BST</text>
+<text x="3436" y="1560" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="start" font-weight="bold" fill="#1F4D3A">FB</text>
+</svg>

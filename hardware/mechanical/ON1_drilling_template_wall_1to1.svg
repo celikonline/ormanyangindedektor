@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520mm" height="230mm" viewBox="0 0 520 230" font-family="Arial, Helvetica, sans-serif"><rect width="520" height="230" fill="#fff"/><path d="M19.67,34.00 h480.66 v166.00 h-480.66 Z" fill="none" stroke="#000" stroke-width="0.5" stroke-linejoin="round"/>
+<line x1="19.67" y1="34.00" x2="19.67" y2="200.00" stroke="#000" stroke-width="0.25" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="19.67" y="206.00" font-family="Arial, Helvetica, sans-serif" font-size="3.5" text-anchor="middle" font-weight="normal" fill="#000">-180°</text>
+<text x="19.67" y="31.00" font-family="Arial, Helvetica, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#555">-240,3</text>
+<line x1="59.72" y1="34.00" x2="59.72" y2="200.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<text x="59.72" y="206.00" font-family="Arial, Helvetica, sans-serif" font-size="3.5" text-anchor="middle" font-weight="normal" fill="#000">-150°</text>
+<text x="59.72" y="31.00" font-family="Arial, Helvetica, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#555">-200,3</text>
+<line x1="99.78" y1="34.00" x2="99.78" y2="200.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<text x="99.78" y="206.00" font-family="Arial, Helvetica, sans-serif" font-size="3.5" text-anchor="middle" font-weight="normal" fill="#000">-120°</text>
+<text x="99.78" y="31.00" font-family="Arial, Helvetica, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#555">-160,2</text>
+<line x1="139.83" y1="34.00" x2="139.83" y2="200.00" stroke="#000" stroke-width="0.25" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="139.83" y="206.00" font-family="Arial, Helvetica, sans-serif" font-size="3.5" text-anchor="middle" font-weight="normal" fill="#000">-90°</text>
+<text x="139.83" y="31.00" font-family="Arial, Helvetica, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#555">-120,2</text>
+<line x1="179.89" y1="34.00" x2="179.89" y2="200.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<text x="179.89" y="206.00" font-family="Arial, Helvetica, sans-serif" font-size="3.5" text-anchor="middle" font-weight="normal" fill="#000">-60°</text>
+<text x="179.89" y="31.00" font-family="Arial, Helvetica, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#555">-80,1</text>
+<line x1="219.94" y1="34.00" x2="219.94" y2="200.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<text x="219.94" y="206.00" font-family="Arial, Helvetica, sans-serif" font-size="3.5" text-anchor="middle" font-weight="normal" fill="#000">-30°</text>
+<text x="219.94" y="31.00" font-family="Arial, Helvetica, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#555">-40,1</text>
+<line x1="260.00" y1="34.00" x2="260.00" y2="200.00" stroke="#000" stroke-width="0.25" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="260.00" y="206.00" font-family="Arial, Helvetica, sans-serif" font-size="3.5" text-anchor="middle" font-weight="normal" fill="#000">0°</text>
+<text x="260.00" y="31.00" font-family="Arial, Helvetica, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#555">+0,0</text>
+<line x1="300.06" y1="34.00" x2="300.06" y2="200.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<text x="300.06" y="206.00" font-family="Arial, Helvetica, sans-serif" font-size="3.5" text-anchor="middle" font-weight="normal" fill="#000">30°</text>
+<text x="300.06" y="31.00" font-family="Arial, Helvetica, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#555">+40,1</text>
+<line x1="340.11" y1="34.00" x2="340.11" y2="200.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<text x="340.11" y="206.00" font-family="Arial, Helvetica, sans-serif" font-size="3.5" text-anchor="middle" font-weight="normal" fill="#000">60°</text>
+<text x="340.11" y="31.00" font-family="Arial, Helvetica, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#555">+80,1</text>
+<line x1="380.17" y1="34.00" x2="380.17" y2="200.00" stroke="#000" stroke-width="0.25" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="380.17" y="206.00" font-family="Arial, Helvetica, sans-serif" font-size="3.5" text-anchor="middle" font-weight="normal" fill="#000">90°</text>
+<text x="380.17" y="31.00" font-family="Arial, Helvetica, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#555">+120,2</text>
+<line x1="420.22" y1="34.00" x2="420.22" y2="200.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<text x="420.22" y="206.00" font-family="Arial, Helvetica, sans-serif" font-size="3.5" text-anchor="middle" font-weight="normal" fill="#000">120°</text>
+<text x="420.22" y="31.00" font-family="Arial, Helvetica, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#555">+160,2</text>
+<line x1="460.28" y1="34.00" x2="460.28" y2="200.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<text x="460.28" y="206.00" font-family="Arial, Helvetica, sans-serif" font-size="3.5" text-anchor="middle" font-weight="normal" fill="#000">150°</text>
+<text x="460.28" y="31.00" font-family="Arial, Helvetica, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#555">+200,3</text>
+<line x1="500.33" y1="34.00" x2="500.33" y2="200.00" stroke="#000" stroke-width="0.25" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="500.33" y="206.00" font-family="Arial, Helvetica, sans-serif" font-size="3.5" text-anchor="middle" font-weight="normal" fill="#000">180°</text>
+<text x="500.33" y="31.00" font-family="Arial, Helvetica, sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#555">+240,3</text>
+<line x1="17.67" y1="200.00" x2="19.67" y2="200.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="17.67" y1="138.00" x2="19.67" y2="138.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="17.67" y1="75.00" x2="19.67" y2="75.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="17.67" y1="50.00" x2="19.67" y2="50.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<line x1="17.67" y1="34.00" x2="19.67" y2="34.00" stroke="#000" stroke-width="0.25" stroke-linecap="round"/>
+<text x="260.00" y="25.00" font-family="Arial, Helvetica, sans-serif" font-size="4.5" text-anchor="middle" font-weight="bold" fill="#1F4D3A">ÖN</text>
+<text x="380.17" y="25.00" font-family="Arial, Helvetica, sans-serif" font-size="4.5" text-anchor="middle" font-weight="bold" fill="#1F4D3A">SAĞ</text>
+<text x="139.83" y="25.00" font-family="Arial, Helvetica, sans-serif" font-size="4.5" text-anchor="middle" font-weight="bold" fill="#1F4D3A">SOL</text>
+<text x="500.33" y="25.00" font-family="Arial, Helvetica, sans-serif" font-size="4.5" text-anchor="middle" font-weight="bold" fill="#1F4D3A">ARKA</text>
+<text x="19.67" y="25.00" font-family="Arial, Helvetica, sans-serif" font-size="4.5" text-anchor="middle" font-weight="bold" fill="#1F4D3A">ARKA</text>
+<circle cx="260.00" cy="75.00" r="15.00" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="242.00" y1="75.00" x2="278.00" y2="75.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="260.00" y1="57.00" x2="260.00" y2="93.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="276.50" y="59.00" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="bold" fill="#000">H1 Ø30</text>
+<circle cx="302.73" cy="75.00" r="6.10" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="293.63" y1="75.00" x2="311.83" y2="75.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="302.73" y1="65.90" x2="302.73" y2="84.10" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="310.33" y="67.90" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="bold" fill="#000">H2 Ø12,2</text>
+<circle cx="217.27" cy="75.00" r="1.60" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="212.27" y1="75.00" x2="222.27" y2="75.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="217.27" y1="70.00" x2="217.27" y2="80.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="220.37" y="72.40" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="bold" fill="#000">H3 Ø3,2</text>
+<circle cx="260.00" cy="138.00" r="21.00" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="236.00" y1="138.00" x2="284.00" y2="138.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="260.00" y1="114.00" x2="260.00" y2="162.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="282.50" y="116.00" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="bold" fill="#000">H4 Ø42</text>
+<circle cx="284.97" cy="138.00" r="1.60" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="279.97" y1="138.00" x2="289.97" y2="138.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="284.97" y1="133.00" x2="284.97" y2="143.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="288.07" y="135.40" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="bold" fill="#000">H5 Ø3,2</text>
+<circle cx="235.03" cy="138.00" r="1.60" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="230.03" y1="138.00" x2="240.03" y2="138.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="235.03" y1="133.00" x2="235.03" y2="143.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="238.13" y="135.40" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="bold" fill="#000">H5 Ø3,2</text>
+<circle cx="280.03" cy="53.00" r="1.60" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="275.03" y1="53.00" x2="285.03" y2="53.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="280.03" y1="48.00" x2="280.03" y2="58.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="283.13" y="50.40" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="bold" fill="#000">H6 Ø3,2</text>
+<circle cx="239.97" cy="53.00" r="1.60" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="234.97" y1="53.00" x2="244.97" y2="53.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="239.97" y1="48.00" x2="239.97" y2="58.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="243.07" y="50.40" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="bold" fill="#000">H6 Ø3,2</text>
+<circle cx="500.33" cy="140.00" r="2.75" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="494.58" y1="140.00" x2="506.08" y2="140.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="500.33" y1="134.25" x2="500.33" y2="145.75" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="504.58" y="136.25" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="bold" fill="#000">H7 Ø5,5</text>
+<circle cx="500.33" cy="70.00" r="2.75" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="494.58" y1="70.00" x2="506.08" y2="70.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="500.33" y1="64.25" x2="500.33" y2="75.75" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="504.58" y="66.25" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="bold" fill="#000">H7 Ø5,5</text>
+<circle cx="70.40" cy="50.00" r="3.25" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="64.15" y1="50.00" x2="76.65" y2="50.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="70.40" y1="43.75" x2="70.40" y2="56.25" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="75.15" y="45.75" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="bold" fill="#000">H8 Ø6,5</text>
+<circle cx="449.60" cy="50.00" r="6.25" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="440.35" y1="50.00" x2="458.85" y2="50.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="449.60" y1="40.75" x2="449.60" y2="59.25" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="457.35" y="42.75" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="bold" fill="#000">H9 Ø12,5</text>
+<circle cx="251.00" cy="42.00" r="1.60" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="246.00" y1="42.00" x2="256.00" y2="42.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="251.00" y1="37.00" x2="251.00" y2="47.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="254.10" y="39.40" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="bold" fill="#000">H10 Ø3,2</text>
+<circle cx="269.00" cy="42.00" r="1.60" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="264.00" y1="42.00" x2="274.00" y2="42.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="269.00" y1="37.00" x2="269.00" y2="47.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="272.10" y="39.40" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="bold" fill="#000">H10 Ø3,2</text>
+<circle cx="411.22" cy="42.00" r="1.60" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="406.22" y1="42.00" x2="416.22" y2="42.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="411.22" y1="37.00" x2="411.22" y2="47.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="414.32" y="39.40" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="bold" fill="#000">H10 Ø3,2</text>
+<circle cx="429.22" cy="42.00" r="1.60" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="424.22" y1="42.00" x2="434.22" y2="42.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="429.22" y1="37.00" x2="429.22" y2="47.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="432.32" y="39.40" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="bold" fill="#000">H10 Ø3,2</text>
+<circle cx="90.78" cy="42.00" r="1.60" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="85.78" y1="42.00" x2="95.78" y2="42.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="90.78" y1="37.00" x2="90.78" y2="47.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="93.88" y="39.40" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="bold" fill="#000">H10 Ø3,2</text>
+<circle cx="108.78" cy="42.00" r="1.60" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="103.78" y1="42.00" x2="113.78" y2="42.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<line x1="108.78" y1="37.00" x2="108.78" y2="47.00" stroke="#000" stroke-width="0.18" stroke-dasharray="7,1.4,1,1.4" stroke-linecap="round"/>
+<text x="111.88" y="39.40" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="bold" fill="#000">H10 Ø3,2</text>
+<text x="10.00" y="12.00" font-family="Arial, Helvetica, sans-serif" font-size="6" text-anchor="start" font-weight="bold" fill="#000">Orman Nöbetçisi ON-1 — Gövde yan yüzey delme şablonu (1:1)</text>
+<text x="10.00" y="19.00" font-family="Arial, Helvetica, sans-serif" font-size="3.5" text-anchor="start" font-weight="normal" fill="#000">%100 ölçekle yazdırın. Şablonu ÖN (0°) çizgisi termal pencere ekseni olacak şekilde gövdeye sarın; alt kenar = gövde tabanı. Çevre 480,7 mm.</text>
+<path d="M10.00,214.00 h100.00 v4.00 h-100.00 Z" fill="#000" stroke="#000" stroke-width="0.4" stroke-linejoin="round"/>
+<text x="10.00" y="224.00" font-family="Arial, Helvetica, sans-serif" font-size="3.2" text-anchor="start" font-weight="normal" fill="#000">Kontrol: bu çubuk tam 100 mm olmalı</text>
+<text x="130.00" y="218.00" font-family="Arial, Helvetica, sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">H1 Ø30 pencere • H2 Ø12,2 M12 vent • H3 Ø3,2 ışık borusu • H4 Ø42 siren • H5 Ø3,2 siren flanşı • H6 Ø3,2 siperlik • H7 Ø5,5 L braket • H8 Ø6,5 SMA • H9 Ø12,5 PG7 • H10 Ø3,2 klips perçini</text></svg>

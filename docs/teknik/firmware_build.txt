@@ -1,0 +1,6 @@
+arduino-cli 1.5.1 · core arduino:avr 1.8.8 · FQBN arduino:avr:pro:cpu=8MHzatmega328 · --warnings all
+Üretim (DEBUG 0): Flash 27 040 / 30 720 B (%88)  ·  Global RAM 733 / 2 048 B (%35)  — NTC şarj koruması (Δ1) dahil
+Hata ayıklama (DEBUG 1): Flash 28 390 B (%92)  ·  RAM 911 B (%44)
+Proje kodunda derleyici uyarısı: 0 (yalnızca çekirdeğin new.cpp dosyasında uyarı var)
+Harici kütüphane: yok (AMG8833/BME680/TWI için ~2 KB doğrudan sürücüler; Adafruit kütüphaneleri 14,6 KB ile sığmıyordu)
+Birim testleri: Node.js portu 388/388 geçti; C++ testi (test/test_logic.cpp) avr-g++ ile derleniyor, yerel g++ olmadığından çalıştırılmadı
